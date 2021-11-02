@@ -1,0 +1,4074 @@
+[
+    {
+        "code": "5",
+        "name": "BELANJA"
+    },
+    {
+        "code": "5.1",
+        "name": "BELANJA OPERASI"
+    },
+    {
+        "code": "5.1.1",
+        "name": "Belanja Pegawai"
+    },
+    {
+        "code": "5.1.1.01",
+        "name": "Belanja Gaji dan Tunjangan"
+    },
+    {
+        "code": "5.1.1.01.01",
+        "name": "Gaji Pokok PNS/ Uang Representasi"
+    },
+    {
+        "code": "5.1.1.01.02",
+        "name": "Tunjangan Keluarga"
+    },
+    {
+        "code": "5.1.1.01.03",
+        "name": "Tunjangan Jabatan"
+    },
+    {
+        "code": "5.1.1.01.04",
+        "name": "Tunjangan Fungsional"
+    },
+    {
+        "code": "5.1.1.01.05",
+        "name": "Tunjangan Fungsional Umum"
+    },
+    {
+        "code": "5.1.1.01.06",
+        "name": "Tunjangan Beras"
+    },
+    {
+        "code": "5.1.1.01.07",
+        "name": "Tunjangan PPh/Tunjangan Khusus"
+    },
+    {
+        "code": "5.1.1.01.08",
+        "name": "Pembulatan Gaji"
+    },
+    {
+        "code": "5.1.1.01.09",
+        "name": "Iuran Jaminan Kesehatan"
+    },
+    {
+        "code": "5.1.1.01.10",
+        "name": "Uang Paket"
+    },
+    {
+        "code": "5.1.1.01.11",
+        "name": "Tunjangan Badan Musyawarah"
+    },
+    {
+        "code": "5.1.1.01.12",
+        "name": "Tunjangan Komisi"
+    },
+    {
+        "code": "5.1.1.01.13",
+        "name": "Tunjangan Badan Anggaran"
+    },
+    {
+        "code": "5.1.1.01.14",
+        "name": "Tunjangan Badan Kehormatan"
+    },
+    {
+        "code": "5.1.1.01.15",
+        "name": "Tunjangan Alat Kelengkapan Lainnya"
+    },
+    {
+        "code": "5.1.1.01.16",
+        "name": "Tunjangan Perumahan"
+    },
+    {
+        "code": "5.1.1.01.17",
+        "name": "Uang Duka Wafat/Tewas"
+    },
+    {
+        "code": "5.1.1.01.18",
+        "name": "Uang Jasa Pengabdian"
+    },
+    {
+        "code": "5.1.1.01.19",
+        "name": "Belanja Penunjang Operasional Pimpinan DPRD"
+    },
+    {
+        "code": "5.1.1.01.20",
+        "name": "Tunjangan Kesehatan DPRD"
+    },
+    {
+        "code": "5.1.1.01.21",
+        "name": "Dst ..................."
+    },
+    {
+        "code": "5.1.1.02",
+        "name": "Belanja Tambahan Penghasilan PNS"
+    },
+    {
+        "code": "5.1.1.02.01",
+        "name": "Tambahan Penghasilan berdasarkan beban kerja"
+    },
+    {
+        "code": "5.1.1.02.02",
+        "name": "Tambahan Penghasilan berdasarkan tempat bertugas"
+    },
+    {
+        "code": "5.1.1.02.03",
+        "name": "Tambahan Penghasilan berdasarkan kondisi kerja"
+    },
+    {
+        "code": "5.1.1.02.04",
+        "name": "Tambahan Penghasilan berdasarkan kelangkaan profesi"
+    },
+    {
+        "code": "5.1.1.02.05",
+        "name": "Dst ..................."
+    },
+    {
+        "code": "5.1.1.03",
+        "name": "Belanja Penerimaan lainnya Pimpinan dan anggota DPRD serta KDH/WKDH"
+    },
+    {
+        "code": "5.1.1.03.01",
+        "name": "Tunjangan Komunikasi Intensif Pimpinan dan Anggota DPRD"
+    },
+    {
+        "code": "5.1.1.03.02",
+        "name": "Belanja Penunjang Operasional KDH/WKDH"
+    },
+    {
+        "code": "5.1.1.03.03",
+        "name": "Dst ..............."
+    },
+    {
+        "code": "5.1.1.04",
+        "name": "Biaya Pemungutan Pajak Bumi dan Bangunan"
+    },
+    {
+        "code": "5.1.1.04.01",
+        "name": "Biaya Pemungutan Pajak Bumi dan Bangunan Pertambangan"
+    },
+    {
+        "code": "5.1.1.04.02",
+        "name": "Biaya Pemungutan Pajak Bumi dan Bangunan Perkebunan"
+    },
+    {
+        "code": "5.1.1.04.03",
+        "name": "Biaya Pemungutan Pajak Bumi dan Bangunan Perhutanan"
+    },
+    {
+        "code": "5.1.1.05",
+        "name": "Insentif Pemungutan Pajak Daerah"
+    },
+    {
+        "code": "5.1.1.05.01",
+        "name": "Insentif Pemungutan Pajak Daerah - Pajak Kendaraan Bermotor - LRA"
+    },
+    {
+        "code": "5.1.1.05.02",
+        "name": "Insentif Pemungutan Pajak Daerah - Bea Balik Nama Kendaraan Bermotor - LRA"
+    },
+    {
+        "code": "5.1.1.05.03",
+        "name": "Insentif Pemungutan Pajak Daerah - Pajak Bahan Bakar Kendaraan Bermotor - LRA"
+    },
+    {
+        "code": "5.1.1.05.04",
+        "name": "Insentif Pemungutan Pajak Daerah - Pajak Air Permukaan - LRA"
+    },
+    {
+        "code": "5.1.1.05.05",
+        "name": "Insentif Pemungutan Pajak Daerah - Pajak Rokok - LRA"
+    },
+    {
+        "code": "5.1.1.05.06",
+        "name": "Insentif Pemungutan Pajak Daerah - Pajak Hotel - LRA"
+    },
+    {
+        "code": "5.1.1.05.07",
+        "name": "Insentif Pemungutan Pajak Daerah - Pajak Restoran - LRA"
+    },
+    {
+        "code": "5.1.1.05.08",
+        "name": "Insentif Pemungutan Pajak Daerah - Pajak Hiburan - LRA"
+    },
+    {
+        "code": "5.1.1.05.09",
+        "name": "Insentif Pemungutan Pajak Daerah - Pajak Reklame - LRA"
+    },
+    {
+        "code": "5.1.1.05.10",
+        "name": "Insentif Pemungutan Pajak Daerah - Pajak Penerangan Jalan - LRA"
+    },
+    {
+        "code": "5.1.1.05.11",
+        "name": "Insentif Pemungutan Pajak Daerah - Pajak Parkir - LRA"
+    },
+    {
+        "code": "5.1.1.05.12",
+        "name": "Insentif Pemungutan Pajak Daerah - Pajak Air Tanah - LRA"
+    },
+    {
+        "code": "5.1.1.05.13",
+        "name": "Insentif Pemungutan Pajak Daerah - Pajak Sarang Burung Walet - LRA"
+    },
+    {
+        "code": "5.1.1.05.14",
+        "name": "Insentif Pemungutan Pajak Daerah - Pajak Mineral Bukan Logam dan Batuan - LRA"
+    },
+    {
+        "code": "5.1.1.05.15",
+        "name": "Insentif Pemungutan Pajak Daerah - Pajak Bumi dan Bangunan Pedesaan dan Perkotaan - LRA"
+    },
+    {
+        "code": "5.1.1.05.16",
+        "name": "Insentif Pemungutan Pajak Daerah - Bea Perolehan Hak Atas Tanah dan Bangunan - LRA"
+    },
+    {
+        "code": "5.1.1.06",
+        "name": "Insentif Pemungutan Retribusi Daerah"
+    },
+    {
+        "code": "5.1.1.06.01",
+        "name": "Insentif Pemungutan Retribusi Daerah - Pelayanan Kesehatan - LRA"
+    },
+    {
+        "code": "5.1.1.06.02",
+        "name": "Insentif Pemungutan Retribusi Daerah - Pelayanan Persampahan/ Kebersihan - LRA"
+    },
+    {
+        "code": "5.1.1.06.03",
+        "name": "Insentif Pemungutan Retribusi Daerah - Penggantian Biaya Cetak Kartu Tanda Penduduk dan Akta Catatan Sipil - LRA"
+    },
+    {
+        "code": "5.1.1.06.04",
+        "name": "Insentif Pemungutan Retribusi Daerah - Pelayanan Pemakaman dan Pengabuan Mayat - LRA"
+    },
+    {
+        "code": "5.1.1.06.05",
+        "name": "Insentif Pemungutan Retribusi Daerah - Pelayanan Parkir di Tepi Jalan Umum - LRA"
+    },
+    {
+        "code": "5.1.1.06.06",
+        "name": "Insentif Pemungutan Retribusi Daerah - Pelayanan Pasar - LRA"
+    },
+    {
+        "code": "5.1.1.06.07",
+        "name": "Insentif Pemungutan Retribusi Daerah - Pengujian Kendaraan Bermotor - LRA"
+    },
+    {
+        "code": "5.1.1.06.08",
+        "name": "Insentif Pemungutan Retribusi Daerah - Pemeriksaan Alat Pemadam Kebakaran - LRA"
+    },
+    {
+        "code": "5.1.1.06.09",
+        "name": "Insentif Pemungutan Retribusi Daerah - Penggantian Biaya Cetak Peta - LRA"
+    },
+    {
+        "code": "5.1.1.06.10",
+        "name": "Insentif Pemungutan Retribusi Daerah - Penyediaan dan/atau Penyedotan Kakus - LRA"
+    },
+    {
+        "code": "5.1.1.06.11",
+        "name": "Insentif Pemungutan Retribusi Daerah - Pengolahan Limbah Cair - LRA"
+    },
+    {
+        "code": "5.1.1.06.12",
+        "name": "Insentif Pemungutan Retribusi Daerah - Pelayanan Tera/Tera Ulang - LRA"
+    },
+    {
+        "code": "5.1.1.06.13",
+        "name": "Insentif Pemungutan Retribusi Daerah - Pelayanan Pendidikan - LRA"
+    },
+    {
+        "code": "5.1.1.06.14",
+        "name": "Insentif Pemungutan Retribusi Daerah - Pengendalian Menara Telekomunikasi - LRA"
+    },
+    {
+        "code": "5.1.1.06.15",
+        "name": "Insentif Pemungutan Retribusi Daerah - Pemakaian Kekayaan Daerah - LRA"
+    },
+    {
+        "code": "5.1.1.06.16",
+        "name": "Insentif Pemungutan Retribusi Daerah - Pasar Grosir dan/ atau Pertokoan - LRA"
+    },
+    {
+        "code": "5.1.1.06.17",
+        "name": "Insentif Pemungutan Retribusi Daerah - Tempat Pelelangan - LRA"
+    },
+    {
+        "code": "5.1.1.06.18",
+        "name": "Insentif Pemungutan Retribusi Daerah - Terminal - LRA"
+    },
+    {
+        "code": "5.1.1.06.19",
+        "name": "Insentif Pemungutan Retribusi Daerah - Tempat Khusus Parkir - LRA"
+    },
+    {
+        "code": "5.1.1.06.20",
+        "name": "Insentif Pemungutan Retribusi Daerah - Tempat Penginapan/ Pesanggrahan/ Villa - LRA"
+    },
+    {
+        "code": "5.1.1.06.21",
+        "name": "Insentif Pemungutan Retribusi Daerah - Rumah Potong Hewan - LRA"
+    },
+    {
+        "code": "5.1.1.06.22",
+        "name": "Insentif Pemungutan Retribusi Daerah - Pelayanan Kepelabuhan - LRA"
+    },
+    {
+        "code": "5.1.1.06.23",
+        "name": "Insentif Pemungutan Retribusi Daerah - Tempat Rekreasi dan Olah raga- LRA"
+    },
+    {
+        "code": "5.1.1.06.24",
+        "name": "Insentif Pemungutan Retribusi Daerah - Penyeberangan Air - LRA"
+    },
+    {
+        "code": "5.1.1.06.25",
+        "name": "Insentif Pemungutan Retribusi Daerah - Penjualan Produksi Usaha Daerah - LRA"
+    },
+    {
+        "code": "5.1.1.06.26",
+        "name": "Insentif Pemungutan Retribusi Daerah - Izin Mendirikan Bangunan - LRA"
+    },
+    {
+        "code": "5.1.1.06.27",
+        "name": "Insentif Pemungutan Retribusi Daerah - Izin Tempat Penjualan Minuman Beralkohol - LRA"
+    },
+    {
+        "code": "5.1.1.06.28",
+        "name": "Insentif Pemungutan Retribusi Daerah - Izin Gangguan - LRA"
+    },
+    {
+        "code": "5.1.1.06.29",
+        "name": "Insentif Pemungutan Retribusi Daerah - Izin Trayek - LRA"
+    },
+    {
+        "code": "5.1.1.06.30",
+        "name": "Insentif Pemungutan Retribusi Daerah - Izin Perikanan - LRA"
+    },
+    {
+        "code": "5.1.1.06.31",
+        "name": "Insentif Pemungutan Retribusi Daerah - Pengendalian Lalu Lintas - LRA"
+    },
+    {
+        "code": "5.1.1.06.32",
+        "name": "Insentif Pemungutan Retribusi Daerah - Perpanjangan Izin Mempekerjakan Tenaga Kerja Asing (IMTA) - LRA"
+    },
+    {
+        "code": "5.1.1.07",
+        "name": "Uang Lembur"
+    },
+    {
+        "code": "5.1.1.07.01",
+        "name": "Uang Lembur PNS"
+    },
+    {
+        "code": "5.1.1.07.02",
+        "name": "Uang Lembur Non PNS"
+    },
+    {
+        "code": "5.1.2",
+        "name": "Belanja Barang dan Jasa"
+    },
+    {
+        "code": "5.1.2.01",
+        "name": "Belanja Bahan Pakai Habis"
+    },
+    {
+        "code": "5.1.2.01.01",
+        "name": "Belanja alat tulis kantor"
+    },
+    {
+        "code": "5.1.2.01.02",
+        "name": "Belanja dokumen/administrasi tender"
+    },
+    {
+        "code": "5.1.2.01.03",
+        "name": "Belanja alat listrik dan elektronik ( lampu pijar, battery kering)"
+    },
+    {
+        "code": "5.1.2.01.04",
+        "name": "Belanja perangko, materai dan benda pos lainnya"
+    },
+    {
+        "code": "5.1.2.01.05",
+        "name": "Belanja peralatan kebersihan dan bahan pembersih"
+    },
+    {
+        "code": "5.1.2.01.06",
+        "name": "Belanja Bahan Bakar Minyak/Gas"
+    },
+    {
+        "code": "5.1.2.01.07",
+        "name": "Belanja pengisian tabung pemadam kebakaran"
+    },
+    {
+        "code": "5.1.2.01.08",
+        "name": "Belanja pengisian tabung gas"
+    },
+    {
+        "code": "5.1.2.01.09",
+        "name": "Dst…………………………………"
+    },
+    {
+        "code": "5.1.2.02",
+        "name": "Belanja Bahan/Material"
+    },
+    {
+        "code": "5.1.2.02.01",
+        "name": "Belanja bahan baku bangunan"
+    },
+    {
+        "code": "5.1.2.02.02",
+        "name": "Belanja bahan/bibit tanaman"
+    },
+    {
+        "code": "5.1.2.02.03",
+        "name": "Belanja bibit ternak"
+    },
+    {
+        "code": "5.1.2.02.04",
+        "name": "Belanja bahan obat-obatan"
+    },
+    {
+        "code": "5.1.2.02.05",
+        "name": "Belanja bahan kimia"
+    },
+    {
+        "code": "5.1.2.02.06",
+        "name": "Belanja Persediaan Makanan Pokok"
+    },
+    {
+        "code": "5.1.2.02.07",
+        "name": "Dst…………………………………"
+    },
+    {
+        "code": "5.1.2.03",
+        "name": "Belanja Jasa Kantor"
+    },
+    {
+        "code": "5.1.2.03.01",
+        "name": "Belanja telepon"
+    },
+    {
+        "code": "5.1.2.03.02",
+        "name": "Belanja air"
+    },
+    {
+        "code": "5.1.2.03.03",
+        "name": "Belanja listrik"
+    },
+    {
+        "code": "5.1.2.03.04",
+        "name": "Belanja Jasa pengumuman lelang/ pemenang lelang"
+    },
+    {
+        "code": "5.1.2.03.05",
+        "name": "Belanja surat kabar/majalah"
+    },
+    {
+        "code": "5.1.2.03.06",
+        "name": "Belanja kawat/faksimili/internet"
+    },
+    {
+        "code": "5.1.2.03.07",
+        "name": "Belanja paket/pengiriman"
+    },
+    {
+        "code": "5.1.2.03.08",
+        "name": "Belanja Sertifikasi"
+    },
+    {
+        "code": "5.1.2.03.09",
+        "name": "Belanja Jasa Transaksi Keuangan"
+    },
+    {
+        "code": "5.1.2.03.10",
+        "name": "Belanja jasa administrasi pungutan Pajak Penerangan Jalan Umum"
+    },
+    {
+        "code": "5.1.2.03.11",
+        "name": "Belanja jasa administrasi pungutan Pajak Bahan Bakar Kendaraan Bermotor"
+    },
+    {
+        "code": "5.1.2.03.12",
+        "name": "Dst…………………………………"
+    },
+    {
+        "code": "5.1.2.04",
+        "name": "Belanja Premi Asuransi"
+    },
+    {
+        "code": "5.1.2.04.01",
+        "name": "Belanja Premi Asuransi Kesehatan"
+    },
+    {
+        "code": "5.1.2.04.02",
+        "name": "Belanja Premi Asuransi Barang Milik Daerah"
+    },
+    {
+        "code": "5.1.2.04.03",
+        "name": "Dst…………………………………"
+    },
+    {
+        "code": "5.1.2.05",
+        "name": "Belanja Perawatan Kendaraan Bermotor"
+    },
+    {
+        "code": "5.1.2.05.01",
+        "name": "Belanja Jasa Service"
+    },
+    {
+        "code": "5.1.2.05.02",
+        "name": "Belanja Penggantian Suku Cadang"
+    },
+    {
+        "code": "5.1.2.05.03",
+        "name": "Belanja Bahan Bakar Minyak/Gas dan pelumas"
+    },
+    {
+        "code": "5.1.2.05.04",
+        "name": "Belanja Jasa KIR"
+    },
+    {
+        "code": "5.1.2.05.05",
+        "name": "Belanja Pajak Kendaraan Bermotor"
+    },
+    {
+        "code": "5.1.2.05.06",
+        "name": "Belanja Bea Balik Nama Kendaraan Bermotor"
+    },
+    {
+        "code": "5.1.2.06",
+        "name": "Belanja Cetak dan Penggandaan"
+    },
+    {
+        "code": "5.1.2.06.01",
+        "name": "Belanja cetak"
+    },
+    {
+        "code": "5.1.2.06.02",
+        "name": "Belanja Penggandaan"
+    },
+    {
+        "code": "5.1.2.07",
+        "name": "Belanja Sewa Rumah/Gedung/Gudang/Parkir"
+    },
+    {
+        "code": "5.1.2.07.01",
+        "name": "Belanja sewa rumah jabatan/rumah dinas"
+    },
+    {
+        "code": "5.1.2.07.02",
+        "name": "Belanja sewa gedung/ kantor/tempat"
+    },
+    {
+        "code": "5.1.2.07.03",
+        "name": "Belanja sewa ruang rapat/pertemuan"
+    },
+    {
+        "code": "5.1.2.07.04",
+        "name": "Belanja sewa tempat parkir/uang tambat/hanggar sarana mobilitas"
+    },
+    {
+        "code": "5.1.2.07.05",
+        "name": "Dst…………………………………"
+    },
+    {
+        "code": "5.1.2.08",
+        "name": "Belanja Sewa Sarana Mobilitas"
+    },
+    {
+        "code": "5.1.2.08.01",
+        "name": "Belanja sewa Sarana Mobilitas Darat"
+    },
+    {
+        "code": "5.1.2.08.02",
+        "name": "Belanja sewa Sarana Mobilitas Air"
+    },
+    {
+        "code": "5.1.2.08.03",
+        "name": "Belanja sewa Sarana Mobilitas Udara"
+    },
+    {
+        "code": "5.1.2.08.04",
+        "name": "Dst …"
+    },
+    {
+        "code": "5.1.2.09",
+        "name": "Belanja Sewa Alat Berat"
+    },
+    {
+        "code": "5.1.2.09.01",
+        "name": "Belanja sewa Eskavator"
+    },
+    {
+        "code": "5.1.2.09.02",
+        "name": "Belanja sewa Buldoser"
+    },
+    {
+        "code": "5.1.2.09.03",
+        "name": "Dst …"
+    },
+    {
+        "code": "5.1.2.10",
+        "name": "Belanja Sewa Perlengkapan dan Peralatan Kantor"
+    },
+    {
+        "code": "5.1.2.10.01",
+        "name": "Belanja sewa meja kursi"
+    },
+    {
+        "code": "5.1.2.10.02",
+        "name": "Belanja sewa komputer dan printer"
+    },
+    {
+        "code": "5.1.2.10.03",
+        "name": "Belanja sewa proyektor"
+    },
+    {
+        "code": "5.1.2.10.04",
+        "name": "Belanja sewa generator"
+    },
+    {
+        "code": "5.1.2.10.05",
+        "name": "Belanja sewa tenda"
+    },
+    {
+        "code": "5.1.2.10.06",
+        "name": "Belanja sewa pakaian adat/tradisional"
+    },
+    {
+        "code": "5.1.2.10.07",
+        "name": "Dst…………………………………"
+    },
+    {
+        "code": "5.1.2.11",
+        "name": "Belanja Makanan dan Minuman"
+    },
+    {
+        "code": "5.1.2.11.01",
+        "name": "Belanja makanan dan minuman harian pegawai"
+    },
+    {
+        "code": "5.1.2.11.02",
+        "name": "Belanja makanan dan minuman rapat"
+    },
+    {
+        "code": "5.1.2.11.03",
+        "name": "Belanja makanan dan minuman tamu"
+    },
+    {
+        "code": "5.1.2.11.04",
+        "name": "Belanja makanan dan minuman pelatihan"
+    },
+    {
+        "code": "5.1.2.11.05",
+        "name": "Dst…………………………………"
+    },
+    {
+        "code": "5.1.2.12",
+        "name": "Belanja Pakaian Dinas dan Atributnya"
+    },
+    {
+        "code": "5.1.2.12.01",
+        "name": "Belanja pakaian Dinas KDH dan WKDH"
+    },
+    {
+        "code": "5.1.2.12.02",
+        "name": "Belanja Pakaian Sipil Harian (PSH)"
+    },
+    {
+        "code": "5.1.2.12.03",
+        "name": "Belanja Pakaian Sipil Lengkap (PSL)"
+    },
+    {
+        "code": "5.1.2.12.04",
+        "name": "Belanja Pakaian Dinas Harian (PDH)"
+    },
+    {
+        "code": "5.1.2.12.05",
+        "name": "Belanja Pakaian Dinas Upacara (PDU)"
+    },
+    {
+        "code": "5.1.2.12.06",
+        "name": "Dst…………………………………"
+    },
+    {
+        "code": "5.1.2.13",
+        "name": "Belanja Pakaian Kerja"
+    },
+    {
+        "code": "5.1.2.13.01",
+        "name": "Belanja pakaian kerja lapangan"
+    },
+    {
+        "code": "5.1.2.13.02",
+        "name": "Dst…………………………………"
+    },
+    {
+        "code": "5.1.2.14",
+        "name": "Belanja Pakaian khusus dan hari-hari tertentu"
+    },
+    {
+        "code": "5.1.2.14.01",
+        "name": "Belanja pakaian KORPRI"
+    },
+    {
+        "code": "5.1.2.14.02",
+        "name": "Belanja pakaian adat daerah"
+    },
+    {
+        "code": "5.1.2.14.03",
+        "name": "Belanja pakaian batik tradisional"
+    },
+    {
+        "code": "5.1.2.14.04",
+        "name": "Belanja pakaian olahraga"
+    },
+    {
+        "code": "5.1.2.14.05",
+        "name": "Dst…………………….."
+    },
+    {
+        "code": "5.1.2.15",
+        "name": "Belanja Perjalanan Dinas"
+    },
+    {
+        "code": "5.1.2.15.01",
+        "name": "Belanja perjalanan dinas dalam daerah"
+    },
+    {
+        "code": "5.1.2.15.02",
+        "name": "Belanja perjalanan dinas luar daerah"
+    },
+    {
+        "code": "5.1.2.15.03",
+        "name": "Belanja perjalanan dinas luar negeri"
+    },
+    {
+        "code": "5.1.2.16",
+        "name": "Belanja Perjalanan Pindah Tugas"
+    },
+    {
+        "code": "5.1.2.16.01",
+        "name": "Belanja perjalanan pindah tugas dalam daerah"
+    },
+    {
+        "code": "5.1.2.16.02",
+        "name": "Belanja perjalanan pindah tugas luar daerah"
+    },
+    {
+        "code": "5.1.2.17",
+        "name": "Belanja Pemulangan Pegawai"
+    },
+    {
+        "code": "5.1.2.17.01",
+        "name": "Belanja pemulangan pegawai yang pensiun dalam daerah"
+    },
+    {
+        "code": "5.1.2.17.02",
+        "name": "Belanja pemulangan pegawai yang pensiun luar daerah"
+    },
+    {
+        "code": "5.1.2.18",
+        "name": "Belanja Pemeliharaan"
+    },
+    {
+        "code": "5.1.2.18.01",
+        "name": "Belanja Pemeliharan Tanah"
+    },
+    {
+        "code": "5.1.2.18.02",
+        "name": "Belanja Pemeliharan Peralatan dan Mesin"
+    },
+    {
+        "code": "5.1.2.18.03",
+        "name": "Belanja Pemeliharan Gedung dan Bangunan"
+    },
+    {
+        "code": "5.1.2.18.04",
+        "name": "Belanja Pemeliharan Jalan, Irigasi, dan Jaringan"
+    },
+    {
+        "code": "5.1.2.18.05",
+        "name": "Belanja Pemeliharan Aset Tetap Lainnya"
+    },
+    {
+        "code": "5.1.2.18.06",
+        "name": "Dst…………………………………"
+    },
+    {
+        "code": "5.1.2.19",
+        "name": "Belanja Jasa Konsultansi"
+    },
+    {
+        "code": "5.1.2.19.01",
+        "name": "Belanja Jasa Konsultansi Penelitian"
+    },
+    {
+        "code": "5.1.2.19.02",
+        "name": "Belanja Jasa Konsultansi Perencanaan"
+    },
+    {
+        "code": "5.1.2.19.03",
+        "name": "Belanja Jasa Konsultansi Pengawasan"
+    },
+    {
+        "code": "5.1.2.19.04",
+        "name": "Dst…………………………………"
+    },
+    {
+        "code": "5.1.2.20",
+        "name": "Belanja Barang Untuk Diserahkan kepada Masyarakat/Pihak Ketiga"
+    },
+    {
+        "code": "5.1.2.20.01",
+        "name": "Belanja Barang Yang Akan Diserahkan Kepada Masyarakat"
+    },
+    {
+        "code": "5.1.2.20.02",
+        "name": "Belanja Barang Yang Akan Diserahkan Kepada Pihak Ketiga"
+    },
+    {
+        "code": "5.1.2.21",
+        "name": "Belanja Barang Untuk Dijual kepada Masyarakat/Pihak Ketiga"
+    },
+    {
+        "code": "5.1.2.21.01",
+        "name": "Belanja Barang Yang Akan Dijual Kepada Masyarakat"
+    },
+    {
+        "code": "5.1.2.21.02",
+        "name": "Belanja Barang Yang Akan Dijual Kepada Pihak Ketiga"
+    },
+    {
+        "code": "5.1.2.22",
+        "name": "Belanja Beasiswa Pendidikan PNS"
+    },
+    {
+        "code": "5.1.2.22.01",
+        "name": "Belanja beasiswa tugas belajar D3"
+    },
+    {
+        "code": "5.1.2.22.02",
+        "name": "Belanja beasiswa tugas belajar S1"
+    },
+    {
+        "code": "5.1.2.22.03",
+        "name": "Belanja beasiswa tugas belajar S2"
+    },
+    {
+        "code": "5.1.2.22.04",
+        "name": "Belanja beasiswa tugas belajar S3"
+    },
+    {
+        "code": "5.1.2.22.05",
+        "name": "Dst ………………………."
+    },
+    {
+        "code": "5.1.2.23",
+        "name": "Belanja kursus, pelatihan, sosialisasi dan bimbingan teknis PNS"
+    },
+    {
+        "code": "5.1.2.23.01",
+        "name": "Belanja kursus-kursus singkat/ pelatihan"
+    },
+    {
+        "code": "5.1.2.23.02",
+        "name": "Belanja sosialisasi"
+    },
+    {
+        "code": "5.1.2.23.03",
+        "name": "Belanja bimbingan teknis"
+    },
+    {
+        "code": "5.1.2.23.04",
+        "name": "Dst…………………………………"
+    },
+    {
+        "code": "5.1.2.24",
+        "name": "Belanja Honorarium Non Pegawai"
+    },
+    {
+        "code": "5.1.2.24.01",
+        "name": "Honorarium Tenaga Ahli/Narasumber/Instruktur"
+    },
+    {
+        "code": "5.1.2.24.02",
+        "name": "Moderator"
+    },
+    {
+        "code": "5.1.2.24.03",
+        "name": "Dst………….."
+    },
+    {
+        "code": "5.1.2.25",
+        "name": "Honorarium PNS"
+    },
+    {
+        "code": "5.1.2.25.01",
+        "name": "Honorarium Panitia Pelaksana Kegiatan"
+    },
+    {
+        "code": "5.1.2.25.02",
+        "name": "Honorarium Tim Pengadaan Barang dan Jasa"
+    },
+    {
+        "code": "5.1.2.25.03",
+        "name": "Honorarium Tenaga Ahli/Instruktur/Narasumber"
+    },
+    {
+        "code": "5.1.2.25.04",
+        "name": "Dst ..............."
+    },
+    {
+        "code": "5.1.2.26",
+        "name": "Honorarium Non PNS"
+    },
+    {
+        "code": "5.1.2.26.01",
+        "name": "Honorarium Tenaga Ahli/Instruktur/Narasumber"
+    },
+    {
+        "code": "5.1.2.26.02",
+        "name": "Honorarium Pegawai Honorer/Tidak Tetap"
+    },
+    {
+        "code": "5.1.2.26.03",
+        "name": "Dst…………………………………"
+    },
+    {
+        "code": "5.1.2.27",
+        "name": "Uang untuk diberikan kepada Pihak Ketiga/Masyarakat"
+    },
+    {
+        "code": "5.1.2.27.01",
+        "name": "Uang untuk diberikan kepada Pihak Ketiga"
+    },
+    {
+        "code": "5.1.2.27.02",
+        "name": "Uang untuk diberikan kepada Masyarakat"
+    },
+    {
+        "code": "5.1.2.27.03",
+        "name": "Dst…………………………………"
+    },
+    {
+        "code": "5.1.3",
+        "name": "Belanja Bunga"
+    },
+    {
+        "code": "5.1.3.01",
+        "name": "Bunga Utang Pinjaman"
+    },
+    {
+        "code": "5.1.3.01.01",
+        "name": "Bunga Utang Pinjaman kepada Pemerintah"
+    },
+    {
+        "code": "5.1.3.01.02",
+        "name": "Bunga Utang Pinjaman kepada Pemerintah Daerah lainnya"
+    },
+    {
+        "code": "5.1.3.01.03",
+        "name": "Bunga Utang Pinjaman kepada Lembaga Keuangan Bank"
+    },
+    {
+        "code": "5.1.3.01.04",
+        "name": "Bunga Utang Pinjaman kepada Lembaga Keuangan Bukan Bank"
+    },
+    {
+        "code": "5.1.3.01.05",
+        "name": "Bunga Utang Pinjaman Lainnya"
+    },
+    {
+        "code": "5.1.3.02",
+        "name": "Bunga Utang Obligasi"
+    },
+    {
+        "code": "5.1.3.02.01",
+        "name": "Bunga Utang Obligasi"
+    },
+    {
+        "code": "5.1.4",
+        "name": "Belanja Subsidi"
+    },
+    {
+        "code": "5.1.4.01",
+        "name": "Belanja Subsidi"
+    },
+    {
+        "code": "5.1.4.01.01",
+        "name": "Belanja Subsidi kepada BUMN"
+    },
+    {
+        "code": "5.1.4.01.02",
+        "name": "Belanja Subsidi kepada BUMD"
+    },
+    {
+        "code": "5.1.4.01.03",
+        "name": "Belanja Subsidi kepada Pihak Ketiga Lainnya"
+    },
+    {
+        "code": "5.1.5",
+        "name": "Belanja Hibah"
+    },
+    {
+        "code": "5.1.5.01",
+        "name": "Belanja Hibah kepada Pemerintah"
+    },
+    {
+        "code": "5.1.5.01.01",
+        "name": "Belanja Hibah kepada Pemerintah"
+    },
+    {
+        "code": "5.1.5.02",
+        "name": "Belanja Hibah kepada Pemerintah Daerah lainnya"
+    },
+    {
+        "code": "5.1.5.02.01",
+        "name": "Hibah kepada Pemerintah Provinsi"
+    },
+    {
+        "code": "5.1.5.02.02",
+        "name": "Hibah kepada Pemerintah Kabupaten"
+    },
+    {
+        "code": "5.1.5.02.03",
+        "name": "Hibah kepada Pemerintah Kota"
+    },
+    {
+        "code": "5.1.5.03",
+        "name": "Belanja Hibah kepada Perusahaan Daerah/BUMD"
+    },
+    {
+        "code": "5.1.5.03.01",
+        "name": "Belanja Hibah kepada Perusahaan Daerah/BUMD ......."
+    },
+    {
+        "code": "5.1.5.03.02",
+        "name": "Dst........."
+    },
+    {
+        "code": "5.1.5.04",
+        "name": "Belanja Hibah kepada Kelompok Masyarakat"
+    },
+    {
+        "code": "5.1.5.04.01",
+        "name": "Belanja Hibah kepada Kelompok Masyarakat ........."
+    },
+    {
+        "code": "5.1.5.04.02",
+        "name": "Dst …"
+    },
+    {
+        "code": "5.1.5.05",
+        "name": "Belanja Hibah kepada Organisasi Kemasyarakatan"
+    },
+    {
+        "code": "5.1.5.05.01",
+        "name": "Belanja Hibah kepada Organisasi Kemasyarakatan ........"
+    },
+    {
+        "code": "5.1.5.05.02",
+        "name": "Dst …"
+    },
+    {
+        "code": "5.1.5.06",
+        "name": "Belanja Hibah Dana BOS untuk Satuan Pendidikan Dasar ***"
+    },
+    {
+        "code": "5.1.5.06.01",
+        "name": "Belanja Hibah Dana BOS ke Satuan Pendidikan Dasar di Kabupaten/Kota ..........."
+    },
+    {
+        "code": "5.1.5.06.02",
+        "name": "Dst…………………………………"
+    },
+    {
+        "code": "5.1.6",
+        "name": "Belanja Bantuan Sosial"
+    },
+    {
+        "code": "5.1.6.01",
+        "name": "Belanja Bantuan Sosial kepada Organisasi Sosial Kemasyarakatan"
+    },
+    {
+        "code": "5.1.6.01.01",
+        "name": "Belanja Bantuan Sosial kepada Organisasi Sosial Kemasyarakatan ...."
+    },
+    {
+        "code": "5.1.6.01.02",
+        "name": "Dst.........."
+    },
+    {
+        "code": "5.1.6.02",
+        "name": "Belanja Bantuan Sosial kepada Masyarakat"
+    },
+    {
+        "code": "5.1.6.02.01",
+        "name": "Belanja Bantuan Sosial kepada ……………………"
+    },
+    {
+        "code": "5.1.6.02.02",
+        "name": "Dst…………………………………"
+    },
+    {
+        "code": "5.2",
+        "name": "BELANJA MODAL"
+    },
+    {
+        "code": "5.2.1",
+        "name": "Belanja Modal Tanah"
+    },
+    {
+        "code": "5.2.1.01",
+        "name": "Belanja modal Pengadaan Tanah Perkampungan"
+    },
+    {
+        "code": "5.2.1.01.01",
+        "name": "Belanja modal Pengadaan Tanah Kampung"
+    },
+    {
+        "code": "5.2.1.01.02",
+        "name": "Belanja modal Pengadaan Tanah Emplasmen"
+    },
+    {
+        "code": "5.2.1.01.03",
+        "name": "Belanja modal Pengadaan Tanah Kuburan"
+    },
+    {
+        "code": "5.2.1.01.04",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.1.02",
+        "name": "Belanja modal PengadaanTanah Pertanian"
+    },
+    {
+        "code": "5.2.1.02.01",
+        "name": "Belanja modal Pengadaan Tanah Sawah Satu Tahun Ditanami"
+    },
+    {
+        "code": "5.2.1.02.02",
+        "name": "Belanja modal Pengadaan Tanah Tegalan"
+    },
+    {
+        "code": "5.2.1.02.03",
+        "name": "Belanja modal Pengadaan Tanah Ladang"
+    },
+    {
+        "code": "5.2.1.02.04",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.1.03",
+        "name": "Belanja modal Pengadaan Tanah Perkebunan"
+    },
+    {
+        "code": "5.2.1.03.01",
+        "name": "Belanja modal Pengadaan Tanah Perkebunan ........."
+    },
+    {
+        "code": "5.2.1.03.02",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.1.04",
+        "name": "Belanja modal Pengadaan Kebun Campuran"
+    },
+    {
+        "code": "5.2.1.04.01",
+        "name": "Belanja modal Pengadaan Bidang Tanah Yang Tidak Ada Jaringan Pengairan"
+    },
+    {
+        "code": "5.2.1.04.02",
+        "name": "Belanja modal Pengadaan Tumbuh Liar Bercampur Jenis Lain"
+    },
+    {
+        "code": "5.2.1.04.03",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.1.05",
+        "name": "Belanja modal Pengadaan Hutan"
+    },
+    {
+        "code": "5.2.1.05.01",
+        "name": "Belanja modal Pengadaan Hutan Lebat"
+    },
+    {
+        "code": "5.2.1.05.02",
+        "name": "Belanja modal Pengadaan Hutan Belukar"
+    },
+    {
+        "code": "5.2.1.05.03",
+        "name": "Belanja modal Pengadaan Hutan Tanaman Jenis"
+    },
+    {
+        "code": "5.2.1.05.04",
+        "name": "Belanja modal Pengadaan Hutan Alam Sejenis/Hutan Rawa"
+    },
+    {
+        "code": "5.2.1.05.05",
+        "name": "Belanja modal Pengadaan Hutan Untuk Penggunaan Khusus"
+    },
+    {
+        "code": "5.2.1.05.06",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.1.06",
+        "name": "Belanja modal Pengadaan Kolam Ikan"
+    },
+    {
+        "code": "5.2.1.06.01",
+        "name": "Belanja modal Pengadaan Tambak"
+    },
+    {
+        "code": "5.2.1.06.02",
+        "name": "Belanja modal Pengadaan Air Tawar"
+    },
+    {
+        "code": "5.2.1.06.03",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.1.07",
+        "name": "Belanja modal Pengadaan Tanah Danau/Rawa"
+    },
+    {
+        "code": "5.2.1.07.01",
+        "name": "Belanja modal Pengadaan tanah Rawa"
+    },
+    {
+        "code": "5.2.1.07.02",
+        "name": "Belanja modal Pengadaan tanah Danau"
+    },
+    {
+        "code": "5.2.1.08",
+        "name": "Belanja modal Pengadaan Tanah Tandus/Rusak"
+    },
+    {
+        "code": "5.2.1.08.01",
+        "name": "Belanja modal Pengadaan Tanah Tandus"
+    },
+    {
+        "code": "5.2.1.08.02",
+        "name": "Belanja modal Pengadaan Tanah Rusak"
+    },
+    {
+        "code": "5.2.1.09",
+        "name": "Belanja modal Pengadaan Tanah Alang-alang dan Padang Rumput"
+    },
+    {
+        "code": "5.2.1.09.01",
+        "name": "Belanja modal Pengadaan tanah Alang-alang"
+    },
+    {
+        "code": "5.2.1.09.02",
+        "name": "Belanja modal Pengadaan tanah Padang Rumput"
+    },
+    {
+        "code": "5.2.1.10",
+        "name": "Belanja modal Pengadaan Tanah Pengguna Lain"
+    },
+    {
+        "code": "5.2.1.10.01",
+        "name": "Belanja modal Pengadaan Tanah Pengguna Lain..."
+    },
+    {
+        "code": "5.2.1.10.02",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.1.11",
+        "name": "Belanja modal Pengadaan Tanah Untuk Bangunan Gedung"
+    },
+    {
+        "code": "5.2.1.11.01",
+        "name": "Belanja modal Pengadaan Tanah Bangunan Perumahan/Gedung Tempat Tinggal"
+    },
+    {
+        "code": "5.2.1.11.02",
+        "name": "Belanja modal Pengadaan Tanah Untuk Bangunan Gedung Perdagangan/Perusahaan"
+    },
+    {
+        "code": "5.2.1.11.03",
+        "name": "Belanja modal Pengadaan Tanah Untuk Bangunan Industri"
+    },
+    {
+        "code": "5.2.1.11.04",
+        "name": "Belanja modal Pengadaan Tanah Untuk Bangunan Tempat Kerja/Jasa"
+    },
+    {
+        "code": "5.2.1.11.05",
+        "name": "Belanja modal Pengadaan Tanah Kosong"
+    },
+    {
+        "code": "5.2.1.11.06",
+        "name": "Belanja modal Pengadaan Tanah Peternakan"
+    },
+    {
+        "code": "5.2.1.11.07",
+        "name": "Belanja modal Pengadaan Tanah Bangunan Pengairan"
+    },
+    {
+        "code": "5.2.1.11.08",
+        "name": "Belanja modal Pengadaan Tanah Bangunan Jalan dan Jembatan"
+    },
+    {
+        "code": "5.2.1.11.09",
+        "name": "Belanja modal Pengadaan Tanah Lembiran/Bantaran/Lepe-lepe/Setren dst"
+    },
+    {
+        "code": "5.2.1.11.10",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.1.12",
+        "name": "Belanja modal Pengadaan Tanah Pertambangan"
+    },
+    {
+        "code": "5.2.1.12.01",
+        "name": "Belanja modal Pengadaan Pertambangan ........."
+    },
+    {
+        "code": "5.2.1.12.02",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.1.13",
+        "name": "Belanja modal Pengadaan Tanah Untuk Bangunan Bukan Gedung"
+    },
+    {
+        "code": "5.2.1.13.01",
+        "name": "Belanja modal Pengadaan Tanah Lapangan Olah Raga"
+    },
+    {
+        "code": "5.2.1.13.02",
+        "name": "Belanja modal Pengadaan Tanah Lapangan Parkir"
+    },
+    {
+        "code": "5.2.1.13.03",
+        "name": "Belanja modal Pengadaan Tanah Lapangan Penimbun Barang"
+    },
+    {
+        "code": "5.2.1.13.04",
+        "name": "Belanja modal Pengadaan Tanah Lapangan Pemancar dan Studio Alam"
+    },
+    {
+        "code": "5.2.1.13.05",
+        "name": "Belanja modal Pengadaan Tanah Lapangan Pengujian/Pengolahan"
+    },
+    {
+        "code": "5.2.1.13.06",
+        "name": "Belanja modal Pengadaan Tanah Lapangan Terbang"
+    },
+    {
+        "code": "5.2.1.13.07",
+        "name": "Belanja modal Pengadaan Tanah Untuk Bangunan Jalan"
+    },
+    {
+        "code": "5.2.1.13.08",
+        "name": "Belanja modal Pengadaan Tanah Untuk Bangunan Air"
+    },
+    {
+        "code": "5.2.1.13.09",
+        "name": "Belanja modal Pengadaan Tanah Untuk Bangunan Instalasi"
+    },
+    {
+        "code": "5.2.1.13.10",
+        "name": "Belanja modal Pengadaan Tanah Untuk Bangunan Jaringan"
+    },
+    {
+        "code": "5.2.1.13.11",
+        "name": "Belanja modal Pengadaan Tanah Untuk Bangunan Bersejarah"
+    },
+    {
+        "code": "5.2.1.13.12",
+        "name": "Belanja modal Pengadaan Tanah Untuk Bangunan Gedung Olah Raga"
+    },
+    {
+        "code": "5.2.1.13.13",
+        "name": "Belanja modal Pengadaan Tanah Untuk Bangunan Tempat Ibadah"
+    },
+    {
+        "code": "5.2.1.13.14",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.2",
+        "name": "Belanja Modal Peralatan dan Mesin"
+    },
+    {
+        "code": "5.2.2.01",
+        "name": "Belanja modal Pengadaan Alat-Alat Besar Darat"
+    },
+    {
+        "code": "5.2.2.01.01",
+        "name": "Belanja modal Pengadaan Tractor"
+    },
+    {
+        "code": "5.2.2.01.02",
+        "name": "Belanja modal Pengadaan Grader"
+    },
+    {
+        "code": "5.2.2.01.03",
+        "name": "Belanja modal Pengadaan Excavator"
+    },
+    {
+        "code": "5.2.2.01.04",
+        "name": "Belanja modal Pengadaan Pile Driver"
+    },
+    {
+        "code": "5.2.2.01.05",
+        "name": "Belanja modal Pengadaan Hauler"
+    },
+    {
+        "code": "5.2.2.01.06",
+        "name": "Belanja modal Pengadaan Asphal Equipment"
+    },
+    {
+        "code": "5.2.2.01.07",
+        "name": "Belanja modal Pengadaan Compacting Equipment"
+    },
+    {
+        "code": "5.2.2.01.08",
+        "name": "Belanja modal Pengadaan Aggregate $ Concrete Equipment"
+    },
+    {
+        "code": "5.2.2.01.09",
+        "name": "Belanja modal Pengadaan Loader"
+    },
+    {
+        "code": "5.2.2.01.10",
+        "name": "Belanja modal Pengadaan Alat Pengangkat"
+    },
+    {
+        "code": "5.2.2.01.11",
+        "name": "Belanja modal Pengadaan Mesin Proses"
+    },
+    {
+        "code": "5.2.2.01.12",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.2.02",
+        "name": "Belanja modal Pengadaan Alat-Alat Besar Apung"
+    },
+    {
+        "code": "5.2.2.02.01",
+        "name": "Belanja modal Pengadaan Dredger"
+    },
+    {
+        "code": "5.2.2.02.02",
+        "name": "Belanja modal Pengadaan Floating Excavator"
+    },
+    {
+        "code": "5.2.2.02.03",
+        "name": "Belanja modal Pengadaan Amphibi Dredger"
+    },
+    {
+        "code": "5.2.2.02.04",
+        "name": "Belanja modal Pengadaan Kapal Tarik"
+    },
+    {
+        "code": "5.2.2.02.05",
+        "name": "Belanja modal Pengadaan Mesin Proses Apung"
+    },
+    {
+        "code": "5.2.2.02.06",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.2.03",
+        "name": "Belanja modal Pengadaan Alat-alat Bantu"
+    },
+    {
+        "code": "5.2.2.03.01",
+        "name": "Belanja modal Pengadaan Alat Penarik"
+    },
+    {
+        "code": "5.2.2.03.02",
+        "name": "Belanja modal Pengadaan Feeder"
+    },
+    {
+        "code": "5.2.2.03.03",
+        "name": "Belanja modal Pengadaan Compressor"
+    },
+    {
+        "code": "5.2.2.03.04",
+        "name": "Belanja modal Pengadaan Electric Generating Set"
+    },
+    {
+        "code": "5.2.2.03.05",
+        "name": "Belanja modal Pengadaan Pompa"
+    },
+    {
+        "code": "5.2.2.03.06",
+        "name": "Belanja modal Pengadaan Mesin Bor"
+    },
+    {
+        "code": "5.2.2.03.07",
+        "name": "Belanja modal Pengadaan Unit Pemeliharaan Lapangan"
+    },
+    {
+        "code": "5.2.2.03.08",
+        "name": "Belanja modal Pengadaan Alat Pengolahan Air Kotor"
+    },
+    {
+        "code": "5.2.2.03.09",
+        "name": "Belanja modal Pengadaan Pembangkit Uap Air Panas/Sistem Generator"
+    },
+    {
+        "code": "5.2.2.03.10",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.2.04",
+        "name": "Belanja modal Pengadaan Alat Angkutan Darat Bermotor"
+    },
+    {
+        "code": "5.2.2.04.01",
+        "name": "Belanja modal Pengadaan Kendaraan Dinas Bermotor Perorangan"
+    },
+    {
+        "code": "5.2.2.04.02",
+        "name": "Belanja modal Pengadaan Kendaraan Bermotor Penumpang"
+    },
+    {
+        "code": "5.2.2.04.03",
+        "name": "Belanja modal Pengadaan Kendaraan Bermotor Angkutan Barang"
+    },
+    {
+        "code": "5.2.2.04.04",
+        "name": "Belanja modal Pengadaan Kendaraan Bermotor Khusus"
+    },
+    {
+        "code": "5.2.2.04.05",
+        "name": "Belanja modal Pengadaan Kendaraan Bermotor Beroda Dua"
+    },
+    {
+        "code": "5.2.2.04.06",
+        "name": "Belanja modal Pengadaan Kendaraan Bermotor Beroda Tiga"
+    },
+    {
+        "code": "5.2.2.05",
+        "name": "Belanja modal Pengadaan Alat Angkutan Darat Tak Bermotor"
+    },
+    {
+        "code": "5.2.2.05.01",
+        "name": "Belanja modal Pengadaan Kendaraan Bermotor Angkutan Barang"
+    },
+    {
+        "code": "5.2.2.05.02",
+        "name": "Belanja modal Pengadaan Kendaraan Tak Bermotor Berpenumpang"
+    },
+    {
+        "code": "5.2.2.06",
+        "name": "Belanja modal Pengadaan Alat Angkut Apung Bermotor"
+    },
+    {
+        "code": "5.2.2.06.01",
+        "name": "Belanja modal Pengadaan Alat Angkut Apung Bermotor Barang"
+    },
+    {
+        "code": "5.2.2.06.02",
+        "name": "Belanja modal Pengadaan Alat Angkut Apung Bermotor Penumpang"
+    },
+    {
+        "code": "5.2.2.06.03",
+        "name": "Belanja modal Pengadaan Alat Angkut Apung Bermotor Khusus"
+    },
+    {
+        "code": "5.2.2.07",
+        "name": "Belanja modal Pengadaan Alat Angkut Apung Tak Bermotor"
+    },
+    {
+        "code": "5.2.2.07.01",
+        "name": "Belanja modal Pengadaan Alat Angkut Apung Tak Bermotor Untuk Barang"
+    },
+    {
+        "code": "5.2.2.07.02",
+        "name": "Belanja modal Pengadaan Alat Angkut Apung Tak Bermotor Penumpang"
+    },
+    {
+        "code": "5.2.2.07.03",
+        "name": "Belanja modal Pengadaan Alat Angkut Apung Tak Bermotor Khusus"
+    },
+    {
+        "code": "5.2.2.08",
+        "name": "Belanja modal Pengadaan Alat Angkut Bermotor Udara"
+    },
+    {
+        "code": "5.2.2.08.01",
+        "name": "Belanja modal Pengadaan Pesawat Terbang"
+    },
+    {
+        "code": "5.2.2.08.02",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.2.09",
+        "name": "Belanja modal Pengadaan Alat Bengkel Bermesin"
+    },
+    {
+        "code": "5.2.2.09.01",
+        "name": "Belanja modal Pengadaan Perkakas Konstruksi Logam Terpasang pada Pondasi"
+    },
+    {
+        "code": "5.2.2.09.02",
+        "name": "Belanja modal Pengadaan Perkakas Konstruksi Logam yang Berpindah"
+    },
+    {
+        "code": "5.2.2.09.03",
+        "name": "Belanja modal Pengadaan Perkakas Bengkel Listrik"
+    },
+    {
+        "code": "5.2.2.09.04",
+        "name": "Belanja modal Pengadaan Perkakas Bengkel Service"
+    },
+    {
+        "code": "5.2.2.09.05",
+        "name": "Belanja modal Pengadaan Perkakas Pengangkat Bermesin"
+    },
+    {
+        "code": "5.2.2.09.06",
+        "name": "Belanja modal Pengadaan Perkakas Bengkel Kayu"
+    },
+    {
+        "code": "5.2.2.09.07",
+        "name": "Belanja modal Pengadaan Perkakas Bengkel Khusus"
+    },
+    {
+        "code": "5.2.2.09.08",
+        "name": "Belanja modal Pengadaan Peralatan Las"
+    },
+    {
+        "code": "5.2.2.09.09",
+        "name": "Belanja modal Pengadaan Perkakas Pabrik Es"
+    },
+    {
+        "code": "5.2.2.09.10",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.2.10",
+        "name": "Belanja modal Pengadaan Alat Bengkel Tak Bermesin"
+    },
+    {
+        "code": "5.2.2.10.01",
+        "name": "Belanja modal Pengadaan Perkakas Bengkel Konstruksi Logam"
+    },
+    {
+        "code": "5.2.2.10.02",
+        "name": "Belanja modal Pengadaan Perkakas Bengkel Listrik"
+    },
+    {
+        "code": "5.2.2.10.03",
+        "name": "Belanja modal Pengadaan Perkakas Bengkel Service"
+    },
+    {
+        "code": "5.2.2.10.04",
+        "name": "Belanja modal Pengadaan Perkakas Pengangkat"
+    },
+    {
+        "code": "5.2.2.10.05",
+        "name": "Belanja modal Pengadaan Perkakas Standar (Standart Tool)"
+    },
+    {
+        "code": "5.2.2.10.06",
+        "name": "Belanja modal Pengadaan Perkakas Khusus (Special Tool)"
+    },
+    {
+        "code": "5.2.2.10.07",
+        "name": "Belanja modal Pengadaan Perkakas Bengkel Kerja"
+    },
+    {
+        "code": "5.2.2.10.08",
+        "name": "Belanja modal Pengadaan Peralatan Tukang-tukang Besi"
+    },
+    {
+        "code": "5.2.2.10.09",
+        "name": "Belanja modal Pengadaan Peralatan Tukang Kayu"
+    },
+    {
+        "code": "5.2.2.10.10",
+        "name": "Belanja modal Pengadaan Peralatan Tukang Kulit"
+    },
+    {
+        "code": "5.2.2.10.11",
+        "name": "Belanja modal PengadaanPeralatan Ukur, Gip & Feting"
+    },
+    {
+        "code": "5.2.2.10.12",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.2.11",
+        "name": "Belanja modal Pengadaan Alat Ukur"
+    },
+    {
+        "code": "5.2.2.11.01",
+        "name": "Belanja modal Pengadaan Alat Ukur universal"
+    },
+    {
+        "code": "5.2.2.11.02",
+        "name": "Belanja modal Pengadaan Alat Ukur/Test Intelegensia"
+    },
+    {
+        "code": "5.2.2.11.03",
+        "name": "Belanja modal Pengadaan Alat Ukur/Test Alat Kepribadian"
+    },
+    {
+        "code": "5.2.2.11.04",
+        "name": "Belanja modal Pengadaan Alat Ukur /Test Klinis Lain"
+    },
+    {
+        "code": "5.2.2.11.05",
+        "name": "Belanja modal Pengadaan Alat Calibrasi"
+    },
+    {
+        "code": "5.2.2.11.06",
+        "name": "Belanja modal Pengadaan Oscilloscope"
+    },
+    {
+        "code": "5.2.2.11.07",
+        "name": "Belanja modal Pengadaan Universal Tester"
+    },
+    {
+        "code": "5.2.2.11.08",
+        "name": "Belanja modal Pengadaan Alat Ukur/Pembanding"
+    },
+    {
+        "code": "5.2.2.11.09",
+        "name": "Belanja modal Pengadaan Alat Ukur Lainnya"
+    },
+    {
+        "code": "5.2.2.11.10",
+        "name": "Belanja modal Pengadaan Alat Timbangan/Blora"
+    },
+    {
+        "code": "5.2.2.11.11",
+        "name": "Belanja modal Pengadaan Anak Timbangan/Biasa"
+    },
+    {
+        "code": "5.2.2.11.12",
+        "name": "Belanja modal Pengadaan Takaran Kering"
+    },
+    {
+        "code": "5.2.2.11.13",
+        "name": "Belanja modal Pengadaan Takaran Bahan Bangunan 2 HL"
+    },
+    {
+        "code": "5.2.2.11.14",
+        "name": "Belanja modal Pengadaan Takaran Latex/Getah Susu"
+    },
+    {
+        "code": "5.2.2.11.15",
+        "name": "Belanja modal Pengadaan Gelas Takar Berbagai Capasitas"
+    },
+    {
+        "code": "5.2.2.11.16",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.2.12",
+        "name": "Belanja modal Pengadaan Alat Pengolahan"
+    },
+    {
+        "code": "5.2.2.12.01",
+        "name": "Belanja modal Pengadaan Alat Pengolahan Tanah dan Tanaman"
+    },
+    {
+        "code": "5.2.2.12.02",
+        "name": "Belanja modal pengadaan Alat Panen/Pengolahan"
+    },
+    {
+        "code": "5.2.2.12.03",
+        "name": "Belanja modal Pengadaan Alat-Alat Peternakan"
+    },
+    {
+        "code": "5.2.2.12.04",
+        "name": "Belanja modal Pengadaan Alat Penyimpanan Hasil Percobaan Pertanian"
+    },
+    {
+        "code": "5.2.2.12.05",
+        "name": "Belanja modal Pengadaan Alat Laboratorium Pertanian"
+    },
+    {
+        "code": "5.2.2.12.06",
+        "name": "Belanja modal Pengadaan Alat Procesing"
+    },
+    {
+        "code": "5.2.2.12.07",
+        "name": "Belanja modal Pengadaan Alat Pasca Panen"
+    },
+    {
+        "code": "5.2.2.12.08",
+        "name": "Belanja modal Pengadaan Alat Produksi Perikanan"
+    },
+    {
+        "code": "5.2.2.12.09",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.2.13",
+        "name": "Belanja modal Pengadaan Alat Pemeliharaan Tanaman/Alat Penyimpan"
+    },
+    {
+        "code": "5.2.2.13.01",
+        "name": "Belanja modal Pengadaan Alat Pemeliharaan Tanaman"
+    },
+    {
+        "code": "5.2.2.13.02",
+        "name": "Belanja modal Pengadaan Alat Panen"
+    },
+    {
+        "code": "5.2.2.13.03",
+        "name": "Belanja modal Pengadaan Alat Penyimpanan"
+    },
+    {
+        "code": "5.2.2.13.04",
+        "name": "Belanja modal Pengadaan Alat Laboratorium"
+    },
+    {
+        "code": "5.2.2.13.05",
+        "name": "Belanja modal Pengadaan Alat Penangkap Ikan"
+    },
+    {
+        "code": "5.2.2.13.06",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.2.14",
+        "name": "Belanja modal Pengadaan Alat Kantor"
+    },
+    {
+        "code": "5.2.2.14.01",
+        "name": "Belanja modal Pengadaan Mesin Ketik"
+    },
+    {
+        "code": "5.2.2.14.02",
+        "name": "Belanja modal Pengadaan Mesin Hitung/Jumlah"
+    },
+    {
+        "code": "5.2.2.14.03",
+        "name": "Belanja modal Pengadaan Alat Reproduksi (Pengganda)"
+    },
+    {
+        "code": "5.2.2.14.04",
+        "name": "Belanja modal Pengadaan Alat Penyimpanan Perlengkapan Kantor"
+    },
+    {
+        "code": "5.2.2.14.05",
+        "name": "Belanja modal Pengadaan Alat Kantor Lainnya"
+    },
+    {
+        "code": "5.2.2.14.06",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.2.15",
+        "name": "Belanja modal Pengadaan Alat Rumah Tangga"
+    },
+    {
+        "code": "5.2.2.15.01",
+        "name": "Belanja modal Pengadaan Meubelair"
+    },
+    {
+        "code": "5.2.2.15.02",
+        "name": "Belanja modal Pengadaan Alat Pengukur Waktu"
+    },
+    {
+        "code": "5.2.2.15.03",
+        "name": "Belanja modal Pengadaan Alat Pembersih"
+    },
+    {
+        "code": "5.2.2.15.04",
+        "name": "Belanja modal Pengadaan Alat Pendingin"
+    },
+    {
+        "code": "5.2.2.15.05",
+        "name": "Belanja modal Pengadaan Alat Dapur"
+    },
+    {
+        "code": "5.2.2.15.06",
+        "name": "Belanja modal Pengadaan Alat Rumah Tangga Lainnya (Home Use)"
+    },
+    {
+        "code": "5.2.2.15.07",
+        "name": "Belanja modal Pengadaan Alat Pemadam Kebakaran"
+    },
+    {
+        "code": "5.2.2.15.08",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.2.16",
+        "name": "Belanja modal Pengadaan Komputer"
+    },
+    {
+        "code": "5.2.2.16.01",
+        "name": "Belanja modal Pengadaan Komputer Unit/Jaringan"
+    },
+    {
+        "code": "5.2.2.16.02",
+        "name": "Belanja modal Pengadaan Peralatan Komputer Mainframe"
+    },
+    {
+        "code": "5.2.2.16.03",
+        "name": "Belanja modal Pengadaan Peralatan Mini Komputer"
+    },
+    {
+        "code": "5.2.2.16.04",
+        "name": "Belanja modal Pengadaan Peralatan Personal Komputer"
+    },
+    {
+        "code": "5.2.2.16.05",
+        "name": "Belanja modal Pengadaan Perlatan Jaringan"
+    },
+    {
+        "code": "5.2.2.16.06",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.2.17",
+        "name": "Belanja modal Pengadaan Meja Dan Kursi Kerja/Rapat Pejabat"
+    },
+    {
+        "code": "5.2.2.17.01",
+        "name": "Belanja modal Pengadaan Meja Kerja Pejabat"
+    },
+    {
+        "code": "5.2.2.17.02",
+        "name": "Belanja modal Pengadaan Meja Rapat Pejabat"
+    },
+    {
+        "code": "5.2.2.17.03",
+        "name": "Belanja modal Pengadaan Kursi Kerja Pejabat"
+    },
+    {
+        "code": "5.2.2.17.04",
+        "name": "Belanja modal Pengadaan Kursi Rapat Pejabat"
+    },
+    {
+        "code": "5.2.2.17.05",
+        "name": "Belanja modal Pengadaan Kursi Hadap Depan Meja Kerja Pejabat"
+    },
+    {
+        "code": "5.2.2.17.06",
+        "name": "Belanja modal Pengadaan Kursi Tamu di Ruangan Pejabat"
+    },
+    {
+        "code": "5.2.2.17.07",
+        "name": "Belanja modal Pengadaan Lemari dan Arsip Pejabat"
+    },
+    {
+        "code": "5.2.2.17.08",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.2.18",
+        "name": "Belanja modal Pengadaan Alat Studio"
+    },
+    {
+        "code": "5.2.2.18.01",
+        "name": "Belanja modal Pengadaan Peralatan Studio Visual"
+    },
+    {
+        "code": "5.2.2.18.02",
+        "name": "Belanja modal Pengadaan Peralatan Studio Video dan Film"
+    },
+    {
+        "code": "5.2.2.18.03",
+        "name": "Belanja modal Pengadaan Peralatan Studio Video dan Film A"
+    },
+    {
+        "code": "5.2.2.18.04",
+        "name": "Belanja modal Pengadaan Peralatan Cetak"
+    },
+    {
+        "code": "5.2.2.18.05",
+        "name": "Belanja modal Pengadaan Peralatan Computing"
+    },
+    {
+        "code": "5.2.2.18.06",
+        "name": "Belanja modal Pengadaan Peralatan Pemetaan Ukur"
+    },
+    {
+        "code": "5.2.2.18.07",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.2.19",
+        "name": "Belanja modal Pengadaan Alat Komunikasi"
+    },
+    {
+        "code": "5.2.2.19.01",
+        "name": "Belanja modal Pengadaan Alat Komunikasi Telephone"
+    },
+    {
+        "code": "5.2.2.19.02",
+        "name": "Belanja modal Pengadaan Alat Komunikasi Radio SSB"
+    },
+    {
+        "code": "5.2.2.19.03",
+        "name": "Belanja modal Pengadaan Alat Komunikasi Radio HF/FM"
+    },
+    {
+        "code": "5.2.2.19.04",
+        "name": "Belanja modal Pengadaan Alat Komunikasi Radio VHF"
+    },
+    {
+        "code": "5.2.2.19.05",
+        "name": "Belanja modal Pengadaan Alat Komunikasi Radio UHF"
+    },
+    {
+        "code": "5.2.2.19.06",
+        "name": "Belanja modal Pengadaan Alat Komunikasi Sosial"
+    },
+    {
+        "code": "5.2.2.19.07",
+        "name": "Belanja modal Pengadaan Alat-alat Sandi"
+    },
+    {
+        "code": "5.2.2.19.08",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.2.20",
+        "name": "Belanja modal Pengadaan Peralatan Pemancar"
+    },
+    {
+        "code": "5.2.2.20.01",
+        "name": "Belanja modal Pengadaan Peralatan Pemancar MF/MW"
+    },
+    {
+        "code": "5.2.2.20.02",
+        "name": "Belanja modal pengadaan Peralatan Pemancar HF/SW"
+    },
+    {
+        "code": "5.2.2.20.03",
+        "name": "Belanja modal Pengadaan Peralatan Pemancar VHF/FM"
+    },
+    {
+        "code": "5.2.2.20.04",
+        "name": "Belanja modal Pengadaan Peralatan Pemancar UHF"
+    },
+    {
+        "code": "5.2.2.20.05",
+        "name": "Belanja modal Pengadaan Peralatan Pemancar SHF"
+    },
+    {
+        "code": "5.2.2.20.06",
+        "name": "Belanja modal Pengadaan Peralatan Antena MF/MW"
+    },
+    {
+        "code": "5.2.2.20.07",
+        "name": "Belanja modal Pengadaan Peralatan Antena HF/SW"
+    },
+    {
+        "code": "5.2.2.20.08",
+        "name": "Belanja modal Pengadaan Peralatan Antena VHF/FM"
+    },
+    {
+        "code": "5.2.2.20.09",
+        "name": "Belanja modal Pengadaan Peralatan Antena UHF"
+    },
+    {
+        "code": "5.2.2.20.10",
+        "name": "Belanja modal Pengadaan Peralatan Antena SHF/Parabola"
+    },
+    {
+        "code": "5.2.2.20.11",
+        "name": "Belanja modal Pengadaan Peralatan Translator VHF/VHF"
+    },
+    {
+        "code": "5.2.2.20.12",
+        "name": "Belanja modal Pengadaan Peralatan Translator UHF/UHF"
+    },
+    {
+        "code": "5.2.2.20.13",
+        "name": "Belanja modal Pengadaan Peralatan Translator VHF/UHF"
+    },
+    {
+        "code": "5.2.2.20.14",
+        "name": "Belanja modal Pengadaan Peralatan Translator UHF/VHF"
+    },
+    {
+        "code": "5.2.2.20.15",
+        "name": "Belanja modal Pengadaan Peralatan Microvawe FPU"
+    },
+    {
+        "code": "5.2.2.20.16",
+        "name": "Belanja modal Pengadaan Peralatan Microvawe Terestrial"
+    },
+    {
+        "code": "5.2.2.20.17",
+        "name": "Belanja modal Pengadaan Peralatan Microvawe TVRO"
+    },
+    {
+        "code": "5.2.2.20.18",
+        "name": "Belanja modal Pengadaan Peralatan Dummy Load"
+    },
+    {
+        "code": "5.2.2.20.19",
+        "name": "Belanja modal Pengadaan Switcher Antena"
+    },
+    {
+        "code": "5.2.2.20.20",
+        "name": "Belanja modal Pengadaan Switcher/Menara Antena"
+    },
+    {
+        "code": "5.2.2.20.21",
+        "name": "Belanja modal Pengadaan Feeder"
+    },
+    {
+        "code": "5.2.2.20.22",
+        "name": "Belanja modal Pengadaan Humitity Control"
+    },
+    {
+        "code": "5.2.2.20.23",
+        "name": "Belanja modal Pengadaan Program Input Equipment"
+    },
+    {
+        "code": "5.2.2.20.24",
+        "name": "Belanja modal Pengadaan Peralatan Antena Penerima VHF"
+    },
+    {
+        "code": "5.2.2.20.25",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.2.21",
+        "name": "Belanja modal Pengadaan Alat Kedokteran"
+    },
+    {
+        "code": "5.2.2.21.01",
+        "name": "Belanja modal Pengadaan Alat Kedokteran Umum"
+    },
+    {
+        "code": "5.2.2.21.02",
+        "name": "Belanja modal Pengadaan Alat Kedokteran Gigi"
+    },
+    {
+        "code": "5.2.2.21.03",
+        "name": "Belanja modal Pengadaan Alat Kedokteran Keluarga Berencana"
+    },
+    {
+        "code": "5.2.2.21.04",
+        "name": "Belanja modal Pengadaan Alat Kedokteran Mata"
+    },
+    {
+        "code": "5.2.2.21.05",
+        "name": "Belanja modal Pengadaan Alat Kedokteran T.H.T"
+    },
+    {
+        "code": "5.2.2.21.06",
+        "name": "Belanja modal Pengadaan Alat Rotgen"
+    },
+    {
+        "code": "5.2.2.21.07",
+        "name": "Belanja modal Pengadaan Alat Farmasi"
+    },
+    {
+        "code": "5.2.2.21.08",
+        "name": "Belanja modal Pengadaan Alat Kedokteran Bedah"
+    },
+    {
+        "code": "5.2.2.21.09",
+        "name": "Belanja modal Pengadaan Alat Kesehatan Kebidanan dan Penyakit Kandungan"
+    },
+    {
+        "code": "5.2.2.21.10",
+        "name": "Belanja modal Pengadaan Alat Kedokteran Bagian Penyakit Dalam"
+    },
+    {
+        "code": "5.2.2.21.11",
+        "name": "Belanja modal Pengadaan Mortuary"
+    },
+    {
+        "code": "5.2.2.21.12",
+        "name": "Belanja modal Pengadaan Alat Kesehatan Anak"
+    },
+    {
+        "code": "5.2.2.21.13",
+        "name": "Belanja modal Pengadaan Poliklinik Set"
+    },
+    {
+        "code": "5.2.2.21.14",
+        "name": "Belanja modal Pengadaan Alat Kedokteran Penderita Cacat Tubuh"
+    },
+    {
+        "code": "5.2.2.21.15",
+        "name": "Belanja modal Pengadaan Alat Kedokteran Neurologi (syaraf)"
+    },
+    {
+        "code": "5.2.2.21.16",
+        "name": "Belanja modal Pengadaan Alat Kedokteran Jantung"
+    },
+    {
+        "code": "5.2.2.21.17",
+        "name": "Belanja modal Pengadaan Alat Kedokteran Nuklir"
+    },
+    {
+        "code": "5.2.2.21.18",
+        "name": "Belanja modal Pengadaan Alat Kedokteran Radiologi"
+    },
+    {
+        "code": "5.2.2.21.19",
+        "name": "Belanja modal Pengadaan Alat Kedokteran Kulit dan Kelamin"
+    },
+    {
+        "code": "5.2.2.21.20",
+        "name": "Belanja modal Pengadaan Alat Kedokteran Gawat Darurat"
+    },
+    {
+        "code": "5.2.2.21.21",
+        "name": "Belanja modal Pengadaan Alat Kedokteran Jiwa"
+    },
+    {
+        "code": "5.2.2.21.22",
+        "name": "Belanja modal Pengadaan Alat Kedokteran Hewan"
+    },
+    {
+        "code": "5.2.2.21.23",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.2.22",
+        "name": "Belanja modal Pengadaan Alat Kesehatan"
+    },
+    {
+        "code": "5.2.2.22.01",
+        "name": "Belanja modal Pengadaan Alat Kesehatan Perawatan"
+    },
+    {
+        "code": "5.2.2.22.02",
+        "name": "Belanja modal Pengadaan Alat Kesehatan Rehabilitasi Medis"
+    },
+    {
+        "code": "5.2.2.22.03",
+        "name": "Belanja modal Pengadaan Alat Kesehatan Matra Laut"
+    },
+    {
+        "code": "5.2.2.22.04",
+        "name": "Belanja modal Pengadaan Alat Kesehatan Matra Udara"
+    },
+    {
+        "code": "5.2.2.22.05",
+        "name": "Belanja modal Pengadaan Alat Kesehatan Kedokteran Kepolisian"
+    },
+    {
+        "code": "5.2.2.22.06",
+        "name": "Belanja modal Pengadaan Alat Kesehatan Olahraga"
+    },
+    {
+        "code": "5.2.2.22.07",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.2.23",
+        "name": "Belanja modal Pengadaan Unit-Unit Laboratorium"
+    },
+    {
+        "code": "5.2.2.23.01",
+        "name": "Belanja modal Pengadaan Alat Laboratorium Kimia Air"
+    },
+    {
+        "code": "5.2.2.23.02",
+        "name": "Belanja modal Pengadaan Alat Laboratorium Microbiologi"
+    },
+    {
+        "code": "5.2.2.23.03",
+        "name": "Belanja modal Pengadaan Alat Laboratorium Hidro Kimia"
+    },
+    {
+        "code": "5.2.2.23.04",
+        "name": "Belanja modal Pengadaan Alat Laboratorium Model/Hidrolika"
+    },
+    {
+        "code": "5.2.2.23.05",
+        "name": "Belanja modal Pengadaan Alat laboratorium Buatan/Geologi"
+    },
+    {
+        "code": "5.2.2.23.06",
+        "name": "Belanja modal Pengadaan Alat Laboratorium Bahan Bangunan Konstruksi"
+    },
+    {
+        "code": "5.2.2.23.07",
+        "name": "Belanja modal Pengadaan Alat Laboratorium Aspal Cat & Kimia"
+    },
+    {
+        "code": "5.2.2.23.08",
+        "name": "Belanja modal Pengadaan Alat laboratorium Mekanik Tanah dan Batuan"
+    },
+    {
+        "code": "5.2.2.23.09",
+        "name": "Belanja modal Pengadaan Alat Laboratorium Cocok Tanam"
+    },
+    {
+        "code": "5.2.2.23.10",
+        "name": "Belanja modal Pengadaan Alat Laboratorium Logam, Mesin, Listrik"
+    },
+    {
+        "code": "5.2.2.23.11",
+        "name": "Belanja modal Pengadaan Alat Laboratorium Logam, Mesin Listrik A"
+    },
+    {
+        "code": "5.2.2.23.12",
+        "name": "Belanja modal Pengadaan Alat Laboratorium Umum"
+    },
+    {
+        "code": "5.2.2.23.13",
+        "name": "Belanja modal Pengadaan Alat Laboratorium Umum A"
+    },
+    {
+        "code": "5.2.2.23.14",
+        "name": "Belanja modal Pengadaan Alat Laboratorium Kedokteran"
+    },
+    {
+        "code": "5.2.2.23.15",
+        "name": "Belanja modal Pengadaan Alat Laboratorium Microbiologi"
+    },
+    {
+        "code": "5.2.2.23.16",
+        "name": "Belanja modal Pengadaan Alat Laboratorium Kimia"
+    },
+    {
+        "code": "5.2.2.23.17",
+        "name": "Belanja modal Pengadaan Alat Laboratorium Microbiologi A"
+    },
+    {
+        "code": "5.2.2.23.18",
+        "name": "Belanja modal Pengadaan Alat Laboratorium Patologi"
+    },
+    {
+        "code": "5.2.2.23.19",
+        "name": "Belanja modal Pengadaan Alat Laboratorium Immunologi"
+    },
+    {
+        "code": "5.2.2.23.20",
+        "name": "Belanja modal Pengadaan Alat Laboratorium Hematologi"
+    },
+    {
+        "code": "5.2.2.23.21",
+        "name": "Belanja modal Pengadaan Alat Laboratorium Film"
+    },
+    {
+        "code": "5.2.2.23.22",
+        "name": "Belanja modal Pengadaan Alat Laboratorium Makanan"
+    },
+    {
+        "code": "5.2.2.23.23",
+        "name": "Belanja modal Pengadaan Alat Laboratorium Standarisasi, Kalibrasi dan Instrumentasi"
+    },
+    {
+        "code": "5.2.2.23.24",
+        "name": "Belanja modal Pengadaan Alat Laboratorium Farmasi"
+    },
+    {
+        "code": "5.2.2.23.25",
+        "name": "Belanja modal Pengadaan Alat Laboratorium Fisika"
+    },
+    {
+        "code": "5.2.2.23.26",
+        "name": "Belanja modal Pengadaan Alat Laboratorium Hidrodinamika"
+    },
+    {
+        "code": "5.2.2.23.27",
+        "name": "Belanja modal Pengadaan Alat Laboratorium Klimatologi"
+    },
+    {
+        "code": "5.2.2.23.28",
+        "name": "Belanja modal Pengadaan Alat Laboratorium Proses Peleburan"
+    },
+    {
+        "code": "5.2.2.23.29",
+        "name": "Belanja modal Pengadaan Alat Laboratorium Pasir"
+    },
+    {
+        "code": "5.2.2.23.30",
+        "name": "Belanja modal Pengadaan Alat Laboratorium Proses Pembuatan Cetakan"
+    },
+    {
+        "code": "5.2.2.23.31",
+        "name": "Belanja modal Pengadaan Alat Laboratorium Proses Pembuatan Pola"
+    },
+    {
+        "code": "5.2.2.23.32",
+        "name": "Belanja modal Pengadaan Alat Laboratorium Metalography"
+    },
+    {
+        "code": "5.2.2.23.33",
+        "name": "Belanja modal Pengadaan Alat Laboratorium Proses Pengelasan"
+    },
+    {
+        "code": "5.2.2.23.34",
+        "name": "Belanja modal Pengadaan Alat Laboratorium Uji Proses Pengelasan"
+    },
+    {
+        "code": "5.2.2.23.35",
+        "name": "Belanja modal Pengadaan Alat Laboratorium Proses Pembuatan Logam"
+    },
+    {
+        "code": "5.2.2.23.36",
+        "name": "Belanja modal Pengadaan Alat Laboratorium Matrologie"
+    },
+    {
+        "code": "5.2.2.23.37",
+        "name": "Belanja modal Pengadaan Alat Laboratorium Proses Pelapisan Logam"
+    },
+    {
+        "code": "5.2.2.23.38",
+        "name": "Belanja modal Pengadaan Alat Laboratorium Proses Pengolahan Panas"
+    },
+    {
+        "code": "5.2.2.23.39",
+        "name": "Belanja modal Pengadaan Alat Laboratorium Proses Teknologi Textil"
+    },
+    {
+        "code": "5.2.2.23.40",
+        "name": "Belanja modal Pengadaan Alat Laboratorium Uji Tekstel"
+    },
+    {
+        "code": "5.2.2.23.41",
+        "name": "Belanja modal Pengadaan Alat Laboratorium Proses Teknologi Keramik"
+    },
+    {
+        "code": "5.2.2.23.42",
+        "name": "Belanja modal Pengadaan Alat Laboratorium Proses Teknologi Kulit Karet"
+    },
+    {
+        "code": "5.2.2.23.43",
+        "name": "Belanja modal Pengadaan Alat Laboratorium Uji Kulit, Karet dan Plastik"
+    },
+    {
+        "code": "5.2.2.23.44",
+        "name": "Belanja modal Pengadaan Alat Laboratorium Uji Keramik"
+    },
+    {
+        "code": "5.2.2.23.45",
+        "name": "Belanja modal Pengadaan Alat Laboratorium Proses Teknologi Selulosa"
+    },
+    {
+        "code": "5.2.2.23.46",
+        "name": "Belanja modal Pengadaan Alat Laboratorium Pertanian"
+    },
+    {
+        "code": "5.2.2.23.47",
+        "name": "Belanja modal Pengadaan Alat Laboratorium Pertanian A"
+    },
+    {
+        "code": "5.2.2.23.48",
+        "name": "Belanja modal Pengadaan Alat Laboratorium Pertanian B"
+    },
+    {
+        "code": "5.2.2.23.49",
+        "name": "Belanja modal Pengadaan Alat Laboratorium Elektronika dan Daya"
+    },
+    {
+        "code": "5.2.2.23.50",
+        "name": "Belanja modal Pengadaan Alat Laboratorium Energi Surya"
+    },
+    {
+        "code": "5.2.2.23.51",
+        "name": "Belanja modal Pengadaan Alat Laboratorium Konversi Batubara dan Biomas"
+    },
+    {
+        "code": "5.2.2.23.52",
+        "name": "Belanja modal Pengadaan Alat Laboratorium Oceanografi"
+    },
+    {
+        "code": "5.2.2.23.53",
+        "name": "Belanja modal Pengadaan Alat Laboratorium Lingkungan Perairan"
+    },
+    {
+        "code": "5.2.2.23.54",
+        "name": "Belanja modal Pengadaan Alat Laboratorium Biologi Peralatan"
+    },
+    {
+        "code": "5.2.2.23.55",
+        "name": "Belanja modal Pengadaan Alat Laboratorium Biologi"
+    },
+    {
+        "code": "5.2.2.23.56",
+        "name": "Belanja modal Pengadaan Alat Laboratorium Geofisika"
+    },
+    {
+        "code": "5.2.2.23.57",
+        "name": "Belanja modal Pengadaan Alat Laboratorium Tambang"
+    },
+    {
+        "code": "5.2.2.23.58",
+        "name": "Belanja modal Pengadaan Alat Laboratorium Proses/Teknik Kimia"
+    },
+    {
+        "code": "5.2.2.23.59",
+        "name": "Belanja modal Pengadaan Alat Laboratorium Proses Industri"
+    },
+    {
+        "code": "5.2.2.23.60",
+        "name": "Belanja modal Pengadaan Alat Laboratorium Kesehatan Kerja"
+    },
+    {
+        "code": "5.2.2.23.61",
+        "name": "Belanja modal Pengadaan Laboratorium Kearsipan"
+    },
+    {
+        "code": "5.2.2.23.62",
+        "name": "Belanja modal Pengadaan Laboratorium Hematologi & Urinalisis"
+    },
+    {
+        "code": "5.2.2.23.63",
+        "name": "Belanja modal Pengadaan Laboratorium Hematologi & Urinalisis A"
+    },
+    {
+        "code": "5.2.2.23.64",
+        "name": "Belanja modal Pengadaan Alat Laboratorium Lainnya"
+    },
+    {
+        "code": "5.2.2.23.65",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.2.24",
+        "name": "Belanja modal Pengadaan Alat Peraga/Praktek Sekolah"
+    },
+    {
+        "code": "5.2.2.24.01",
+        "name": "Belanja modal Pengadaan Bidang Studi : Bahasa Indonesia"
+    },
+    {
+        "code": "5.2.2.24.02",
+        "name": "Belanja modal Pengadaan Bidang Studi : Matematika"
+    },
+    {
+        "code": "5.2.2.24.03",
+        "name": "Belanja modal Pengadaan Bidang Studi : IPA Dasar"
+    },
+    {
+        "code": "5.2.2.24.04",
+        "name": "Belanja modal Pengadaan Bidang Studi : IPA Lanjutan"
+    },
+    {
+        "code": "5.2.2.24.05",
+        "name": "Belanja modal Pengadaan Bidang Studi : IPA Menengah"
+    },
+    {
+        "code": "5.2.2.24.06",
+        "name": "Belanja modal Pengadaan Bidang Studi : IPA Atas"
+    },
+    {
+        "code": "5.2.2.24.07",
+        "name": "Belanja modal Pengadaan Bidang Studi : IPS"
+    },
+    {
+        "code": "5.2.2.24.08",
+        "name": "Belanja modal Pengadaan Bidang Studi : Agama Islam"
+    },
+    {
+        "code": "5.2.2.24.09",
+        "name": "Belanja modal Pengadaan Bidang Studi : Ketrampilan"
+    },
+    {
+        "code": "5.2.2.24.10",
+        "name": "Belanja modal Pengadaan Bidang Studi : Kesenian"
+    },
+    {
+        "code": "5.2.2.24.11",
+        "name": "Belanja modal Pengadaan Bidang Studi : Olah Raga"
+    },
+    {
+        "code": "5.2.2.24.12",
+        "name": "Belanja modal Pengadaan Bidang Studi : PMP"
+    },
+    {
+        "code": "5.2.2.24.13",
+        "name": "Belanja modal Pengadaan Alat Peraga/Praktek Sekolah Bidang Pendidikan/Keterampilan Lain-lain"
+    },
+    {
+        "code": "5.2.2.24.14",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.2.25",
+        "name": "Belanja modal Pengadaan Unit Alat Laboratorium Kimia Nuklir"
+    },
+    {
+        "code": "5.2.2.25.01",
+        "name": "Belanja modal Pengadaan Analytical instrument"
+    },
+    {
+        "code": "5.2.2.25.02",
+        "name": "Belanja modal Pengadaan Instrument Probe/Sensor"
+    },
+    {
+        "code": "5.2.2.25.03",
+        "name": "Belanja modal Pengadaan General Laboratory Tool"
+    },
+    {
+        "code": "5.2.2.25.04",
+        "name": "Belanja modal Pengadaan Instrument Probe/Sensor A"
+    },
+    {
+        "code": "5.2.2.25.05",
+        "name": "Belanja modal Pengadaan Glassware Plastic/Utensils"
+    },
+    {
+        "code": "5.2.2.25.06",
+        "name": "Belanja modal Pengadaan Laboratory Safety Equipment"
+    },
+    {
+        "code": "5.2.2.25.07",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.2.26",
+        "name": "Belanja modal Pengadaan Alat Laboratorium Fisika Nuklir / Elektronika"
+    },
+    {
+        "code": "5.2.2.26.01",
+        "name": "Belanja modal Pengadaan Radiation Detector"
+    },
+    {
+        "code": "5.2.2.26.02",
+        "name": "Belanja modal Pengadaan Modular Counting and Scentific"
+    },
+    {
+        "code": "5.2.2.26.03",
+        "name": "Belanja modal Pengadaan Assembly/Accounting System"
+    },
+    {
+        "code": "5.2.2.26.04",
+        "name": "Belanja modal Pengadaan Recorder Display"
+    },
+    {
+        "code": "5.2.2.26.05",
+        "name": "Belanja modal Pengadaan System/Power Supply"
+    },
+    {
+        "code": "5.2.2.26.06",
+        "name": "Belanja modal Pengadaan Measuring / Testing Device"
+    },
+    {
+        "code": "5.2.2.26.07",
+        "name": "Belanja modal Pengadaan Opto Electronics"
+    },
+    {
+        "code": "5.2.2.26.08",
+        "name": "Belanja modal Pengadaan Accelator"
+    },
+    {
+        "code": "5.2.2.26.09",
+        "name": "Belanja modal Pengadaan Reactor Expermental System"
+    },
+    {
+        "code": "5.2.2.26.10",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.2.27",
+        "name": "Belanja modal Pengadaan Alat Proteksi Radiasi / Proteksi Lingkungan"
+    },
+    {
+        "code": "5.2.2.27.01",
+        "name": "Belanja modal Pengadaan Alat Ukur Fisika Kesehatan"
+    },
+    {
+        "code": "5.2.2.27.02",
+        "name": "Belanja modal Pengadaan Alat Kesehatan Kerja"
+    },
+    {
+        "code": "5.2.2.27.03",
+        "name": "Belanja modal Pengadaan Proteksi Lingkungan"
+    },
+    {
+        "code": "5.2.2.27.04",
+        "name": "Belanja modal Pengadaan Meteorological Equipment"
+    },
+    {
+        "code": "5.2.2.27.05",
+        "name": "Belanja modal Pengadaan Sumber Radiasi"
+    },
+    {
+        "code": "5.2.2.27.06",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.2.28",
+        "name": "Belanja modal Pengadaan Radiation Aplication and Non Destructive Testing Laboratory (BATAM)"
+    },
+    {
+        "code": "5.2.2.28.01",
+        "name": "Belanja modal Pengadaan Radiation Application Equipment"
+    },
+    {
+        "code": "5.2.2.28.02",
+        "name": "Belanja modal Pengadaan Non Destructive Test (NDT) Device"
+    },
+    {
+        "code": "5.2.2.28.03",
+        "name": "Belanja modal Pengadaan Peralatan Umum Kedoteran /Klinik Nuklir"
+    },
+    {
+        "code": "5.2.2.28.04",
+        "name": "Belanja modal Pengadaan Peralatan Hidrologi"
+    },
+    {
+        "code": "5.2.2.28.05",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.2.29",
+        "name": "Belanja modal Pengadaan Alat Laboratorium Lingkungan Hidup"
+    },
+    {
+        "code": "5.2.2.29.01",
+        "name": "Belanja modal Pengadaan Alat laboratorium Kualitas Air dan tanah"
+    },
+    {
+        "code": "5.2.2.29.02",
+        "name": "Belanja modal Pengadaan Alat Laboratorium Kualitas Udara"
+    },
+    {
+        "code": "5.2.2.29.03",
+        "name": "Belanja modal Pengadaan Alat Laboratorium Kebisingan dan Getaran"
+    },
+    {
+        "code": "5.2.2.29.04",
+        "name": "Belanja modal Pengadaan Laboratorium Lingkungan"
+    },
+    {
+        "code": "5.2.2.29.05",
+        "name": "Belanja modal Pengadaan Alat Laboratorium Penunjang"
+    },
+    {
+        "code": "5.2.2.29.06",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.2.30",
+        "name": "Belanja modal Pengadaan Peralatan Laboratorium Hidrodinamika"
+    },
+    {
+        "code": "5.2.2.30.01",
+        "name": "Belanja modal Pengadaan Towing Carriage"
+    },
+    {
+        "code": "5.2.2.30.02",
+        "name": "Belanja modal Pengadaan Wave Generator and Absorber"
+    },
+    {
+        "code": "5.2.2.30.03",
+        "name": "Belanja modal Pengadaan Data Accquistion and Analyzing System"
+    },
+    {
+        "code": "5.2.2.30.04",
+        "name": "Belanja modal Pengadaan Cavitation Tunnel"
+    },
+    {
+        "code": "5.2.2.30.05",
+        "name": "Belanja modal Pengadaan Overhead Cranes"
+    },
+    {
+        "code": "5.2.2.30.06",
+        "name": "Belanja modal Pengadaan Peralatan umum"
+    },
+    {
+        "code": "5.2.2.30.07",
+        "name": "Belanja modal Pengadaan Pemesinan : Model Ship Workshop"
+    },
+    {
+        "code": "5.2.2.30.08",
+        "name": "Belanja modal Pengadaan Pemesinan : Propeller Model Workshop"
+    },
+    {
+        "code": "5.2.2.30.09",
+        "name": "Belanja modal Pengadaan Pemesinan : Mechanical Workshop"
+    },
+    {
+        "code": "5.2.2.30.10",
+        "name": "Belanja modal Pengadaan Pemesinan : Precision Mechanical Workshop"
+    },
+    {
+        "code": "5.2.2.30.11",
+        "name": "Belanja modal Pengadaan Pemesinan Painting Shop"
+    },
+    {
+        "code": "5.2.2.30.12",
+        "name": "Belanja modal Pengadaan Pemesinan : Ship Model Preparation Shop"
+    },
+    {
+        "code": "5.2.2.30.13",
+        "name": "Belanja modal Pengadaan Pemesinan : Electrical Workshop"
+    },
+    {
+        "code": "5.2.2.30.14",
+        "name": "Belanja modal Pengadaan MOB"
+    },
+    {
+        "code": "5.2.2.30.15",
+        "name": "Belanja modal Pengadaan Photo and Film Equipment"
+    },
+    {
+        "code": "5.2.2.30.16",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.2.31",
+        "name": "Belanja modal Pengadaan Senjata Api"
+    },
+    {
+        "code": "5.2.2.31.01",
+        "name": "Belanja modal Pengadaan Senjata Genggam"
+    },
+    {
+        "code": "5.2.2.31.02",
+        "name": "Belanja modal Senjata Pinggang"
+    },
+    {
+        "code": "5.2.2.31.03",
+        "name": "Belanja modal Senjata Bahu/Senjata Laras Panjang"
+    },
+    {
+        "code": "5.2.2.31.04",
+        "name": "Belanja modal Senapan Mesin"
+    },
+    {
+        "code": "5.2.2.31.05",
+        "name": "Belanja modal Mortir"
+    },
+    {
+        "code": "5.2.2.31.06",
+        "name": "Belanja modal Anti Lapis Baja"
+    },
+    {
+        "code": "5.2.2.31.07",
+        "name": "Belanja modal Artileri Medan (Armed)"
+    },
+    {
+        "code": "5.2.2.31.08",
+        "name": "Belanja modal Artileri Pertahanan Udara (Arhanud)"
+    },
+    {
+        "code": "5.2.2.31.09",
+        "name": "Belanja modal Peluru Kendali/Rudal"
+    },
+    {
+        "code": "5.2.2.31.10",
+        "name": "Belanja modal Kavaleri"
+    },
+    {
+        "code": "5.2.2.31.11",
+        "name": "Belanja modal Senjata Lain-lain"
+    },
+    {
+        "code": "5.2.2.32",
+        "name": "Belanja modal Pengadaan Persenjataan Non Senjata Api"
+    },
+    {
+        "code": "5.2.2.32.01",
+        "name": "Belanja modal Pengadaan Alat Keamanan"
+    },
+    {
+        "code": "5.2.2.32.02",
+        "name": "Belanja modal Pengadaan Non Senjata Api"
+    },
+    {
+        "code": "5.2.2.33",
+        "name": "Belanja modal Pengadaan Amunisi"
+    },
+    {
+        "code": "5.2.2.33.01",
+        "name": "Belanja modal Pengadaan Amunisi Umum"
+    },
+    {
+        "code": "5.2.2.33.02",
+        "name": "Belanja modal Pengadaan Amunisi Darat"
+    },
+    {
+        "code": "5.2.2.34",
+        "name": "Belanja modal Pengadaan Senjata Sinar"
+    },
+    {
+        "code": "5.2.2.34.01",
+        "name": "Belanja modal Pengadaan Laser"
+    },
+    {
+        "code": "5.2.2.34.02",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.2.35",
+        "name": "Belanja modal Pengadaan Alat Keamanan dan Perlindungan"
+    },
+    {
+        "code": "5.2.2.35.01",
+        "name": "Belanja modal Pengadaan Alat Bantu Keamanan"
+    },
+    {
+        "code": "5.2.2.35.02",
+        "name": "Belanja modal Pengadaan Alat Perlindungan"
+    },
+    {
+        "code": "5.2.2.35.03",
+        "name": "Belanja modal Pengadaan Alat Bantu Lalu Lintas Darat dan Air"
+    },
+    {
+        "code": "5.2.2.35.04",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.3",
+        "name": "Belanja Modal Gedung dan Bangunan"
+    },
+    {
+        "code": "5.2.3.01",
+        "name": "Belanja modal Pengadaan Bangunan Gedung Tempat Kerja"
+    },
+    {
+        "code": "5.2.3.01.01",
+        "name": "Belanja modal Pengadaan Bangunan Gedung Kantor"
+    },
+    {
+        "code": "5.2.3.01.02",
+        "name": "Belanja modal Pengadaan Bangunan Gudang"
+    },
+    {
+        "code": "5.2.3.01.03",
+        "name": "Belanja modal Pengadaan Bangunan Gudang Untuk Bengkel"
+    },
+    {
+        "code": "5.2.3.01.04",
+        "name": "Belanja modal Pengadaan Bangunan Gedung Instalasi"
+    },
+    {
+        "code": "5.2.3.01.05",
+        "name": "Belanja modal Pengadaan Bangunan Gedung Laboratorium"
+    },
+    {
+        "code": "5.2.3.01.06",
+        "name": "Belanja modal Pengadaan Bangunan Kesehatan"
+    },
+    {
+        "code": "5.2.3.01.07",
+        "name": "Belanja modal Pengadaan Bangunan Oceanarium/Opservatorium"
+    },
+    {
+        "code": "5.2.3.01.08",
+        "name": "Belanja modal Pengadaan Bangunan Gedung Tempat Ibadah"
+    },
+    {
+        "code": "5.2.3.01.09",
+        "name": "Belanja modal Pengadaan Bangunan Gedung Tempat Pertemuan"
+    },
+    {
+        "code": "5.2.3.01.10",
+        "name": "Belanja modal Pengadaan Bangunan Gedung Tempat Pendidikan"
+    },
+    {
+        "code": "5.2.3.01.11",
+        "name": "Belanja modal Pengadaan Bangunan Gedung Tempat Olah Raga"
+    },
+    {
+        "code": "5.2.3.01.12",
+        "name": "Belanja modal Pengadaan Bangunan Gedung Pertokoan/Koperasi/Pasar"
+    },
+    {
+        "code": "5.2.3.01.13",
+        "name": "Belanja modal Pengadaan Bangunan Gedung Untuk Pos Jaga"
+    },
+    {
+        "code": "5.2.3.01.14",
+        "name": "Belanja modal Pengadaan Bangunan Gedung Garasi/Pool"
+    },
+    {
+        "code": "5.2.3.01.15",
+        "name": "Belanja modal Pengadaan Bangunan Gedung Pemotongan Hewan"
+    },
+    {
+        "code": "5.2.3.01.16",
+        "name": "Belanja modal Pengadaan Bangunan Gedung Pabrik"
+    },
+    {
+        "code": "5.2.3.01.17",
+        "name": "Belanja modal Pengadaan Bangunan Stasiun Bus"
+    },
+    {
+        "code": "5.2.3.01.18",
+        "name": "Belanja modal Pengadaan Bangunan Kandang Hewan/Ternak"
+    },
+    {
+        "code": "5.2.3.01.19",
+        "name": "Belanja modal Pengadaan Bangunan Gedung Perpustakaan"
+    },
+    {
+        "code": "5.2.3.01.20",
+        "name": "Belanja modal Pengadaan Bangunan Gedung Museum"
+    },
+    {
+        "code": "5.2.3.01.21",
+        "name": "Belanja modal Pengadaan Bangunan Gedung Terminal/Pelabuhan/Bandar"
+    },
+    {
+        "code": "5.2.3.01.22",
+        "name": "Belanja modal Pengadaan Bangunan Pengujian Kelaikan"
+    },
+    {
+        "code": "5.2.3.01.23",
+        "name": "Belanja modal Pengadaan Bangunan Lembaga Pemasyarakatan"
+    },
+    {
+        "code": "5.2.3.01.24",
+        "name": "Belanja modal Pengadaan Bangunan Rumah Tahanan"
+    },
+    {
+        "code": "5.2.3.01.25",
+        "name": "Belanja modal Pengadaan Bangunan Gedung Kramatorium"
+    },
+    {
+        "code": "5.2.3.01.26",
+        "name": "Belanja modal Pengadaan Bangunan Pembakaran Bangkai Hewan"
+    },
+    {
+        "code": "5.2.3.01.27",
+        "name": "Belanja modal Pengadaan Bangunan Gedung Tempat Kerja Lainnya"
+    },
+    {
+        "code": "5.2.3.02",
+        "name": "Belanja modal Pengadaan Bangunan Gedung Tempat Tinggal"
+    },
+    {
+        "code": "5.2.3.02.01",
+        "name": "Belanja modal Pengadaan Bangunan Rumah Negara Golongan I"
+    },
+    {
+        "code": "5.2.3.02.02",
+        "name": "Belanja modal Pengadaan Bangunan Rumah Negara Golongan II"
+    },
+    {
+        "code": "5.2.3.02.03",
+        "name": "Belanja modal Pengadaan Bangunan Rumah Negara Goloongan III"
+    },
+    {
+        "code": "5.2.3.02.04",
+        "name": "Belanja modal Pengadaan Bangunan Mess/Wisma/Bungalow/Tempat Peristirahatan"
+    },
+    {
+        "code": "5.2.3.02.05",
+        "name": "Belanja modal Pengadaan Bangunan Asrama"
+    },
+    {
+        "code": "5.2.3.02.06",
+        "name": "Belanja modal Pengadaan Bangunan Hotel"
+    },
+    {
+        "code": "5.2.3.02.07",
+        "name": "Belanja modal Pengadaan Bangunan Motel"
+    },
+    {
+        "code": "5.2.3.02.08",
+        "name": "Belanja modal Pengadaan Bangunan Flat/Rumah Susun"
+    },
+    {
+        "code": "5.2.3.02.09",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.3.03",
+        "name": "Belanja modal Pengadaan Bangunan Menara"
+    },
+    {
+        "code": "5.2.3.03.01",
+        "name": "Belanja modal Pengadaan Bangunan Menara Perambuan Penerang Pantai"
+    },
+    {
+        "code": "5.2.3.03.02",
+        "name": "Belanja modal Pengadaan Bangunan Perambut Penerangan Pantai Tidak Bermenara"
+    },
+    {
+        "code": "5.2.3.03.03",
+        "name": "Belanja modal Pengadaan Bangunan Menara Telekomunikasi"
+    },
+    {
+        "code": "5.2.3.03.04",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.3.04",
+        "name": "Belanja modal Pengadaan Bangunan Bersejarah"
+    },
+    {
+        "code": "5.2.3.04.01",
+        "name": "Belanja modal Pengadaan Istana Peringatan"
+    },
+    {
+        "code": "5.2.3.04.02",
+        "name": "Belanja modal Pengadaan Rumah Adat"
+    },
+    {
+        "code": "5.2.3.04.03",
+        "name": "Belanja modal Pengadaan Rumah Peningggalan Sejarah"
+    },
+    {
+        "code": "5.2.3.04.04",
+        "name": "Belanja modal Pengadaan Makam Sejarah"
+    },
+    {
+        "code": "5.2.3.04.05",
+        "name": "Belanja modal Pengadaan Bangunan Tempat Ibadah Bersejarah"
+    },
+    {
+        "code": "5.2.3.04.06",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.3.05",
+        "name": "Belanja modal Pengadaan Tugu Peringatan"
+    },
+    {
+        "code": "5.2.3.05.01",
+        "name": "Belanja modal Pengadaan Tugu Kemerdekaan"
+    },
+    {
+        "code": "5.2.3.05.02",
+        "name": "Belanja modal Pengadaan Tugu Pembangunan"
+    },
+    {
+        "code": "5.2.3.05.03",
+        "name": "Belanja modal Pengadaan Tugu Peringatan Lainnya"
+    },
+    {
+        "code": "5.2.3.06",
+        "name": "Belanja modal Pengadaan Candi"
+    },
+    {
+        "code": "5.2.3.06.01",
+        "name": "Belanja modal Pengadaan Candi Hindhu"
+    },
+    {
+        "code": "5.2.3.06.02",
+        "name": "Belanja modal Pengadaan Candi Budha"
+    },
+    {
+        "code": "5.2.3.06.03",
+        "name": "Belanja modal Pengadaan Candi Lainnya"
+    },
+    {
+        "code": "5.2.3.07",
+        "name": "Belanja modal Pengadaan Monumen/Bangunan Bersejarah"
+    },
+    {
+        "code": "5.2.3.07.01",
+        "name": "Belanja modal Pengadaan Bangunan Bersejarah lainnya"
+    },
+    {
+        "code": "5.2.3.08",
+        "name": "Belanja modal Pengadaan Tugu Peringatan"
+    },
+    {
+        "code": "5.2.3.08.01",
+        "name": "Belanja modal Pengadaan Tugu Peringatan"
+    },
+    {
+        "code": "5.2.3.09",
+        "name": "Belanja modal Pengadaan Tugu Titik Kontrol/Pasti"
+    },
+    {
+        "code": "5.2.3.09.01",
+        "name": "Belanja modal Pengadaan Tugu/Tanda Batas"
+    },
+    {
+        "code": "5.2.3.09.02",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.3.10",
+        "name": "Belanja modal Pengadaan Rambu-Rambu"
+    },
+    {
+        "code": "5.2.3.10.01",
+        "name": "Belanja modal Pengadaan Rambu Bersuar Lalu Lintas Darat"
+    },
+    {
+        "code": "5.2.3.10.02",
+        "name": "Belanja modal Pengadaan Rambu Tidak Bersuar"
+    },
+    {
+        "code": "5.2.3.10.03",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.3.11",
+        "name": "Belanja modal Pengadaan Rambu-Rambu Lalu Lintas Udara"
+    },
+    {
+        "code": "5.2.3.11.01",
+        "name": "Belanja modal Pengadaan Rumwey/Threshold Light"
+    },
+    {
+        "code": "5.2.3.11.02",
+        "name": "Belanja modal Pengadaan Visual Approach Slope Indicator (VASI)"
+    },
+    {
+        "code": "5.2.3.11.03",
+        "name": "Belanja modal Pengadaan Approach Light"
+    },
+    {
+        "code": "5.2.3.11.04",
+        "name": "Belanja modal Pengadaan Rumwey Identification Light (Rells)"
+    },
+    {
+        "code": "5.2.3.11.05",
+        "name": "Belanja modal Pengadaan Signal"
+    },
+    {
+        "code": "5.2.3.11.06",
+        "name": "Belanja modal Pengadaan Flood Light"
+    },
+    {
+        "code": "5.2.3.11.07",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.4",
+        "name": "Belanja Modal Jalan, Irigasi dan Jaringan"
+    },
+    {
+        "code": "5.2.4.01",
+        "name": "Belanja modal Pengadaan Jalan"
+    },
+    {
+        "code": "5.2.4.01.01",
+        "name": "Belanja modal Pengadaan Jalan Negara/Nasional"
+    },
+    {
+        "code": "5.2.4.01.02",
+        "name": "Belanja modal Pengadaan Jalan Propinsi"
+    },
+    {
+        "code": "5.2.4.01.03",
+        "name": "Belanja modal Pengadaan Jalan Kabupaten/Kota"
+    },
+    {
+        "code": "5.2.4.01.04",
+        "name": "Belanja modal Pengadaan Jalan Desa"
+    },
+    {
+        "code": "5.2.4.01.05",
+        "name": "Belanja modal Pengadaan Jalan Khusus"
+    },
+    {
+        "code": "5.2.4.01.06",
+        "name": "Belanja modal Pengadaan Jalan Tol"
+    },
+    {
+        "code": "5.2.4.01.07",
+        "name": "Belanja modal Pengadaan Jalan Kereta"
+    },
+    {
+        "code": "5.2.4.01.08",
+        "name": "Belanja modal Pengadaan Landasan Pacu Pesawat Terbang"
+    },
+    {
+        "code": "5.2.4.01.09",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.4.02",
+        "name": "Belanja modal Pengadaan Jembatan"
+    },
+    {
+        "code": "5.2.4.02.01",
+        "name": "Belanja modal Pengadaan Jembatan Negara/Nasional"
+    },
+    {
+        "code": "5.2.4.02.02",
+        "name": "Belanja modal Pengadaan Jembatan Propinsi"
+    },
+    {
+        "code": "5.2.4.02.03",
+        "name": "Belanja modal Pengadaan Jembatan Kabupaten/Kota"
+    },
+    {
+        "code": "5.2.4.02.04",
+        "name": "Belanja modal Pengadaan Jembatan Desa"
+    },
+    {
+        "code": "5.2.4.02.05",
+        "name": "Belanja modal Pengadaan Jembatan Khusus"
+    },
+    {
+        "code": "5.2.4.02.06",
+        "name": "Belanja modal Pengadaan Jembatan Pada Jalan Tol"
+    },
+    {
+        "code": "5.2.4.02.07",
+        "name": "Belanja modal Pengadaan Jembatan Pada Jalan Kereta Api"
+    },
+    {
+        "code": "5.2.4.02.08",
+        "name": "Belanja modal Pengadaan Jembatan Pada Landasan Pacu Pesawat Terbang"
+    },
+    {
+        "code": "5.2.4.02.09",
+        "name": "Belanja modal Pengadaan Jembatan Penyeberangan"
+    },
+    {
+        "code": "5.2.4.02.10",
+        "name": "Dst......"
+    },
+    {
+        "code": "5.2.4.03",
+        "name": "Belanja modal Pengadaan Bangunan Air Irigasi"
+    },
+    {
+        "code": "5.2.4.03.01",
+        "name": "Belanja modal Pengadaan Bangunan Waduk"
+    },
+    {
+        "code": "5.2.4.03.02",
+        "name": "Belanja modal Pengadaan Bangunan Pengambilan Irigasi"
+    },
+    {
+        "code": "5.2.4.03.03",
+        "name": "Belanja modal Pengadaan Bangunan Pembawa Irigasi"
+    },
+    {
+        "code": "5.2.4.03.04",
+        "name": "Belanja modal Pengadaan Bangunan Pembuang Irigasi"
+    },
+    {
+        "code": "5.2.4.03.05",
+        "name": "Belanja modal Pengadaan Bangunan Pengaman Irigasi"
+    },
+    {
+        "code": "5.2.4.03.06",
+        "name": "Belanja modal Pengadaan Bangunan Pelengkap Irigasi"
+    },
+    {
+        "code": "5.2.4.03.07",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.4.04",
+        "name": "Belanja modal Pengadaan Bangunan Air Pasang Surut"
+    },
+    {
+        "code": "5.2.4.04.01",
+        "name": "Belanja modal Pengadaan Bangunan Waduk"
+    },
+    {
+        "code": "5.2.4.04.02",
+        "name": "Belanja modal Pengadaan Bangunan Pengambilan Pasang Surut"
+    },
+    {
+        "code": "5.2.4.04.03",
+        "name": "Belanja modal Pengadaan Bangunan Pembawa Pasang Surut"
+    },
+    {
+        "code": "5.2.4.04.04",
+        "name": "Belanja modal Pengadaan Bangunan Pembuang Pasang Surut"
+    },
+    {
+        "code": "5.2.4.04.05",
+        "name": "Belanja modal Pengadaan Bangunan Pengaman Pasang Surut"
+    },
+    {
+        "code": "5.2.4.04.06",
+        "name": "Belanja modal Pengadaan Bangunan Pelengkap Pasang Surut"
+    },
+    {
+        "code": "5.2.4.04.07",
+        "name": "Belanja modal Pengadaan Bangunan Sawah Pasang Surut"
+    },
+    {
+        "code": "5.2.4.04.08",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.4.05",
+        "name": "Belanja modal Pengadaan Bangunan Air Rawa"
+    },
+    {
+        "code": "5.2.4.05.01",
+        "name": "Belanja modal Pengadaan Bangunan Air Pengembang Rawa dan Poder"
+    },
+    {
+        "code": "5.2.4.05.02",
+        "name": "Belanja modal Pengadaan Bangunan Pengembalian Pasang Rawa"
+    },
+    {
+        "code": "5.2.4.05.03",
+        "name": "Belanja modal Pengadaan Bangunan Pembawa Pasang Rawa"
+    },
+    {
+        "code": "5.2.4.05.04",
+        "name": "Belanja modal Pengadaan Bangunan Pembuang Pasang Rawa"
+    },
+    {
+        "code": "5.2.4.05.05",
+        "name": "Belanja modal Pengadaan Bangunan Pengamanan Pasang Surut"
+    },
+    {
+        "code": "5.2.4.05.06",
+        "name": "Belanja modal Pengadaan Bangunan Pelengkap Pasang Rawa"
+    },
+    {
+        "code": "5.2.4.05.07",
+        "name": "Belanja modal Pengadaan Bangunan Sawah Pengembangan Rawa"
+    },
+    {
+        "code": "5.2.4.05.08",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.4.06",
+        "name": "Belanja modal Pengadaan Bangunan Pengaman Sungai dan Penanggulangan Bencana Alam"
+    },
+    {
+        "code": "5.2.4.06.01",
+        "name": "Belanja modal Pengadaan Bangunan Waduk Penanggulangan Sungai"
+    },
+    {
+        "code": "5.2.4.06.02",
+        "name": "Belanja modal Pengadaan Bangunan Pengambilan Pengamanan Sungai"
+    },
+    {
+        "code": "5.2.4.06.03",
+        "name": "Belanja modal Pengadaan Bangunan Pembuang Pengaman"
+    },
+    {
+        "code": "5.2.4.06.04",
+        "name": "Belanja modal Pengadaan Bangunan Pembuang Pengaman Sungai"
+    },
+    {
+        "code": "5.2.4.06.05",
+        "name": "Belanja modal Pengadaan Bangunan Pengaman Pengamanan Sungai"
+    },
+    {
+        "code": "5.2.4.06.06",
+        "name": "Belanja modal Pengadaan Bangunan Pelengkap Pengamanan Sungai"
+    },
+    {
+        "code": "5.2.4.06.07",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.4.07",
+        "name": "Belanja modal Pengadaan Bangunan Pengembangan Sumber Air dan Air Tanah"
+    },
+    {
+        "code": "5.2.4.07.01",
+        "name": "Belanja modal Pengadaan Bangunan Waduk Pengembangan Sumber Air"
+    },
+    {
+        "code": "5.2.4.07.02",
+        "name": "Belanja modal Pengadaan Bangunan Pengambilan Pengembangan Sumber Air"
+    },
+    {
+        "code": "5.2.4.07.03",
+        "name": "Belanja modal Pengadaan Bangunan Pembawa Pengembangan Sumber Air"
+    },
+    {
+        "code": "5.2.4.07.04",
+        "name": "Belanja modal Pengadaan Bangunan Pembuang Pengembangan Sumber Air"
+    },
+    {
+        "code": "5.2.4.07.05",
+        "name": "Belanja modal Pengadaan Bangunan Pengamanan Pengembangan Sumber Air"
+    },
+    {
+        "code": "5.2.4.07.06",
+        "name": "Belanja modal Pengadaan Bangunan Pelengkap Pengembangan Sumber Air"
+    },
+    {
+        "code": "5.2.4.07.07",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.4.08",
+        "name": "Belanja modal Pengadaan Bangunan Air Bersih/Baku"
+    },
+    {
+        "code": "5.2.4.08.01",
+        "name": "Belanja modal Pengadaan Waduk Air Bersih/Air Baku"
+    },
+    {
+        "code": "5.2.4.08.02",
+        "name": "Belanja modal Pengadaan Bangunan Pengambilan Air Bersih/Baku"
+    },
+    {
+        "code": "5.2.4.08.03",
+        "name": "Belanja modal Pengadaan Bangunan Pembawa Air Bersih"
+    },
+    {
+        "code": "5.2.4.08.04",
+        "name": "Belanja modal Pengadaan Bangunan Pembuang Air Bersih/Air Baku"
+    },
+    {
+        "code": "5.2.4.08.05",
+        "name": "Belanja modal Pengadaan Bangunan Pelengkap Air Bersih/Air Baku"
+    },
+    {
+        "code": "5.2.4.08.06",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.4.09",
+        "name": "Belanja modal Pengadaan Bangunan Air Kotor"
+    },
+    {
+        "code": "5.2.4.09.01",
+        "name": "Belanja modal Pengadaan Bangunan Pembawa Air Kotor"
+    },
+    {
+        "code": "5.2.4.09.02",
+        "name": "Belanja modal Pengadaan Bangunan Waduk Air Kotor"
+    },
+    {
+        "code": "5.2.4.09.03",
+        "name": "Belanja modal Pengadaan Bangunan Pembuangan Air Kotor"
+    },
+    {
+        "code": "5.2.4.09.04",
+        "name": "Belanja modal Pengadaan Bangunan Pengaman Air Kotor"
+    },
+    {
+        "code": "5.2.4.09.05",
+        "name": "Belanja modal Pengadaan Bangunan Pelengkap Air Kotor"
+    },
+    {
+        "code": "5.2.4.09.06",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.4.10",
+        "name": "Belanja modal Pengadaan Bangunan Air"
+    },
+    {
+        "code": "5.2.4.10.01",
+        "name": "Belanja modal Pengadaan Bangunan Air Laut"
+    },
+    {
+        "code": "5.2.4.10.02",
+        "name": "Belanja modal Pengadaan Bangunan Air Tawar"
+    },
+    {
+        "code": "5.2.4.10.03",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.4.11",
+        "name": "Belanja modal Pengadaan Instalasi Air Minum Bersih"
+    },
+    {
+        "code": "5.2.4.11.01",
+        "name": "Belanja modal Pengadaan Air Muka Tanah"
+    },
+    {
+        "code": "5.2.4.11.02",
+        "name": "Belanja modal Pengadaan Air Sumber /Mata Air"
+    },
+    {
+        "code": "5.2.4.11.03",
+        "name": "Belanja modal Pengadaan Air Tanah Dalam"
+    },
+    {
+        "code": "5.2.4.11.04",
+        "name": "Belanja modal Pengadaan Air Tanah Dangkal"
+    },
+    {
+        "code": "5.2.4.11.05",
+        "name": "Belanja modal Pengadaan Air Bersih/Air Baku Lainnya"
+    },
+    {
+        "code": "5.2.4.11.06",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.4.12",
+        "name": "Belanja modal Pengadaan Instalasi Air Kotor"
+    },
+    {
+        "code": "5.2.4.12.01",
+        "name": "Belanja modal Pengadaan Instalasi Air Kotor"
+    },
+    {
+        "code": "5.2.4.12.02",
+        "name": "Belanja modal Pengadaan Instalasi Air Buangan Industri"
+    },
+    {
+        "code": "5.2.4.12.03",
+        "name": "Belanja modal Pengadaan Instalasi Air Buangan Pertanian"
+    },
+    {
+        "code": "5.2.4.12.04",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.4.13",
+        "name": "Belanja modal Pengadaan Instalasi Pengolahan Sampah Non Organik"
+    },
+    {
+        "code": "5.2.4.13.01",
+        "name": "Belanja modal Pengadaan Instalasi Pengolahan Sampah Organik"
+    },
+    {
+        "code": "5.2.4.13.02",
+        "name": "Belanja modal Pengadaan Instalasi Pengolahan Sampah Non Organik"
+    },
+    {
+        "code": "5.2.4.14",
+        "name": "Belanja modal Pengadaan Instalasi Pengolahan Bahan Bangunan"
+    },
+    {
+        "code": "5.2.4.14.01",
+        "name": "Belanja modal Pengadaan Instalasi Pengolahan Bahan Bangunan"
+    },
+    {
+        "code": "5.2.4.15",
+        "name": "Belanja modal Pengadaan Instalasi Pembangkit Listrik"
+    },
+    {
+        "code": "5.2.4.15.01",
+        "name": "Belanja modal Pengadaan Pembangkit Listrik Tenaga Air"
+    },
+    {
+        "code": "5.2.4.15.02",
+        "name": "Belanja modal Pengadaan Pembangkit Listrik Tenaga Diesel"
+    },
+    {
+        "code": "5.2.4.15.03",
+        "name": "Belanja modal Pengadaan Pembangkit Liatrik Tenaga Mikro (Hidro)"
+    },
+    {
+        "code": "5.2.4.15.04",
+        "name": "Belanja modal Pengadaan Pembangkit Listrik Tenaga Angin (PLTAN)"
+    },
+    {
+        "code": "5.2.4.15.05",
+        "name": "Belanja modal Pengadaan Pembangkit Listrik Tenaga Uap (PLTU)"
+    },
+    {
+        "code": "5.2.4.15.06",
+        "name": "Belanja modal Pengadaan Pembangkit Listrik Tenaga Nuklir (PLTN)"
+    },
+    {
+        "code": "5.2.4.15.07",
+        "name": "Belanja modal Pengadaan Pembangkit Listrik Tenaga Gas (PLTG)"
+    },
+    {
+        "code": "5.2.4.15.08",
+        "name": "Belanja modal Pengadaan Pembangkit Listrik Tenaga Panas Bumi (PLTP)"
+    },
+    {
+        "code": "5.2.4.15.09",
+        "name": "Belanja modal Pengadaan Pembangkit Listrik Tenaga Tenaga Surya (PLTS)"
+    },
+    {
+        "code": "5.2.4.15.10",
+        "name": "Belanja modal Pengadaan Pembangkit Listrik Tenaga Biogas (PLTB)"
+    },
+    {
+        "code": "5.2.4.15.11",
+        "name": "Belanja modal Pengadaan Instalasi Pembangkit Listrik Tenaga Samudera/Gelombang Samudera (PLTSm)"
+    },
+    {
+        "code": "5.2.4.15.12",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.4.16",
+        "name": "Belanja modal Pengadaan Instalasi Gardu Listrik"
+    },
+    {
+        "code": "5.2.4.16.01",
+        "name": "Belanja modal Pengadaan Instalasi Gardu Listrik Induk"
+    },
+    {
+        "code": "5.2.4.16.02",
+        "name": "Belanja modal Pengadaan Instalasi Gardu Listrik Distribusi"
+    },
+    {
+        "code": "5.2.4.16.03",
+        "name": "Belanja modal Pengadaan Instalasi Pusat Pengatur Listrik"
+    },
+    {
+        "code": "5.2.4.16.04",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.4.17",
+        "name": "Belanja modal Pengadaan Instalasi Pertahanan"
+    },
+    {
+        "code": "5.2.4.17.01",
+        "name": "Belanja modal Pengadaan Instalasi Pertahanan Di Darat"
+    },
+    {
+        "code": "5.2.4.17.02",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.4.18",
+        "name": "Belanja modal Pengadaan Instalasi Gas"
+    },
+    {
+        "code": "5.2.4.18.01",
+        "name": "Belanja modal Pengadaan Instalasi Gardu Gas"
+    },
+    {
+        "code": "5.2.4.18.02",
+        "name": "Belanja modal Pengadaan Instalasi Jaringan Pipa Gas"
+    },
+    {
+        "code": "5.2.4.18.03",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.4.19",
+        "name": "Belanja modal Pengadaan Instalasi Pengaman"
+    },
+    {
+        "code": "5.2.4.19.01",
+        "name": "Belanja modal Pengadaan Instalasi Pengaman Penangkal Petir"
+    },
+    {
+        "code": "5.2.4.19.02",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.4.20",
+        "name": "Belanja modal Pengadaan Jaringan Air Minum"
+    },
+    {
+        "code": "5.2.4.20.01",
+        "name": "Belanja modal Pengadaan Jaringan Pembawa"
+    },
+    {
+        "code": "5.2.4.20.02",
+        "name": "Belanja modal Pengadaan Jaringan Induk Distribusi"
+    },
+    {
+        "code": "5.2.4.20.03",
+        "name": "Belanja modal Pengadaan Jaringan Cabang Distribusi"
+    },
+    {
+        "code": "5.2.4.20.04",
+        "name": "Belanja modal Pengadaan Jaringan Sambungan Kerumah"
+    },
+    {
+        "code": "5.2.4.20.05",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.4.21",
+        "name": "Belanja modal Pengadaan Jaringan Listrik"
+    },
+    {
+        "code": "5.2.4.21.01",
+        "name": "Belanja modal Pengadaan Jaringan Transmisi"
+    },
+    {
+        "code": "5.2.4.21.02",
+        "name": "Belanja modal Pengadaan Jaringan Distribusi"
+    },
+    {
+        "code": "5.2.4.22",
+        "name": "Belanja modal Pengadaan Jaringan Telepon"
+    },
+    {
+        "code": "5.2.4.22.01",
+        "name": "Belanja modal Pengadaan Jaringan Telepon Di atas Tanah"
+    },
+    {
+        "code": "5.2.4.22.02",
+        "name": "Belanja modal Pengadaan Jaringan Telepon Di bawah Tanah"
+    },
+    {
+        "code": "5.2.4.22.03",
+        "name": "Belanja modal Pengadaan Jaringan Telepon Didalam Air"
+    },
+    {
+        "code": "5.2.4.23",
+        "name": "Belanja modal Pengadaan Jaringan Gas"
+    },
+    {
+        "code": "5.2.4.23.01",
+        "name": "Belanja modal Pengadaan Jaringan Pipa Gas Transmisi"
+    },
+    {
+        "code": "5.2.4.23.02",
+        "name": "Belanja modal Pengadaan Jaringan Pipa Distribusi"
+    },
+    {
+        "code": "5.2.4.23.03",
+        "name": "Belanja modal Pengadaan Jaringan Pipa Dinas"
+    },
+    {
+        "code": "5.2.4.23.04",
+        "name": "Belanja modal Pengadaan Jaringan BBM"
+    },
+    {
+        "code": "5.2.4.23.05",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.5",
+        "name": "Belanja Modal Aset Tetap Lainnya"
+    },
+    {
+        "code": "5.2.5.01",
+        "name": "Belanja modal Pengadaan Buku"
+    },
+    {
+        "code": "5.2.5.01.01",
+        "name": "Belanja modal Pengadaan Umum"
+    },
+    {
+        "code": "5.2.5.01.02",
+        "name": "Belanja modal Pengadaan Filsafat"
+    },
+    {
+        "code": "5.2.5.01.03",
+        "name": "Belanja modal Pengadaan Agama"
+    },
+    {
+        "code": "5.2.5.01.04",
+        "name": "Belanja modal Pengadaan Ilmu Sosial"
+    },
+    {
+        "code": "5.2.5.01.05",
+        "name": "Belanja modal Pengadaan Ilmu Bahasa"
+    },
+    {
+        "code": "5.2.5.01.06",
+        "name": "Belanja modal Pengadaan Matematika & Pengetahuan alam"
+    },
+    {
+        "code": "5.2.5.01.07",
+        "name": "Belanja modal Pengadaan Ilmu Pengetahuan Praktis"
+    },
+    {
+        "code": "5.2.5.01.08",
+        "name": "Belanja modal Pengadaan Arsitektur, Kesenian, Olah raga"
+    },
+    {
+        "code": "5.2.5.01.09",
+        "name": "Belanja modal Pengadaan Buku Geografi, Biografi, Sejarah"
+    },
+    {
+        "code": "5.2.5.01.10",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.5.02",
+        "name": "Belanja modal Pengadaan Terbitan"
+    },
+    {
+        "code": "5.2.5.02.01",
+        "name": "Belanja modal Pengadaan Terbitan Berkala"
+    },
+    {
+        "code": "5.2.5.02.02",
+        "name": "Belanja modal Pengadaan Buku Laporan"
+    },
+    {
+        "code": "5.2.5.02.03",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.5.03",
+        "name": "Belanja modal Pengadaan Barang-Barang Perpustakaan"
+    },
+    {
+        "code": "5.2.5.03.01",
+        "name": "Belanja modal Pengadaan Peta"
+    },
+    {
+        "code": "5.2.5.03.02",
+        "name": "Belanja modal Pengadaan Naskah (Manuskrip)"
+    },
+    {
+        "code": "5.2.5.03.03",
+        "name": "Belanja modal Pengadaan Musik"
+    },
+    {
+        "code": "5.2.5.03.04",
+        "name": "Belanja modal Pengadaan Karya Grafika (Graphic Material)"
+    },
+    {
+        "code": "5.2.5.03.05",
+        "name": "Belanja modal Pengadaan Three Dimensional Artetacs and Realita"
+    },
+    {
+        "code": "5.2.5.03.06",
+        "name": "Belanja modal Pengadaan Bentuk Micro (Microform)"
+    },
+    {
+        "code": "5.2.5.03.07",
+        "name": "Belanja modal Pengadaan Rekaman Suara"
+    },
+    {
+        "code": "5.2.5.03.08",
+        "name": "Belanja modal Pengadaan Berkas Komputer (Computer Files)"
+    },
+    {
+        "code": "5.2.5.03.09",
+        "name": "Belanja modal Pengadaan Film Bergerak dan Rekaman Video"
+    },
+    {
+        "code": "5.2.5.03.10",
+        "name": "Belanja modal Pengadaan Tarscalt"
+    },
+    {
+        "code": "5.2.5.03.11",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.5.04",
+        "name": "Belanja modal Pengadaan Barang Bercorak Kebudayaan"
+    },
+    {
+        "code": "5.2.5.04.01",
+        "name": "Belanja modal Pengadaan Pahatan"
+    },
+    {
+        "code": "5.2.5.04.02",
+        "name": "Belanja modal Pengadaan Lukisan"
+    },
+    {
+        "code": "5.2.5.04.03",
+        "name": "Belanja modal Pengadaan Alat Kesenian"
+    },
+    {
+        "code": "5.2.5.04.04",
+        "name": "Belanja modal Pengadaan Alat Olah Raga"
+    },
+    {
+        "code": "5.2.5.04.05",
+        "name": "Belanja modal Pengadaan Tanda Penghargaan"
+    },
+    {
+        "code": "5.2.5.04.06",
+        "name": "Belanja modal Pengadaan Maket dan Foto Dokumen"
+    },
+    {
+        "code": "5.2.5.04.07",
+        "name": "Belanja modal Pengadaan Benda-benda Bersejarah"
+    },
+    {
+        "code": "5.2.5.04.08",
+        "name": "Belanja modal Pengadaan Barang Kerajinan"
+    },
+    {
+        "code": "5.2.5.04.09",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.5.05",
+        "name": "Belanja modal Pengadaan Alat Olah Raga Lainnya"
+    },
+    {
+        "code": "5.2.5.05.01",
+        "name": "Belanja modal Pengadaan Senam"
+    },
+    {
+        "code": "5.2.5.05.02",
+        "name": "Belanja modal Pengadaan Alat Olah Raga Air"
+    },
+    {
+        "code": "5.2.5.05.03",
+        "name": "Belanja modal Pengadaan Alat Olah Raga Udara"
+    },
+    {
+        "code": "5.2.5.05.04",
+        "name": "Belanja modal Pengadaan Alat Olah Raga Lainnya"
+    },
+    {
+        "code": "5.2.5.05.05",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.5.06",
+        "name": "Belanja modal Pengadaan Hewan"
+    },
+    {
+        "code": "5.2.5.06.01",
+        "name": "Belanja modal Pengadaan Binatang Ternak"
+    },
+    {
+        "code": "5.2.5.06.02",
+        "name": "Belanja modal Pengadaan Binatang Unggas"
+    },
+    {
+        "code": "5.2.5.06.03",
+        "name": "Belanja modal Pengadaan Binatang Melata"
+    },
+    {
+        "code": "5.2.5.06.04",
+        "name": "Belanja modal Pengadaan Binatang Ikan"
+    },
+    {
+        "code": "5.2.5.06.05",
+        "name": "Belanja modal Pengadaan Hewan Kebun Binatang"
+    },
+    {
+        "code": "5.2.5.06.06",
+        "name": "Belanja modal Pengadaan Hewan Pengamanan"
+    },
+    {
+        "code": "5.2.5.06.07",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.2.5.07",
+        "name": "Belanja modal Pengadaan Tanaman"
+    },
+    {
+        "code": "5.2.5.07.01",
+        "name": "Belanja modal Pengadaan Tanaman Perkebunan"
+    },
+    {
+        "code": "5.2.5.07.02",
+        "name": "Belanja modal Pengadaan Tanaman Holtikultura"
+    },
+    {
+        "code": "5.2.5.07.03",
+        "name": "Belanja modal Pengadaan Tanaman Kehutanan"
+    },
+    {
+        "code": "5.2.5.07.04",
+        "name": "Belanja modal Pengadaan Tanaman Hias"
+    },
+    {
+        "code": "5.2.5.07.05",
+        "name": "Belanja modal Pengadaan Tanaman Obat dan Kosmetika"
+    },
+    {
+        "code": "5.2.5.07.06",
+        "name": "Dst......."
+    },
+    {
+        "code": "5.3",
+        "name": "BELANJA TAK TERDUGA"
+    },
+    {
+        "code": "5.3.1",
+        "name": "Belanja Tak Terduga"
+    },
+    {
+        "code": "5.3.1.01",
+        "name": "Belanja Tak Terduga"
+    },
+    {
+        "code": "5.3.1.01.01",
+        "name": "Belanja Tak Terduga"
+    }
+]

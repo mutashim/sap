@@ -1,0 +1,94 @@
+[
+    {
+        "code": "3",
+        "name": "EKUITAS"
+    },
+    {
+        "code": "3.1",
+        "name": "EKUITAS"
+    },
+    {
+        "code": "3.1.1",
+        "name": "Ekuitas"
+    },
+    {
+        "code": "3.1.1.01",
+        "name": "Ekuitas"
+    },
+    {
+        "code": "3.1.1.01.01",
+        "name": "Ekuitas"
+    },
+    {
+        "code": "3.1.1.02",
+        "name": "Surplus/Defisit - LO"
+    },
+    {
+        "code": "3.1.1.02.01",
+        "name": "Surplus/Defisit - LO"
+    },
+    {
+        "code": "3.1.2",
+        "name": "Ekuitas SAL"
+    },
+    {
+        "code": "3.1.2.01",
+        "name": "Estimasi Pendapatan"
+    },
+    {
+        "code": "3.1.2.01.01",
+        "name": "Estimasi Pendapatan"
+    },
+    {
+        "code": "3.1.2.02",
+        "name": "Estimasi Penerimaan Pembiayaan"
+    },
+    {
+        "code": "3.1.2.02.01",
+        "name": "Estimasi Penerimaan Pembiayaan"
+    },
+    {
+        "code": "3.1.2.03",
+        "name": "Apropriasi Belanja"
+    },
+    {
+        "code": "3.1.2.03.01",
+        "name": "Apropriasi Belanja"
+    },
+    {
+        "code": "3.1.2.04",
+        "name": "Apropriasi Pengeluaran Pembiayaan"
+    },
+    {
+        "code": "3.1.2.04.01",
+        "name": "Apropriasi Pengeluaran Pembiayaan"
+    },
+    {
+        "code": "3.1.2.05",
+        "name": "Estimasi Perubahan SAL"
+    },
+    {
+        "code": "3.1.2.05.01",
+        "name": "Estimasi Perubahan SAL"
+    },
+    {
+        "code": "3.1.2.06",
+        "name": "Surplus/Defisit - LRA"
+    },
+    {
+        "code": "3.1.2.06.01",
+        "name": "Surplus/Defisit - LRA"
+    },
+    {
+        "code": "3.1.3",
+        "name": "Ekuitas untuk Dikonsolidasikan"
+    },
+    {
+        "code": "3.1.3.01",
+        "name": "RK PPKD"
+    },
+    {
+        "code": "3.1.3.01.01",
+        "name": "RK PPKD"
+    }
+]

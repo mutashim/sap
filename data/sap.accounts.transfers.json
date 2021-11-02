@@ -1,0 +1,122 @@
+[
+    {
+        "code": "6",
+        "name": "TRANSFER"
+    },
+    {
+        "code": "6.1",
+        "name": "TRANSFER BAGI HASIL PENDAPATAN"
+    },
+    {
+        "code": "6.1.1",
+        "name": "Transfer Bagi Hasil Pajak Daerah"
+    },
+    {
+        "code": "6.1.1.01",
+        "name": "Transfer Bagi Hasil Pajak Daerah Kepada Pemerintahan Kabupaten/Kota"
+    },
+    {
+        "code": "6.1.1.01.01",
+        "name": "Transfer Bagi Hasil Pajak Daerah Kepada Pemerintahan Kabupaten/Kota ......"
+    },
+    {
+        "code": "6.1.1.01.02",
+        "name": "Dst...."
+    },
+    {
+        "code": "6.1.2",
+        "name": "Transfer Bagi Hasil Pendapatan Lainnya"
+    },
+    {
+        "code": "6.1.2.01",
+        "name": "Transfer Bagi Hasil Pendapatan Lainnya Kepada Pemerintahan Kabupaten/Kota"
+    },
+    {
+        "code": "6.1.2.01.01",
+        "name": "Transfer Bagi Hasil Pendapatan Lainnya Kepada Pemerintahan Kabupaten/Kota ........."
+    },
+    {
+        "code": "6.1.2.01.02",
+        "name": "Dst…………………………………"
+    },
+    {
+        "code": "6.2",
+        "name": "TRANSFER BANTUAN KEUANGAN"
+    },
+    {
+        "code": "6.2.1",
+        "name": "Transfer Bantuan Keuangan ke Pemerintah Daerah Lainnya"
+    },
+    {
+        "code": "6.2.1.01",
+        "name": "Bantuan Keuangan ke Propinsi"
+    },
+    {
+        "code": "6.2.1.01.01",
+        "name": "Bantuan Keuangan ke Propinsi .........."
+    },
+    {
+        "code": "6.2.1.01.02",
+        "name": "Dst .........."
+    },
+    {
+        "code": "6.2.1.02",
+        "name": "Bantuan Keuangan ke Kabupaten/Kota"
+    },
+    {
+        "code": "6.2.1.02.01",
+        "name": "Bantuan Keuangan ke Kabupaten/Kota .........."
+    },
+    {
+        "code": "6.2.1.02.02",
+        "name": "Dst .........."
+    },
+    {
+        "code": "6.2.2",
+        "name": "Transfer Bantuan Keuangan ke Desa"
+    },
+    {
+        "code": "6.2.2.01",
+        "name": "Transfer Bantuan Keuangan ke Desa"
+    },
+    {
+        "code": "6.2.2.01.01",
+        "name": "Transfer Bantuan Keuangan ke Desa ..........."
+    },
+    {
+        "code": "6.2.2.01.02",
+        "name": "Dst .........."
+    },
+    {
+        "code": "6.2.3",
+        "name": "Transfer Bantuan Keuangan Lainnya"
+    },
+    {
+        "code": "6.2.3.01",
+        "name": "Bantuan Keuangan kepada Partai Politik"
+    },
+    {
+        "code": "6.2.3.01.01",
+        "name": "Bantuan Keuangan kepada Partai Politik ........"
+    },
+    {
+        "code": "6.2.3.01.02",
+        "name": "Dst .........."
+    },
+    {
+        "code": "6.2.4",
+        "name": "Transfer Dana Otonomi Khusus"
+    },
+    {
+        "code": "6.2.4.01",
+        "name": "Transfer Dana Otsus Kabupaten/Kota"
+    },
+    {
+        "code": "6.2.4.01.01",
+        "name": "Transfer Dana Otsus Kabupaten/Kota .........."
+    },
+    {
+        "code": "6.2.4.01.02",
+        "name": "Dst .........."
+    }
+]

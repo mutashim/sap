@@ -1,0 +1,410 @@
+[
+    {
+        "code": "7",
+        "name": "PEMBIAYAAN"
+    },
+    {
+        "code": "7.1",
+        "name": "PENERIMAAN PEMBIAYAAN"
+    },
+    {
+        "code": "7.1.1",
+        "name": "Penggunaan SiLPA"
+    },
+    {
+        "code": "7.1.1.01",
+        "name": "Penggunaan SiLPA tahun sebelumnya"
+    },
+    {
+        "code": "7.1.1.01.01",
+        "name": "Penggunaan SiLPA tahun sebelumnya"
+    },
+    {
+        "code": "7.1.2",
+        "name": "Pencairan Dana Cadangan"
+    },
+    {
+        "code": "7.1.2.01",
+        "name": "Pencairan Dana Cadangan"
+    },
+    {
+        "code": "7.1.2.01.01",
+        "name": "Pencairan Dana Cadangan ............"
+    },
+    {
+        "code": "7.1.2.01.02",
+        "name": "Dst ..........."
+    },
+    {
+        "code": "7.1.3",
+        "name": "Hasil Penjualan Kekayaan Daerah yang Dipisahkan"
+    },
+    {
+        "code": "7.1.3.01",
+        "name": "Hasil Penjualan Kekayaan Daerah yang Dipisahkan"
+    },
+    {
+        "code": "7.1.3.01.01",
+        "name": "Hasil penjualan kekayaan daerah yang dipisahkan pada perusahaan milik Pemerintah/ BUMN"
+    },
+    {
+        "code": "7.1.3.01.02",
+        "name": "Hasil penjualan kekayaan daerah yang dipisahkan pada perusahaan milik daerah/ BUMD"
+    },
+    {
+        "code": "7.1.3.01.03",
+        "name": "Hasil penjualan kekayaan daerah yang dipisahkan pada perusahaan milik swasta"
+    },
+    {
+        "code": "7.1.4",
+        "name": "Pinjaman Dalam Negeri"
+    },
+    {
+        "code": "7.1.4.01",
+        "name": "Pinjaman Dalam Negeri dari Bank"
+    },
+    {
+        "code": "7.1.4.01.01",
+        "name": "Pinjaman Dalam Negeri dari Bank ............"
+    },
+    {
+        "code": "7.1.4.01.02",
+        "name": "Dst ............"
+    },
+    {
+        "code": "7.1.4.02",
+        "name": "Pinjaman Dalam Negeri dari Lembaga Keuangan Bukan Bank"
+    },
+    {
+        "code": "7.1.4.02.01",
+        "name": "Pinjaman Dalam Negeri dari Lembaga Keuangan Bukan Bank"
+    },
+    {
+        "code": "7.1.4.03",
+        "name": "Penerimaan Hasil Penerbitan Obligasi Daerah"
+    },
+    {
+        "code": "7.1.4.03.01",
+        "name": "Penerimaan Hasil Penerbitan Obligasi Daerah"
+    },
+    {
+        "code": "7.1.4.04",
+        "name": "Pinjaman Dalam Negeri dari Pemerintah Pusat"
+    },
+    {
+        "code": "7.1.4.04.01",
+        "name": "Pinjaman Dalam Negeri dari Pemerintah Pusat"
+    },
+    {
+        "code": "7.1.4.05",
+        "name": "Pinjaman Dalam Negeri dari Pemerintah Provinsi Lainnya"
+    },
+    {
+        "code": "7.1.4.05.01",
+        "name": "Pinjaman Dalam Negeri dari Pemerintah Provinsi Lainnya"
+    },
+    {
+        "code": "7.1.4.06",
+        "name": "Pinjaman Dalam Negeri dari Pemerintah Kabupaten/Kota"
+    },
+    {
+        "code": "7.1.4.06.01",
+        "name": "Pinjaman Dalam Negeri dari Pemerintah Kabupaten/Kota"
+    },
+    {
+        "code": "7.1.5",
+        "name": "Penerimaan Kembali Piutang"
+    },
+    {
+        "code": "7.1.5.01",
+        "name": "Penerimaan Kembali Piutang kepada Perusahaan Negara"
+    },
+    {
+        "code": "7.1.5.01.01",
+        "name": "Penerimaan Kembali Piutang kepada Perusahaan Negara"
+    },
+    {
+        "code": "7.1.5.02",
+        "name": "Penerimaan Kembali Piutang kepada Perusahaan Daerah"
+    },
+    {
+        "code": "7.1.5.02.01",
+        "name": "Penerimaan Kembali Piutang kepada Perusahaan Daerah"
+    },
+    {
+        "code": "7.1.5.03",
+        "name": "Penerimaan Kembali Piutang kepada Pemerintah Pusat"
+    },
+    {
+        "code": "7.1.5.03.01",
+        "name": "Penerimaan Kembali Piutang kepada Pemerintah Pusat"
+    },
+    {
+        "code": "7.1.5.04",
+        "name": "Penerimaan Kembali Piutang kepada Pemerintah Daerah Lainnya"
+    },
+    {
+        "code": "7.1.5.04.01",
+        "name": "Penerimaan Kembali Piutang kepada Pemerintah Daerah Lainnya"
+    },
+    {
+        "code": "7.1.5.05",
+        "name": "Penerimaan Kembali Piutang Lainnya"
+    },
+    {
+        "code": "7.1.5.05.01",
+        "name": "Penerimaan Kembali Piutang Lainnya"
+    },
+    {
+        "code": "7.1.6",
+        "name": "Penerimaan Kembali Investasi Non Permanen Lainnya"
+    },
+    {
+        "code": "7.1.6.01",
+        "name": "Penerimaan Kembali Investasi dalam Proyek Pembangunan"
+    },
+    {
+        "code": "7.1.6.01.01",
+        "name": "Penerimaan Kembali Investasi dalam Proyek Pembangunan"
+    },
+    {
+        "code": "7.1.6.02",
+        "name": "Penarikan Dana Bergulir"
+    },
+    {
+        "code": "7.1.6.02.01",
+        "name": "Penarikan Dana Bergulir"
+    },
+    {
+        "code": "7.1.6.03",
+        "name": "Pencairan Deposito Jangka Panjang"
+    },
+    {
+        "code": "7.1.6.03.01",
+        "name": "Pencairan Deposito Jangka Panjang"
+    },
+    {
+        "code": "7.1.6.04",
+        "name": "Penerimaan Kembali Investasi Non Permanen Lainnya"
+    },
+    {
+        "code": "7.1.6.04.01",
+        "name": "Penerimaan Kembali Investasi Non Permanen Lainnya"
+    },
+    {
+        "code": "7.1.7",
+        "name": "Pinjaman Luar Negeri"
+    },
+    {
+        "code": "7.1.7.01",
+        "name": "Pinjaman Luar Negeri"
+    },
+    {
+        "code": "7.1.7.01.01",
+        "name": "Pinjaman Luar Negeri"
+    },
+    {
+        "code": "7.1.8",
+        "name": "Penerimaan Utang Jangka Panjang Lainnya"
+    },
+    {
+        "code": "7.1.8.01",
+        "name": "Penerimaan Utang Jangka Panjang Lainnya"
+    },
+    {
+        "code": "7.1.8.01.01",
+        "name": "Penerimaan Utang Jangka Panjang Lainnya"
+    },
+    {
+        "code": "7.2",
+        "name": "PENGELUARAN PEMBIAYAAN"
+    },
+    {
+        "code": "7.2.1",
+        "name": "Pembentukan Dana Cadangan"
+    },
+    {
+        "code": "7.2.1.01",
+        "name": "Pembentukan Dana Cadangan"
+    },
+    {
+        "code": "7.2.1.01.01",
+        "name": "Pembentukan Dana Cadangan"
+    },
+    {
+        "code": "7.2.2",
+        "name": "Penyertaan Modal/Investasi Pemerintah Daerah"
+    },
+    {
+        "code": "7.2.2.01",
+        "name": "Penyertaan Modal pada BUMN"
+    },
+    {
+        "code": "7.2.2.01.01",
+        "name": "Penyertaan Modal pada BUMN"
+    },
+    {
+        "code": "7.2.2.02",
+        "name": "Penyertaan Modal pada BUMD"
+    },
+    {
+        "code": "7.2.2.02.01",
+        "name": "Penyertaan Modal pada BUMD"
+    },
+    {
+        "code": "7.2.2.03",
+        "name": "Penyertaan Modal pada Perusahaan Swasta"
+    },
+    {
+        "code": "7.2.2.03.01",
+        "name": "Penyertaan Modal pada Perusahaan Swasta"
+    },
+    {
+        "code": "7.2.3",
+        "name": "Pembayaran Pokok Pinjaman Dalam Negeri"
+    },
+    {
+        "code": "7.2.3.01",
+        "name": "Pembayaran Pokok Pinjaman kepada Bank"
+    },
+    {
+        "code": "7.2.3.01.01",
+        "name": "Pembayaran Pokok Pinjaman kepada Bank"
+    },
+    {
+        "code": "7.2.3.02",
+        "name": "Pembayaran Pokok Pinjaman kepada Lembaga Keuangan Bukan Bank"
+    },
+    {
+        "code": "7.2.3.02.01",
+        "name": "Pembayaran Pokok Pinjaman kepada Lembaga Keuangan Bukan Bank"
+    },
+    {
+        "code": "7.2.3.03",
+        "name": "Pelunasan Obligasi Daerah"
+    },
+    {
+        "code": "7.2.3.03.01",
+        "name": "Pelunasan Obligasi Daerah"
+    },
+    {
+        "code": "7.2.3.04",
+        "name": "Pembayaran Pokok Pinjaman kepada Pemerintah Pusat"
+    },
+    {
+        "code": "7.2.3.04.01",
+        "name": "Pembayaran Pokok Pinjaman kepada Pemerintah Pusat"
+    },
+    {
+        "code": "7.2.3.05",
+        "name": "Pembayaran Pokok Pinjaman kepada Pemerintah Provinsi Lainnya"
+    },
+    {
+        "code": "7.2.3.05.01",
+        "name": "Pembayaran Pokok Pinjaman kepada Pemerintah Provinsi Lainnya"
+    },
+    {
+        "code": "7.2.3.06",
+        "name": "Pembayaran Pokok Pinjaman kepada Pemerintah Kabupaten/Kota"
+    },
+    {
+        "code": "7.2.3.06.01",
+        "name": "Pembayaran Pokok Pinjaman kepada Pemerintah Kabupaten/Kota"
+    },
+    {
+        "code": "7.2.4",
+        "name": "Pemberian Pinjaman Daerah"
+    },
+    {
+        "code": "7.2.4.01",
+        "name": "Pemberian Pinjaman Daerah kepada Perusahaan Negara"
+    },
+    {
+        "code": "7.2.4.01.01",
+        "name": "Pemberian Pinjaman Daerah kepada Perusahaan Negara"
+    },
+    {
+        "code": "7.2.4.02",
+        "name": "Pemberian Pinjaman Daerah kepada Perusahaan Daerah"
+    },
+    {
+        "code": "7.2.4.02.01",
+        "name": "Pemberian Pinjaman Daerah kepada Perusahaan Daerah"
+    },
+    {
+        "code": "7.2.4.03",
+        "name": "Pemberian Pinjaman Daerah kepada Pemerintah Pusat"
+    },
+    {
+        "code": "7.2.4.03.01",
+        "name": "Pemberian Pinjaman Daerah kepada Pemerintah Pusat"
+    },
+    {
+        "code": "7.2.4.04",
+        "name": "Pemberian Pinjaman Daerah kepada Pemerintah Daerah Lainnya"
+    },
+    {
+        "code": "7.2.4.04.01",
+        "name": "Pemberian Pinjaman Daerah kepada Pemerintah Daerah Lainnya"
+    },
+    {
+        "code": "7.2.5",
+        "name": "Pengeluaran Investasi Non Permanen Lainnya"
+    },
+    {
+        "code": "7.2.5.01",
+        "name": "Pembentukan Investasi dalam Proyek Pembangunan"
+    },
+    {
+        "code": "7.2.5.01.01",
+        "name": "Pembentukan Investasi dalam Proyek Pembangunan"
+    },
+    {
+        "code": "7.2.5.02",
+        "name": "Pembentukan Dana Bergulir"
+    },
+    {
+        "code": "7.2.5.02.01",
+        "name": "Pembentukan Dana Bergulir"
+    },
+    {
+        "code": "7.2.5.03",
+        "name": "Pembentukan Deposito Jangka Panjang"
+    },
+    {
+        "code": "7.2.5.03.01",
+        "name": "Pembentukan Deposito Jangka Panjang"
+    },
+    {
+        "code": "7.2.5.04",
+        "name": "Pembentukan Investasi Non Permanen Lainnya"
+    },
+    {
+        "code": "7.2.5.04.01",
+        "name": "Pembentukan Investasi Non Permanen Lainnya"
+    },
+    {
+        "code": "7.2.6",
+        "name": "Pembayaran Pokok Pinjaman Luar Negeri"
+    },
+    {
+        "code": "7.2.6.01",
+        "name": "Pembayaran Pokok Pinjaman Luar Negeri"
+    },
+    {
+        "code": "7.2.6.01.01",
+        "name": "Pembayaran Pokok Pinjaman Luar Negeri"
+    },
+    {
+        "code": "7.2.7",
+        "name": "Pembayaran Utang Jangka Panjang Lainnya"
+    },
+    {
+        "code": "7.2.7.01",
+        "name": "Pembayaran Utang Jangka Panjang Lainnya"
+    },
+    {
+        "code": "7.2.7.01.01",
+        "name": "Pembayaran Utang Jangka Panjang Lainnya"
+    }
+]

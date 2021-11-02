@@ -1,0 +1,1926 @@
+[
+    {
+        "code": "4",
+        "name": "PENDAPATAN - LRA"
+    },
+    {
+        "code": "4.1",
+        "name": "PENDAPATAN ASLI DAERAH (PAD) - LRA"
+    },
+    {
+        "code": "4.1.1",
+        "name": "Pendapatan Pajak Daerah - LRA"
+    },
+    {
+        "code": "4.1.1.01",
+        "name": "Pajak Kendaraan Bermotor (PKB) - LRA"
+    },
+    {
+        "code": "4.1.1.01.01",
+        "name": "PKB - Mobil Penumpang - Sedan - LRA"
+    },
+    {
+        "code": "4.1.1.01.02",
+        "name": "PKB - Mobil Penumpang - Jeep - LRA"
+    },
+    {
+        "code": "4.1.1.01.03",
+        "name": "PKB - Mobil Penumpang - Minibus - LRA"
+    },
+    {
+        "code": "4.1.1.01.04",
+        "name": "PKB - Mobil Bus - Microbus - LRA"
+    },
+    {
+        "code": "4.1.1.01.05",
+        "name": "PKB - Mobil Bus - Bus - LRA"
+    },
+    {
+        "code": "4.1.1.01.06",
+        "name": "PKB - Mobil Barang/ Beban - Pick Up - LRA"
+    },
+    {
+        "code": "4.1.1.01.07",
+        "name": "PKB - Mobil Barang/ Beban - Light Truck - LRA"
+    },
+    {
+        "code": "4.1.1.01.08",
+        "name": "PKB - Mobil Barang/ Beban - Truck - LRA"
+    },
+    {
+        "code": "4.1.1.01.09",
+        "name": "PKB - Sepeda Motor - Sepeda Motor Roda 2 - LRA"
+    },
+    {
+        "code": "4.1.1.01.10",
+        "name": "PKB - Sepeda Motor - Sepeda Motor Roda 3 - LRA"
+    },
+    {
+        "code": "4.1.1.01.11",
+        "name": "PKB - Kendaraan Bermotor yang Dioperasikan di Air - LRA"
+    },
+    {
+        "code": "4.1.1.01.12",
+        "name": "Dst......."
+    },
+    {
+        "code": "4.1.1.02",
+        "name": "Bea Balik Nama Kendaraan Bermotor (BBNKB) - LRA"
+    },
+    {
+        "code": "4.1.1.02.01",
+        "name": "BBNKB -Mobil Penumpang - Sedan - LRA"
+    },
+    {
+        "code": "4.1.1.02.02",
+        "name": "BBNKB -Mobil Penumpang - Jeep - LRA"
+    },
+    {
+        "code": "4.1.1.02.03",
+        "name": "BBNKB -Mobil Penumpang - Minibus - LRA"
+    },
+    {
+        "code": "4.1.1.02.04",
+        "name": "BBNKB -Mobil Bus - Microbus - LRA"
+    },
+    {
+        "code": "4.1.1.02.05",
+        "name": "BBNKB -Mobil Bus - Bus - LRA"
+    },
+    {
+        "code": "4.1.1.02.06",
+        "name": "BBNKB -Mobil Barang/ Beban - Pick Up - LRA"
+    },
+    {
+        "code": "4.1.1.02.07",
+        "name": "BBNKB -Mobil Barang/ Beban - Light Truck - LRA"
+    },
+    {
+        "code": "4.1.1.02.08",
+        "name": "BBNKB -Mobil Barang/ Beban - Truck - LRA"
+    },
+    {
+        "code": "4.1.1.02.09",
+        "name": "BBNKB -Sepeda Motor - Sepeda Motor Roda 2 - LRA"
+    },
+    {
+        "code": "4.1.1.02.10",
+        "name": "BBNKB -Sepeda Motor - Sepeda Motor Roda 3 - LRA"
+    },
+    {
+        "code": "4.1.1.02.11",
+        "name": "BBNKB -Kendaraan Bermotor yang Dioperasikan di Air - LRA"
+    },
+    {
+        "code": "4.1.1.02.12",
+        "name": "Dst......."
+    },
+    {
+        "code": "4.1.1.03",
+        "name": "Pajak Bahan Bakar Kendaraan Bermotor - LRA"
+    },
+    {
+        "code": "4.1.1.03.01",
+        "name": "Pajak Bahan Bakar Premium - LRA"
+    },
+    {
+        "code": "4.1.1.03.02",
+        "name": "Pajak Bahan Bakar Pertamax - LRA"
+    },
+    {
+        "code": "4.1.1.03.03",
+        "name": "Pajak Bahan Bakar Pertamax Plus - LRA"
+    },
+    {
+        "code": "4.1.1.03.04",
+        "name": "Pajak Bahan Bakar Solar - LRA"
+    },
+    {
+        "code": "4.1.1.03.05",
+        "name": "Pajak Bahan Bakar Gas - LRA"
+    },
+    {
+        "code": "4.1.1.03.06",
+        "name": "Dst .............."
+    },
+    {
+        "code": "4.1.1.04",
+        "name": "Pajak Air Permukaan - LRA"
+    },
+    {
+        "code": "4.1.1.04.01",
+        "name": "Pajak Air Permukaan - LRA"
+    },
+    {
+        "code": "4.1.1.05",
+        "name": "Pajak Rokok - LRA"
+    },
+    {
+        "code": "4.1.1.05.01",
+        "name": "Pajak Rokok - LRA"
+    },
+    {
+        "code": "4.1.1.06",
+        "name": "Pajak Hotel - LRA"
+    },
+    {
+        "code": "4.1.1.06.01",
+        "name": "Hotel - LRA"
+    },
+    {
+        "code": "4.1.1.06.02",
+        "name": "Motel - LRA"
+    },
+    {
+        "code": "4.1.1.06.03",
+        "name": "Losmen - LRA"
+    },
+    {
+        "code": "4.1.1.06.04",
+        "name": "Gubuk Pariwisata - LRA"
+    },
+    {
+        "code": "4.1.1.06.05",
+        "name": "Wisma Pariwisata - LRA"
+    },
+    {
+        "code": "4.1.1.06.06",
+        "name": "Pesanggrahan - LRA"
+    },
+    {
+        "code": "4.1.1.06.07",
+        "name": "Rumah Penginapan dan sejenisnya - LRA"
+    },
+    {
+        "code": "4.1.1.06.08",
+        "name": "Rumah Kos dengan jumlah kamar lebih dari 10 (sepuluh) - LRA"
+    },
+    {
+        "code": "4.1.1.06.09",
+        "name": "Dst .............."
+    },
+    {
+        "code": "4.1.1.07",
+        "name": "Pajak Restoran - LRA"
+    },
+    {
+        "code": "4.1.1.07.01",
+        "name": "Restoran - LRA"
+    },
+    {
+        "code": "4.1.1.07.02",
+        "name": "Rumah Makan - LRA"
+    },
+    {
+        "code": "4.1.1.07.03",
+        "name": "Kafetaria - LRA"
+    },
+    {
+        "code": "4.1.1.07.04",
+        "name": "Kantin - LRA"
+    },
+    {
+        "code": "4.1.1.07.05",
+        "name": "Warung - LRA"
+    },
+    {
+        "code": "4.1.1.07.06",
+        "name": "Bar - LRA"
+    },
+    {
+        "code": "4.1.1.07.07",
+        "name": "Jasa Boga/ Katering - LRA"
+    },
+    {
+        "code": "4.1.1.07.08",
+        "name": "Dst .............."
+    },
+    {
+        "code": "4.1.1.08",
+        "name": "Pajak Hiburan - LRA"
+    },
+    {
+        "code": "4.1.1.08.01",
+        "name": "Tontonan Film/Bioskop - LRA"
+    },
+    {
+        "code": "4.1.1.08.02",
+        "name": "Pagelaran Kesenian/Musik/Tari/Busana - LRA"
+    },
+    {
+        "code": "4.1.1.08.03",
+        "name": "Kontes Kecantikan, Binaraga, dan sejenisnya - LRA"
+    },
+    {
+        "code": "4.1.1.08.04",
+        "name": "Pameran - LRA"
+    },
+    {
+        "code": "4.1.1.08.05",
+        "name": "Diskotik, Karaoke, Klab Malam dan sejenisnya - LRA"
+    },
+    {
+        "code": "4.1.1.08.06",
+        "name": "Sirkus/Akrobat/Sulap - LRA"
+    },
+    {
+        "code": "4.1.1.08.07",
+        "name": "Permainan Bilyar, Golf, Bowling - LRA"
+    },
+    {
+        "code": "4.1.1.08.08",
+        "name": "Pacuan Kuda, Kendaraan Bermotor, Permainan Ketangkasan - LRA"
+    },
+    {
+        "code": "4.1.1.08.09",
+        "name": "Panti Pijat, Refleksi, Mandi Uap/ Spa dan Pusat Kebugaran (fitnes center) - LRA"
+    },
+    {
+        "code": "4.1.1.08.10",
+        "name": "Pertandingan Olahraga - LRA"
+    },
+    {
+        "code": "4.1.1.08.11",
+        "name": "Dst .............."
+    },
+    {
+        "code": "4.1.1.09",
+        "name": "Pajak Reklame - LRA"
+    },
+    {
+        "code": "4.1.1.09.01",
+        "name": "Reklame Papan/Billboard/Videotron/Megatron - LRA"
+    },
+    {
+        "code": "4.1.1.09.02",
+        "name": "Reklame Kain - LRA"
+    },
+    {
+        "code": "4.1.1.09.03",
+        "name": "Reklame Melekat/Stiker - LRA"
+    },
+    {
+        "code": "4.1.1.09.04",
+        "name": "Reklame Selebaran - LRA"
+    },
+    {
+        "code": "4.1.1.09.05",
+        "name": "Reklame Berjalan - LRA"
+    },
+    {
+        "code": "4.1.1.09.06",
+        "name": "Reklame Udara - LRA"
+    },
+    {
+        "code": "4.1.1.09.07",
+        "name": "Reklame Apung - LRA"
+    },
+    {
+        "code": "4.1.1.09.08",
+        "name": "Reklame Suara - LRA"
+    },
+    {
+        "code": "4.1.1.09.09",
+        "name": "Reklame Film/Slide - LRA"
+    },
+    {
+        "code": "4.1.1.09.10",
+        "name": "Reklame Peragaan - LRA"
+    },
+    {
+        "code": "4.1.1.09.11",
+        "name": "Dst .............."
+    },
+    {
+        "code": "4.1.1.10",
+        "name": "Pajak Penerangan Jalan - LRA"
+    },
+    {
+        "code": "4.1.1.10.01",
+        "name": "Pajak Penerangan Jalan dihasilkan sendiri - LRA"
+    },
+    {
+        "code": "4.1.1.10.02",
+        "name": "Pajak Penerangan Jalan sumber lain - LRA"
+    },
+    {
+        "code": "4.1.1.11",
+        "name": "Pajak Parkir - LRA"
+    },
+    {
+        "code": "4.1.1.11.01",
+        "name": "Pajak Parkir - LRA"
+    },
+    {
+        "code": "4.1.1.12",
+        "name": "Pajak Air Tanah - LRA"
+    },
+    {
+        "code": "4.1.1.12.01",
+        "name": "Pajak Air Tanah - LRA"
+    },
+    {
+        "code": "4.1.1.13",
+        "name": "Pajak Sarang Burung Walet - LRA"
+    },
+    {
+        "code": "4.1.1.13.01",
+        "name": "Pajak Sarang Burung Walet - LRA"
+    },
+    {
+        "code": "4.1.1.14",
+        "name": "Pajak Mineral Bukan Logam dan Batuan - LRA"
+    },
+    {
+        "code": "4.1.1.14.01",
+        "name": "Asbes - LRA"
+    },
+    {
+        "code": "4.1.1.14.02",
+        "name": "Batu Tulis - LRA"
+    },
+    {
+        "code": "4.1.1.14.03",
+        "name": "Batu setengah permata - LRA"
+    },
+    {
+        "code": "4.1.1.14.04",
+        "name": "Batu Kapur - LRA"
+    },
+    {
+        "code": "4.1.1.14.05",
+        "name": "Batu Apung - LRA"
+    },
+    {
+        "code": "4.1.1.14.06",
+        "name": "Batu Permata - LRA"
+    },
+    {
+        "code": "4.1.1.14.07",
+        "name": "Bentonit - LRA"
+    },
+    {
+        "code": "4.1.1.14.08",
+        "name": "Dolomit - LRA"
+    },
+    {
+        "code": "4.1.1.14.09",
+        "name": "Feldspar - LRA"
+    },
+    {
+        "code": "4.1.1.14.10",
+        "name": "Garam Batu (Halite) - LRA"
+    },
+    {
+        "code": "4.1.1.14.11",
+        "name": "Grafit - LRA"
+    },
+    {
+        "code": "4.1.1.14.12",
+        "name": "Granit/Andesit - LRA"
+    },
+    {
+        "code": "4.1.1.14.13",
+        "name": "Gips - LRA"
+    },
+    {
+        "code": "4.1.1.14.14",
+        "name": "Kalsit - LRA"
+    },
+    {
+        "code": "4.1.1.14.15",
+        "name": "Kaolin - LRA"
+    },
+    {
+        "code": "4.1.1.14.16",
+        "name": "Leusit - LRA"
+    },
+    {
+        "code": "4.1.1.14.17",
+        "name": "Magnesit - LRA"
+    },
+    {
+        "code": "4.1.1.14.18",
+        "name": "Mika - LRA"
+    },
+    {
+        "code": "4.1.1.14.19",
+        "name": "Marmer - LRA"
+    },
+    {
+        "code": "4.1.1.14.20",
+        "name": "Nitrat - LRA"
+    },
+    {
+        "code": "4.1.1.14.21",
+        "name": "Opsidien - LRA"
+    },
+    {
+        "code": "4.1.1.14.22",
+        "name": "Oker - LRA"
+    },
+    {
+        "code": "4.1.1.14.23",
+        "name": "Pasir dan kerikil - LRA"
+    },
+    {
+        "code": "4.1.1.14.24",
+        "name": "Pasir Kuarsa - LRA"
+    },
+    {
+        "code": "4.1.1.14.25",
+        "name": "Perlit - LRA"
+    },
+    {
+        "code": "4.1.1.14.26",
+        "name": "Phospat - LRA"
+    },
+    {
+        "code": "4.1.1.14.27",
+        "name": "Talk - LRA"
+    },
+    {
+        "code": "4.1.1.14.28",
+        "name": "Tanah Serap (Fullers earth) - LRA"
+    },
+    {
+        "code": "4.1.1.14.29",
+        "name": "Tanah Diatome - LRA"
+    },
+    {
+        "code": "4.1.1.14.30",
+        "name": "Tanah Liat - LRA"
+    },
+    {
+        "code": "4.1.1.14.31",
+        "name": "Tawas (Alum) - LRA"
+    },
+    {
+        "code": "4.1.1.14.32",
+        "name": "Tras - LRA"
+    },
+    {
+        "code": "4.1.1.14.33",
+        "name": "Yarosif - LRA"
+    },
+    {
+        "code": "4.1.1.14.34",
+        "name": "Zeolit - LRA"
+    },
+    {
+        "code": "4.1.1.14.35",
+        "name": "Basal - LRA"
+    },
+    {
+        "code": "4.1.1.14.36",
+        "name": "Trakit - LRA"
+    },
+    {
+        "code": "4.1.1.14.37",
+        "name": "Mineral bukan logam dan lainnya - LRA"
+    },
+    {
+        "code": "4.1.1.15",
+        "name": "Pajak Bumi dan Bangunan Pedesaan dan Perkotaan - LRA"
+    },
+    {
+        "code": "4.1.1.15.01",
+        "name": "Pajak Bumi dan Bangunan Pedesaan dan Perkotaan - LRA"
+    },
+    {
+        "code": "4.1.1.16",
+        "name": "Bea Perolehan Hak Atas Tanah dan Bangunan (BPHTB) - LRA"
+    },
+    {
+        "code": "4.1.1.16.01",
+        "name": "BPHTB - Pemindahan Hak - LRA"
+    },
+    {
+        "code": "4.1.1.16.02",
+        "name": "BPHTB - Pemberian Hak Baru - LRA"
+    },
+    {
+        "code": "4.1.2",
+        "name": "Pendapatan Retribusi Daerah - LRA"
+    },
+    {
+        "code": "4.1.2.01",
+        "name": "Retribusi Pelayanan Kesehatan - LRA"
+    },
+    {
+        "code": "4.1.2.01.01",
+        "name": "Pelayanan kesehatan di Puskesmas - LRA"
+    },
+    {
+        "code": "4.1.2.01.02",
+        "name": "Puskesmas keliling - LRA"
+    },
+    {
+        "code": "4.1.2.01.03",
+        "name": "Puskesmas pembantu - LRA"
+    },
+    {
+        "code": "4.1.2.01.04",
+        "name": "Balai Pengobatan - LRA"
+    },
+    {
+        "code": "4.1.2.01.05",
+        "name": "Rumah Sakit Umum Daerah - LRA"
+    },
+    {
+        "code": "4.1.2.01.06",
+        "name": "Tempat pelayanan kesehatan lainnya yang sejenis yang dimiliki dan/atau dikelola oleh pemda - LRA"
+    },
+    {
+        "code": "4.1.2.02",
+        "name": "Retribusi Pelayanan Persampahan/ Kebersihan - LRA"
+    },
+    {
+        "code": "4.1.2.02.01",
+        "name": "Pengambilan/Pengumpulan Sampah dari sumbernya ke lokasi pembuangan sementara - LRA"
+    },
+    {
+        "code": "4.1.2.02.02",
+        "name": "Pengangkutan Sampah dari Sumbernya dan/atau lokasi pembuangan sementara ke lokasi pembuangan/pembuangan akhir sampah - LRA"
+    },
+    {
+        "code": "4.1.2.02.03",
+        "name": "Penyediaan Lokasi Pembuangan/Pemusnahan Akhir Sampah - LRA"
+    },
+    {
+        "code": "4.1.2.03",
+        "name": "Retribusi Penggantian Biaya Cetak Kartu Tanda Penduduk dan Akta Catatan Sipil - LRA"
+    },
+    {
+        "code": "4.1.2.03.01",
+        "name": "Kartu Tanda Penduduk - LRA"
+    },
+    {
+        "code": "4.1.2.03.02",
+        "name": "Kartu Keterangan Bertempat Tinggal - LRA"
+    },
+    {
+        "code": "4.1.2.03.03",
+        "name": "Kartu Identitas Kerja - LRA"
+    },
+    {
+        "code": "4.1.2.03.04",
+        "name": "Kartu Penduduk Sementara - LRA"
+    },
+    {
+        "code": "4.1.2.03.05",
+        "name": "Kartu Identitas Penduduk Musiman - LRA"
+    },
+    {
+        "code": "4.1.2.03.06",
+        "name": "Kartu Keluarga - LRA"
+    },
+    {
+        "code": "4.1.2.03.07",
+        "name": "Akta Catatan Sipil - LRA"
+    },
+    {
+        "code": "4.1.2.04",
+        "name": "Retribusi Pelayanan Pemakaman dan Pengabuan Mayat - LRA"
+    },
+    {
+        "code": "4.1.2.04.01",
+        "name": "Pelayanan Penguburan/Pemakaman - LRA"
+    },
+    {
+        "code": "4.1.2.04.02",
+        "name": "Sewa Tempat Pemakaman atau Pembakaran/Pengabuan Mayat - LRA"
+    },
+    {
+        "code": "4.1.2.05",
+        "name": "Retribusi Pelayanan Parkir di Tepi Jalan Umum - LRA"
+    },
+    {
+        "code": "4.1.2.05.01",
+        "name": "Penyediaan Pelayanan Parkir di Tepi Jalan Umum - LRA"
+    },
+    {
+        "code": "4.1.2.06",
+        "name": "Retribusi Pelayanan Pasar - LRA"
+    },
+    {
+        "code": "4.1.2.06.01",
+        "name": "Pelataran - LRA"
+    },
+    {
+        "code": "4.1.2.06.02",
+        "name": "Los - LRA"
+    },
+    {
+        "code": "4.1.2.06.03",
+        "name": "Kios - LRA"
+    },
+    {
+        "code": "4.1.2.07",
+        "name": "Retribusi Pengujian Kendaraan Bermotor - LRA"
+    },
+    {
+        "code": "4.1.2.07.01",
+        "name": "Retribusi PKB - Mobil Penumpang - Sedan - LRA"
+    },
+    {
+        "code": "4.1.2.07.02",
+        "name": "Retribusi PKB - Mobil Penumpang - Jeep - LRA"
+    },
+    {
+        "code": "4.1.2.07.03",
+        "name": "Retribusi PKB - Mobil Penumpang - Minibus - LRA"
+    },
+    {
+        "code": "4.1.2.07.04",
+        "name": "Retribusi PKB - Mobil Bus - Microbus - LRA"
+    },
+    {
+        "code": "4.1.2.07.05",
+        "name": "Retribusi PKB - Mobil Bus - Bus - LRA"
+    },
+    {
+        "code": "4.1.2.07.06",
+        "name": "Retribusi PKB - Mobil Barang/ Beban - Pick Up - LRA"
+    },
+    {
+        "code": "4.1.2.07.07",
+        "name": "Retribusi PKB - Mobil Barang/ Beban - Light Truck - LRA"
+    },
+    {
+        "code": "4.1.2.07.08",
+        "name": "Retribusi PKB - Mobil Barang/ Beban - Truck - LRA"
+    },
+    {
+        "code": "4.1.2.07.09",
+        "name": "Retribusi PKB - Sepeda Motor - Sepeda Motor Roda 2 - LRA"
+    },
+    {
+        "code": "4.1.2.07.10",
+        "name": "Retribusi PKB - Sepeda Motor - Sepeda Motor Roda 3 - LRA"
+    },
+    {
+        "code": "4.1.2.07.11",
+        "name": "Retribusi PKB - Kendaraan Bermotor yang Dioperasikan di Air - LRA"
+    },
+    {
+        "code": "4.1.2.07.12",
+        "name": "Dst........"
+    },
+    {
+        "code": "4.1.2.08",
+        "name": "Retribusi Pemeriksaan Alat Pemadam Kebakaran - LRA"
+    },
+    {
+        "code": "4.1.2.08.01",
+        "name": "Pelayanan Pemeriksaan dan/atau Pengujian Alat Pemadam Kebakaran - LRA"
+    },
+    {
+        "code": "4.1.2.08.02",
+        "name": "Alat Penanggulangan Kebakaran - LRA"
+    },
+    {
+        "code": "4.1.2.08.03",
+        "name": "Alat Penyelamatan Jiwa - LRA"
+    },
+    {
+        "code": "4.1.2.08.04",
+        "name": "Dst........"
+    },
+    {
+        "code": "4.1.2.09",
+        "name": "Retribusi Penggantian Biaya Cetak Peta - LRA"
+    },
+    {
+        "code": "4.1.2.09.01",
+        "name": "Penyediaan Peta Dasar (Garis) - LRA"
+    },
+    {
+        "code": "4.1.2.09.02",
+        "name": "Penyediaan Peta Foto - LRA"
+    },
+    {
+        "code": "4.1.2.09.03",
+        "name": "Penyediaan Peta Digital - LRA"
+    },
+    {
+        "code": "4.1.2.09.04",
+        "name": "Penyediaan Peta Tematik - LRA"
+    },
+    {
+        "code": "4.1.2.09.05",
+        "name": "Penyediaan Peta Teknis (Struktur) - LRA"
+    },
+    {
+        "code": "4.1.2.10",
+        "name": "Retribusi Penyediaan dan/atau Penyedotan Kakus - LRA"
+    },
+    {
+        "code": "4.1.2.10.01",
+        "name": "Penyediaan dan/atau Penyedotan Kakus - LRA"
+    },
+    {
+        "code": "4.1.2.11",
+        "name": "Retribusi Pengolahan Limbah Cair - LRA"
+    },
+    {
+        "code": "4.1.2.11.01",
+        "name": "Rumah Tangga - LRA"
+    },
+    {
+        "code": "4.1.2.11.02",
+        "name": "Perkantoran - LRA"
+    },
+    {
+        "code": "4.1.2.11.03",
+        "name": "Industri - LRA"
+    },
+    {
+        "code": "4.1.2.12",
+        "name": "Retribusi Pelayanan Tera/Tera Ulang - LRA"
+    },
+    {
+        "code": "4.1.2.12.01",
+        "name": "Pengujian Alat-alat ukur, takar, timbang, dan perlengkapannya - LRA"
+    },
+    {
+        "code": "4.1.2.12.02",
+        "name": "Pengujian dalam keadaan terbungkus - LRA"
+    },
+    {
+        "code": "4.1.2.13",
+        "name": "Retribusi Pelayanan Pendidikan - LRA"
+    },
+    {
+        "code": "4.1.2.13.01",
+        "name": "Pelayanan Penyelenggaraan Pendidikan - LRA"
+    },
+    {
+        "code": "4.1.2.13.02",
+        "name": "Pelatihan Teknis - LRA"
+    },
+    {
+        "code": "4.1.2.14",
+        "name": "Retribusi Pengendalian Menara Telekomunikasi - LRA"
+    },
+    {
+        "code": "4.1.2.14.01",
+        "name": "Pemanfaatan ruang untuk menara telekomunikasi - LRA"
+    },
+    {
+        "code": "4.1.2.15",
+        "name": "Retribusi Pemakaian Kekayaan Daerah - LRA"
+    },
+    {
+        "code": "4.1.2.15.01",
+        "name": "Penyewaan Tanah dan Bangunan - LRA"
+    },
+    {
+        "code": "4.1.2.15.02",
+        "name": "Laboratorium - LRA"
+    },
+    {
+        "code": "4.1.2.15.03",
+        "name": "Ruangan -LRA"
+    },
+    {
+        "code": "4.1.2.15.04",
+        "name": "Kendaraan Bermotor - LRA"
+    },
+    {
+        "code": "4.1.2.16",
+        "name": "Retribusi Pasar Grosir dan/ atau Pertokoan - LRA"
+    },
+    {
+        "code": "4.1.2.16.01",
+        "name": "Penyediaan Fasilitas Pasar Grosir berbagai Jenis Barang - LRA"
+    },
+    {
+        "code": "4.1.2.16.02",
+        "name": "Fasilitas Pasar/Pertokoan yang Dikontrakkan - LRA"
+    },
+    {
+        "code": "4.1.2.16.03",
+        "name": "Fasilitas Pasar atau Pertokoan yang disediakan/diselenggarakan oleh Pemerintah Daerah - LRA"
+    },
+    {
+        "code": "4.1.2.17",
+        "name": "Retribusi Tempat Pelelangan - LRA"
+    },
+    {
+        "code": "4.1.2.17.01",
+        "name": "Pelelangan Ikan - LRA"
+    },
+    {
+        "code": "4.1.2.17.02",
+        "name": "Pelelangan Ternak - LRA"
+    },
+    {
+        "code": "4.1.2.17.03",
+        "name": "Pelelangan Hasil Bumi - LRA"
+    },
+    {
+        "code": "4.1.2.17.04",
+        "name": "Pelelangan Hasil Hutan - LRA"
+    },
+    {
+        "code": "4.1.2.17.05",
+        "name": "Jasa Pelelangan serta Fasilitas Lainnya yang disediakan di Tempat Pelelangan - LRA"
+    },
+    {
+        "code": "4.1.2.18",
+        "name": "Retribusi Terminal - LRA"
+    },
+    {
+        "code": "4.1.2.18.01",
+        "name": "Pelayanan Penyediaan Tempat Parkir untuk Kendaraan Penumpang dan Bis Umum - LRA"
+    },
+    {
+        "code": "4.1.2.18.02",
+        "name": "Tempat Kegiatan Usaha - LRA"
+    },
+    {
+        "code": "4.1.2.18.03",
+        "name": "Fasilitas Lainnya di Lingkungan Terminal - LRA"
+    },
+    {
+        "code": "4.1.2.19",
+        "name": "Retribusi Tempat Khusus Parkir - LRA"
+    },
+    {
+        "code": "4.1.2.19.01",
+        "name": "Pelayanan Tempat Khusus Parkir - LRA"
+    },
+    {
+        "code": "4.1.2.20",
+        "name": "Retribusi Tempat Penginapan/ Pesanggrahan/ Villa - LRA"
+    },
+    {
+        "code": "4.1.2.20.01",
+        "name": "Pelayanan Tempat Penginapan/Pesanggrahan/Vila - LRA"
+    },
+    {
+        "code": "4.1.2.21",
+        "name": "Retribusi Rumah Potong Hewan - LRA"
+    },
+    {
+        "code": "4.1.2.21.01",
+        "name": "Pelayanan Pemeriksaan Kesehatan Hewan sebelum dipotong - LRA"
+    },
+    {
+        "code": "4.1.2.21.02",
+        "name": "Pelayanan Pemeriksaan Kesehatan Hewan sesudah dipotong - LRA"
+    },
+    {
+        "code": "4.1.2.22",
+        "name": "Retribusi Pelayanan Kepelabuhan - LRA"
+    },
+    {
+        "code": "4.1.2.22.01",
+        "name": "Pelayanan Jasa ke Pelabuhan - LRA"
+    },
+    {
+        "code": "4.1.2.23",
+        "name": "Retribusi Tempat Rekreasi dan Olah raga- LRA"
+    },
+    {
+        "code": "4.1.2.23.01",
+        "name": "Pelayanan Tempat Rekreasi - LRA"
+    },
+    {
+        "code": "4.1.2.23.02",
+        "name": "Pelayanan Tempat Pariwisata - LRA"
+    },
+    {
+        "code": "4.1.2.23.03",
+        "name": "Pelayanan Tempat Olahraga - LRA"
+    },
+    {
+        "code": "4.1.2.24",
+        "name": "Retribusi Penyeberangan Air - LRA"
+    },
+    {
+        "code": "4.1.2.24.01",
+        "name": "Pelayanan Penyeberangan Orang - LRA"
+    },
+    {
+        "code": "4.1.2.24.02",
+        "name": "Pelayanan Penyeberangan Barang - LRA"
+    },
+    {
+        "code": "4.1.2.25",
+        "name": "Retribusi Penjualan Produksi Usaha Daerah - LRA"
+    },
+    {
+        "code": "4.1.2.25.01",
+        "name": "Penjualan Hasil Produksi Usaha Daerah - LRA"
+    },
+    {
+        "code": "4.1.2.26",
+        "name": "Retribusi Izin Mendirikan Bangunan - LRA"
+    },
+    {
+        "code": "4.1.2.26.01",
+        "name": "Pemberian Izin Mendirikan Bangunan - LRA"
+    },
+    {
+        "code": "4.1.2.27",
+        "name": "Retribusi Izin Tempat Penjualan Minuman Beralkohol - LRA"
+    },
+    {
+        "code": "4.1.2.27.01",
+        "name": "Pemberian Izin Tempat Penjualan Minuman Beralkohol - LRA"
+    },
+    {
+        "code": "4.1.2.28",
+        "name": "Retribusi Izin Gangguan - LRA"
+    },
+    {
+        "code": "4.1.2.28.01",
+        "name": "Pemberian Izin Gangguan tempat Usaha/Kegiatan kepada Orang Pribadi - LRA"
+    },
+    {
+        "code": "4.1.2.28.02",
+        "name": "Pemberian Izin Gangguan tempat Usaha/Kegiatan kepada Badan - LRA"
+    },
+    {
+        "code": "4.1.2.29",
+        "name": "Retribusi Izin Trayek - LRA"
+    },
+    {
+        "code": "4.1.2.29.01",
+        "name": "Pemberian Izin Trayek kepada Orang Pribadi - LRA"
+    },
+    {
+        "code": "4.1.2.29.02",
+        "name": "Pemberian Izin Trayek kepada Badan - LRA"
+    },
+    {
+        "code": "4.1.2.30",
+        "name": "Retribusi Izin Perikanan - LRA"
+    },
+    {
+        "code": "4.1.2.30.01",
+        "name": "Pemberian Izin usaha Perikanan kepada Orang Pribadi - LRA"
+    },
+    {
+        "code": "4.1.2.30.02",
+        "name": "Pemberian Izin usaha Perikanan kepada Badan - LRA"
+    },
+    {
+        "code": "4.1.2.31",
+        "name": "Retribusi Pengendalian Lalu Lintas - LRA"
+    },
+    {
+        "code": "4.1.2.31.01",
+        "name": "Penggunaan ruas jalan tertentu - LRA"
+    },
+    {
+        "code": "4.1.2.31.02",
+        "name": "Penggunaan koridor tertentu -LRA"
+    },
+    {
+        "code": "4.1.2.31.03",
+        "name": "Penggunaan kawasan tertentu pada waktu tertentu oleh kendaraan bermotor perseorangan dan barang - LRA"
+    },
+    {
+        "code": "4.1.2.32",
+        "name": "Retribusi Perpanjangan Izin Mempekerjakan Tenaga Kerja Asing (IMTA) - LRA"
+    },
+    {
+        "code": "4.1.2.32.01",
+        "name": "Pemberian Perpanjangan IMTA kepada Pemberi Kerja Tenaga Kerja Asing - LRA"
+    },
+    {
+        "code": "4.1.3",
+        "name": "Pendapatan Hasil Pengelolaan Kekayaan Daerah yang Dipisahkan - LRA"
+    },
+    {
+        "code": "4.1.3.01",
+        "name": "Bagian Laba yang dibagikan kepada Pemda (deviden) atas penyertaan modal pada Perusahaan Milik Daerah/BUMD - LRA"
+    },
+    {
+        "code": "4.1.3.01.01",
+        "name": "Bagian Laba yang dibagikan kepada Pemda (deviden) atas penyertaan modal pada Perusahaan Daerah/BUMD ........ - LRA"
+    },
+    {
+        "code": "4.1.3.01.02",
+        "name": "Dst .............."
+    },
+    {
+        "code": "4.1.3.02",
+        "name": "Bagian Laba yang dibagikan kepada Pemda (deviden) atas penyertaan modal pada Perusahaan Milik Negara/BUMN - LRA"
+    },
+    {
+        "code": "4.1.3.02.01",
+        "name": "Bagian Laba yang dibagikan kepada Pemda (deviden) atas penyertaan modal pada BUMN .............. - LRA"
+    },
+    {
+        "code": "4.1.3.02.02",
+        "name": "Dst .............."
+    },
+    {
+        "code": "4.1.3.03",
+        "name": "Bagian Laba yang dibagikan kepada Pemda (deviden) atas penyertaan modal pada Perusahaan Milik Swasta - LRA"
+    },
+    {
+        "code": "4.1.3.03.01",
+        "name": "Bagian Laba yang dibagikan kepada Pemda (deviden) atas penyertaan modal pada Perusahaan Milik Swasta ........ - LRA"
+    },
+    {
+        "code": "4.1.3.03.02",
+        "name": "Dst .............."
+    },
+    {
+        "code": "4.1.4",
+        "name": "Lain-lain PAD Yang Sah - LRA"
+    },
+    {
+        "code": "4.1.4.01",
+        "name": "Hasil Penjualan Aset Daerah Yang Tidak Dipisahkan - LRA"
+    },
+    {
+        "code": "4.1.4.01.01",
+        "name": "Hasil Penjualan Tanah - LRA"
+    },
+    {
+        "code": "4.1.4.01.02",
+        "name": "Hasil Penjualan Peralatan dan Mesin - LRA"
+    },
+    {
+        "code": "4.1.4.01.03",
+        "name": "Hasil Penjualan Gedung dan Bangunan - LRA"
+    },
+    {
+        "code": "4.1.4.01.04",
+        "name": "Hasil Penjualan Jalan, Irigasi dan Jaringan - LRA"
+    },
+    {
+        "code": "4.1.4.01.05",
+        "name": "Hasil Penjualan Aset Tetap Lainnya - LRA"
+    },
+    {
+        "code": "4.1.4.02",
+        "name": "Hasil Penjualan Aset Lainnya - LRA"
+    },
+    {
+        "code": "4.1.4.02.01",
+        "name": "Hasil Penjualan Aset Lainnya - LRA"
+    },
+    {
+        "code": "4.1.4.03",
+        "name": "Penerimaan Jasa Giro - LRA"
+    },
+    {
+        "code": "4.1.4.03.01",
+        "name": "Jasa Giro Kas Daerah - LRA"
+    },
+    {
+        "code": "4.1.4.03.02",
+        "name": "Jasa Giro Bendahara - LRA"
+    },
+    {
+        "code": "4.1.4.03.03",
+        "name": "Jasa Giro Dana Cadangan - LRA"
+    },
+    {
+        "code": "4.1.4.03.04",
+        "name": "Dst .............."
+    },
+    {
+        "code": "4.1.4.04",
+        "name": "Pendapatan Bunga - LRA"
+    },
+    {
+        "code": "4.1.4.04.01",
+        "name": "Pendapatan Bunga Deposito…... - LRA"
+    },
+    {
+        "code": "4.1.4.04.02",
+        "name": "Pendapatan Bunga Dana Bergulir .............. - LRA"
+    },
+    {
+        "code": "4.1.4.04.03",
+        "name": "Dst .............."
+    },
+    {
+        "code": "4.1.4.05",
+        "name": "Tuntutan Ganti Kerugian Daerah - LRA"
+    },
+    {
+        "code": "4.1.4.05.01",
+        "name": "Tuntutan Ganti Kerugian Daerah Terhadap Bendahara - LRA"
+    },
+    {
+        "code": "4.1.4.05.02",
+        "name": "Tuntutan Ganti Kerugian Daerah Terhadap Pegawai Negeri Bukan Bendahara - LRA"
+    },
+    {
+        "code": "4.1.4.06",
+        "name": "Komisi, Potongan dan Selisih Nilai Tukar Rupiah - LRA"
+    },
+    {
+        "code": "4.1.4.06.01",
+        "name": "Penerimaan Komisi dari Penempatan Kas Daerah - LRA"
+    },
+    {
+        "code": "4.1.4.06.02",
+        "name": "Penerimaan Potongan dari .............. - LRA"
+    },
+    {
+        "code": "4.1.4.06.03",
+        "name": "Penerimaan Keuntungan Selisih Nilai Tukar Rupiah dari .............. - LRA"
+    },
+    {
+        "code": "4.1.4.06.04",
+        "name": "Dst .............."
+    },
+    {
+        "code": "4.1.4.07",
+        "name": "Pendapatan Denda atas Keterlambatan Pelaksanaan Pekerjaan - LRA"
+    },
+    {
+        "code": "4.1.4.07.01",
+        "name": "Pendapatan Denda atas Keterlambatan Pelaksanaan Pekerjaan ......... - LRA"
+    },
+    {
+        "code": "4.1.4.07.02",
+        "name": "Dst .............."
+    },
+    {
+        "code": "4.1.4.08",
+        "name": "Pendapatan Denda Pajak - LRA"
+    },
+    {
+        "code": "4.1.4.08.01",
+        "name": "Pendapatan Denda Pajak Kendaraan Bermotor - LRA"
+    },
+    {
+        "code": "4.1.4.08.02",
+        "name": "Pendapatan Denda Bea Balik Nama Kendaraan Bermotor - LRA"
+    },
+    {
+        "code": "4.1.4.08.03",
+        "name": "Pendapatan Denda Pajak Bahan Bakar Kendaraan Bermotor - LRA"
+    },
+    {
+        "code": "4.1.4.08.04",
+        "name": "Pendapatan Denda Pajak Air Permukaan - LRA"
+    },
+    {
+        "code": "4.1.4.08.05",
+        "name": "Pendapatan Denda Pajak Rokok - LRA"
+    },
+    {
+        "code": "4.1.4.08.06",
+        "name": "Pendapatan Denda Pajak Hotel - LRA"
+    },
+    {
+        "code": "4.1.4.08.07",
+        "name": "Pendapatan Denda Pajak Restoran - LRA"
+    },
+    {
+        "code": "4.1.4.08.08",
+        "name": "Pendapatan Denda Pajak Hiburan - LRA"
+    },
+    {
+        "code": "4.1.4.08.09",
+        "name": "Pendapatan Denda Pajak Reklame - LRA"
+    },
+    {
+        "code": "4.1.4.08.10",
+        "name": "Pendapatan Denda Pajak Penerangan Jalan - LRA"
+    },
+    {
+        "code": "4.1.4.08.11",
+        "name": "Pendapatan Denda Pajak Parkir - LRA"
+    },
+    {
+        "code": "4.1.4.08.12",
+        "name": "Pendapatan Denda Pajak Air Tanah - LRA"
+    },
+    {
+        "code": "4.1.4.08.13",
+        "name": "Pendapatan Denda Pajak Sarang Burung Walet - LRA"
+    },
+    {
+        "code": "4.1.4.08.14",
+        "name": "Pendapatan Denda Pajak Mineral Bukan Logam dan Batuan - LRA"
+    },
+    {
+        "code": "4.1.4.08.15",
+        "name": "Pendapatan Denda Pajak Bumi dan Bangunan Pedesaan dan Perkotaan - LRA"
+    },
+    {
+        "code": "4.1.4.08.16",
+        "name": "Pendapatan Denda Bea Perolehan Hak Atas Tanah dan Bangunan - LRA"
+    },
+    {
+        "code": "4.1.4.09",
+        "name": "Pendapatan Denda Retribusi - LRA"
+    },
+    {
+        "code": "4.1.4.09.01",
+        "name": "Pendapatan Denda Retribusi Pelayanan Kesehatan - LRA"
+    },
+    {
+        "code": "4.1.4.09.02",
+        "name": "Pendapatan Denda Retribusi Pelayanan Persampahan/ Kebersihan - LRA"
+    },
+    {
+        "code": "4.1.4.09.03",
+        "name": "Pendapatan Denda Retribusi Penggantian Biaya Cetak Kartu Tanda Penduduk dan Akta Catatan Sipil - LRA"
+    },
+    {
+        "code": "4.1.4.09.04",
+        "name": "Pendapatan Denda Retribusi Pelayanan Pemakaman dan Pengabuan Mayat - LRA"
+    },
+    {
+        "code": "4.1.4.09.05",
+        "name": "Pendapatan Denda Retribusi Pelayanan Parkir di Tepi Jalan Umum - LRA"
+    },
+    {
+        "code": "4.1.4.09.06",
+        "name": "Pendapatan Denda Retribusi Pelayanan Pasar - LRA"
+    },
+    {
+        "code": "4.1.4.09.07",
+        "name": "Pendapatan Denda Retribusi Pengujian Kendaraan Bermotor - LRA"
+    },
+    {
+        "code": "4.1.4.09.08",
+        "name": "Pendapatan Denda Retribusi Pemeriksaan Alat Pemadam Kebakaran - LRA"
+    },
+    {
+        "code": "4.1.4.09.09",
+        "name": "Pendapatan Denda Retribusi Penggantian Biaya Cetak Peta - LRA"
+    },
+    {
+        "code": "4.1.4.09.10",
+        "name": "Pendapatan Denda Retribusi Penyediaan dan/atau Penyedotan Kakus - LRA"
+    },
+    {
+        "code": "4.1.4.09.11",
+        "name": "Pendapatan Denda Retribusi Pengolahan Limbah Cair - LRA"
+    },
+    {
+        "code": "4.1.4.09.12",
+        "name": "Pendapatan Denda Retribusi Pelayanan Tera/Tera Ulang - LRA"
+    },
+    {
+        "code": "4.1.4.09.13",
+        "name": "Pendapatan Denda Retribusi Pelayanan Pendidikan - LRA"
+    },
+    {
+        "code": "4.1.4.09.14",
+        "name": "Pendapatan Denda Retribusi Pengendalian Menara Telekomunikasi - LRA"
+    },
+    {
+        "code": "4.1.4.09.15",
+        "name": "Pendapatan Denda Retribusi Pemakaian Kekayaan Daerah - LRA"
+    },
+    {
+        "code": "4.1.4.09.16",
+        "name": "Pendapatan Denda Retribusi Pasar Grosir dan/ atau Pertokoan - LRA"
+    },
+    {
+        "code": "4.1.4.09.17",
+        "name": "Pendapatan Denda Retribusi Tempat Pelelangan - LRA"
+    },
+    {
+        "code": "4.1.4.09.18",
+        "name": "Pendapatan Denda Retribusi Terminal - LRA"
+    },
+    {
+        "code": "4.1.4.09.19",
+        "name": "Pendapatan Denda Retribusi Tempat Khusus Parkir - LRA"
+    },
+    {
+        "code": "4.1.4.09.20",
+        "name": "Pendapatan Denda Retribusi Tempat Penginapan/ Pesanggrahan/ Villa - LRA"
+    },
+    {
+        "code": "4.1.4.09.21",
+        "name": "Pendapatan Denda Retribusi Rumah Potong Hewan - LRA"
+    },
+    {
+        "code": "4.1.4.09.22",
+        "name": "Pendapatan Denda Retribusi Pelayanan Kepelabuhan - LRA"
+    },
+    {
+        "code": "4.1.4.09.23",
+        "name": "Pendapatan Denda Retribusi Tempat Rekreasi dan Olah raga- LRA"
+    },
+    {
+        "code": "4.1.4.09.24",
+        "name": "Pendapatan Denda Retribusi Penyeberangan Air - LRA"
+    },
+    {
+        "code": "4.1.4.09.25",
+        "name": "Pendapatan Denda Retribusi Penjualan Produksi Usaha Daerah - LRA"
+    },
+    {
+        "code": "4.1.4.09.26",
+        "name": "Pendapatan Denda Retribusi Izin Mendirikan Bangunan - LRA"
+    },
+    {
+        "code": "4.1.4.09.27",
+        "name": "Pendapatan Denda Retribusi Izin Tempat Penjualan Minuman Beralkohol - LRA"
+    },
+    {
+        "code": "4.1.4.09.28",
+        "name": "Pendapatan Denda Retribusi Izin Gangguan - LRA"
+    },
+    {
+        "code": "4.1.4.09.29",
+        "name": "Pendapatan Denda Retribusi Izin Trayek - LRA"
+    },
+    {
+        "code": "4.1.4.09.30",
+        "name": "Pendapatan Denda Retribusi Izin Perikanan - LRA"
+    },
+    {
+        "code": "4.1.4.09.31",
+        "name": "Pendapatan Denda Retribusi Pengendalian Lalu Lintas - LRA"
+    },
+    {
+        "code": "4.1.4.09.32",
+        "name": "Pendapatan Denda Retribusi Perpanjangan Izin Mempekerjakan Tenaga Kerja Asing (IMTA) - LRA"
+    },
+    {
+        "code": "4.1.4.10",
+        "name": "Pendapatan Denda Pemanfaatan Aset Daerah - LRA"
+    },
+    {
+        "code": "4.1.4.10.01",
+        "name": "Pendapatan Denda Sewa Aset Daerah - LRA"
+    },
+    {
+        "code": "4.1.4.10.02",
+        "name": "Pendapatan Denda Kerjasama Pemanfaatan Aset Daerah - LRA"
+    },
+    {
+        "code": "4.1.4.10.03",
+        "name": "Pendapatan Denda Bangun Guna Serah - LRA"
+    },
+    {
+        "code": "4.1.4.10.04",
+        "name": "Pendapatan Denda Bangun Serah Guna - LRA"
+    },
+    {
+        "code": "4.1.4.11",
+        "name": "Pendapatan Denda Atas Pelanggaran Perda - LRA"
+    },
+    {
+        "code": "4.1.4.11.01",
+        "name": "Pendapatan Denda Atas Pelanggaran Perda ........... - LRA"
+    },
+    {
+        "code": "4.1.4.11.02",
+        "name": "Dst ........................"
+    },
+    {
+        "code": "4.1.4.12",
+        "name": "Pendapatan Hasil Eksekusi atas Jaminan - LRA"
+    },
+    {
+        "code": "4.1.4.12.01",
+        "name": "Hasil Eksekusi Atas Jaminan atas Pengadaan Barang/Jasa - LRA"
+    },
+    {
+        "code": "4.1.4.12.02",
+        "name": "Hasil Eksekusi Atas Jaminan atas Pembongkaran Reklame - LRA"
+    },
+    {
+        "code": "4.1.4.12.03",
+        "name": "Dst .............."
+    },
+    {
+        "code": "4.1.4.13",
+        "name": "Pendapatan dari Pengembalian"
+    },
+    {
+        "code": "4.1.4.13.01",
+        "name": "Pendapatan dari Pengembalian Kelebihan Pajak Penghasilan Pasal 21 - LRA"
+    },
+    {
+        "code": "4.1.4.13.02",
+        "name": "Pendapatan Dari Pengembalian Kelebihan Pembayaran Asuransi Kesehatan - LRA"
+    },
+    {
+        "code": "4.1.4.13.03",
+        "name": "Pendapatan Dari Pengembalian Kelebihan Pembayaran Gaji dan Tunjangan - LRA"
+    },
+    {
+        "code": "4.1.4.13.04",
+        "name": "Pendapatan Dari Pengembalian Kelebihan Pembayaran Perjalanan Dinas - LRA"
+    },
+    {
+        "code": "4.1.4.13.05",
+        "name": "Dst .............."
+    },
+    {
+        "code": "4.1.4.14",
+        "name": "Pendapatan Penyelenggaraan Sekolah dan Diklat - LRA"
+    },
+    {
+        "code": "4.1.4.14.01",
+        "name": "Pendapatan Penyelenggaraan Sekolah - LRA"
+    },
+    {
+        "code": "4.1.4.14.02",
+        "name": "Pendapatan Penyelenggaraan Diklat - LRA"
+    },
+    {
+        "code": "4.1.4.14.03",
+        "name": "Dst .............."
+    },
+    {
+        "code": "4.1.4.15",
+        "name": "Pendapatan dari Angsuran/Cicilan Penjualan - LRA"
+    },
+    {
+        "code": "4.1.4.15.01",
+        "name": "Angsuran/Cicilan Penjualan Rumah Dinas Daerah Golongan III - LRA"
+    },
+    {
+        "code": "4.1.4.15.02",
+        "name": "Angsuran/Cicilan Penjualan Kendaraan Perorangan Dinas - LRA"
+    },
+    {
+        "code": "4.1.4.15.03",
+        "name": "Dst .............."
+    },
+    {
+        "code": "4.1.4.16",
+        "name": "Hasil dari Pemanfaatan Kekayaan Daerah - LRA"
+    },
+    {
+        "code": "4.1.4.16.01",
+        "name": "Hasil dari Pemanfaatan Kekayaan Daerah Sewa - LRA"
+    },
+    {
+        "code": "4.1.4.16.02",
+        "name": "Hasil dari Pemanfaatan Kekayaan Daerah Kerjasama Pemanfaatan- LRA"
+    },
+    {
+        "code": "4.1.4.16.03",
+        "name": "Hasil dari Pemanfaatan Kekayaan Daerah Bangun Guna Serah - LRA"
+    },
+    {
+        "code": "4.1.4.16.04",
+        "name": "Hasil dari Pemanfaatan Kekayaan Daerah Bangun Serah Guna - LRA"
+    },
+    {
+        "code": "4.1.4.17",
+        "name": "Pendapatan Zakat* - LRA"
+    },
+    {
+        "code": "4.1.4.17.01",
+        "name": "Pendapatan Zakat* .......... - LRA"
+    },
+    {
+        "code": "4.1.4.18",
+        "name": "Pendapatan BLUD - LRA"
+    },
+    {
+        "code": "4.1.4.18.01",
+        "name": "Pendapatan Jasa Layanan Umum BLUD - LRA"
+    },
+    {
+        "code": "4.1.4.18.02",
+        "name": "Pendapatan Hibah BLUD - LRA"
+    },
+    {
+        "code": "4.1.4.18.03",
+        "name": "Pendapatan Hasil Kerjasama BLUD - LRA"
+    },
+    {
+        "code": "4.1.4.18.04",
+        "name": "Dst ................."
+    },
+    {
+        "code": "4.1.4.19",
+        "name": "Lain-lain PAD yang Sah Lainnya - LRA"
+    },
+    {
+        "code": "4.1.4.19.01",
+        "name": "Lain-lain PAD yang Sah Lainnya - LRA"
+    },
+    {
+        "code": "4.2",
+        "name": "PENDAPATAN TRANSFER - LRA"
+    },
+    {
+        "code": "4.2.1",
+        "name": "Pendapatan Transfer Pemerintah Pusat-Dana Perimbangan - LRA"
+    },
+    {
+        "code": "4.2.1.01",
+        "name": "Bagi Hasil Pajak - LRA"
+    },
+    {
+        "code": "4.2.1.01.01",
+        "name": "Bagi Hasil dari Pajak Bumi dan Bangunan sektor Pertambangan - LRA"
+    },
+    {
+        "code": "4.2.1.01.02",
+        "name": "Bagi Hasil dari Pajak Bumi dan Bangunan sektor Perkebunan - LRA"
+    },
+    {
+        "code": "4.2.1.01.03",
+        "name": "Bagi Hasil dari Pajak Bumi dan Bangunan sektor Perhutanan - LRA"
+    },
+    {
+        "code": "4.2.1.01.04",
+        "name": "Bagi Hasil dari Pajak Penghasilan (PPh) Pasal 25 dan Pasal 29 Wajib Pajak Orang Pribadi Dalam Negeri dan PPh Pasal 21 - LRA"
+    },
+    {
+        "code": "4.2.1.01.05",
+        "name": "Bagi hasil Cukai Hasil Tembakau - LRA"
+    },
+    {
+        "code": "4.2.1.02",
+        "name": "Bagi Hasil Bukan Pajak/Sumber Daya Alam - LRA"
+    },
+    {
+        "code": "4.2.1.02.01",
+        "name": "Bagi Hasil dari Iuran Hak Pengusahaan Hutan - LRA"
+    },
+    {
+        "code": "4.2.1.02.02",
+        "name": "Bagi Hasil dari Provisi Sumber Daya Hutan - LRA"
+    },
+    {
+        "code": "4.2.1.02.03",
+        "name": "Bagi Hasil dari Dana Reboisasi - LRA"
+    },
+    {
+        "code": "4.2.1.02.04",
+        "name": "Bagi Hasil dari Iuran Tetap (Land-Rent) - LRA"
+    },
+    {
+        "code": "4.2.1.02.05",
+        "name": "Bagi Hasil dari Iuran Eksplorasi dan Iuran Eksploitasi (Royalti) - LRA"
+    },
+    {
+        "code": "4.2.1.02.06",
+        "name": "Bagi Hasil dari Pungutan Pengusahaan Perikanan - LRA"
+    },
+    {
+        "code": "4.2.1.02.07",
+        "name": "Bagi Hasil dari Pungutan Hasil Perikanan - LRA"
+    },
+    {
+        "code": "4.2.1.02.08",
+        "name": "Bagi Hasil dari Pertambangan Minyak Bumi - LRA"
+    },
+    {
+        "code": "4.2.1.02.09",
+        "name": "Bagi Hasil dari Pertambangan Gas Bumi - LRA"
+    },
+    {
+        "code": "4.2.1.02.10",
+        "name": "Bagi Hasil dari Pertambangan Panas Bumi - LRA"
+    },
+    {
+        "code": "4.2.1.03",
+        "name": "Dana Alokasi Umum (DAU) - LRA"
+    },
+    {
+        "code": "4.2.1.03.01",
+        "name": "Dana Alokasi Umum - LRA"
+    },
+    {
+        "code": "4.2.1.04",
+        "name": "Dana Alokasi Khusus (DAK) - LRA"
+    },
+    {
+        "code": "4.2.1.04.01",
+        "name": "DAK Bidang Infrastruktur Jalan - LRA"
+    },
+    {
+        "code": "4.2.1.04.02",
+        "name": "DAK Bidang Infrastruktur Irigasi - LRA"
+    },
+    {
+        "code": "4.2.1.04.03",
+        "name": "DAK Bidang Infrastruktur Air Minum - LRA"
+    },
+    {
+        "code": "4.2.1.04.04",
+        "name": "DAK Bidang Infrastruktur Sanitasi- LRA"
+    },
+    {
+        "code": "4.2.1.04.05",
+        "name": "DAK Bidang Keluarga Berencana - LRA"
+    },
+    {
+        "code": "4.2.1.04.06",
+        "name": "DAK Bidang Kehutanan - LRA"
+    },
+    {
+        "code": "4.2.1.04.07",
+        "name": "DAK Bidang Perumahan dan Kawasan Pemukiman - LRA"
+    },
+    {
+        "code": "4.2.1.04.08",
+        "name": "DAK Bidang Kesehatan - LRA"
+    },
+    {
+        "code": "4.2.1.04.09",
+        "name": "DAK Bidang Kelautan dan Perikanan - LRA"
+    },
+    {
+        "code": "4.2.1.04.10",
+        "name": "DAK Bidang Prasarana Pemerintahan - LRA"
+    },
+    {
+        "code": "4.2.1.04.11",
+        "name": "DAK Bidang Transportasi Perdesaan - LRA"
+    },
+    {
+        "code": "4.2.1.04.12",
+        "name": "DAK Bidang Perdagangan - LRA"
+    },
+    {
+        "code": "4.2.1.04.13",
+        "name": "DAK Bidang Lingkungan Hidup - LRA"
+    },
+    {
+        "code": "4.2.1.04.14",
+        "name": "DAK Bidang Sarana dan Prasarana Daerah Tertinggal (SPDT) - LRA"
+    },
+    {
+        "code": "4.2.1.04.15",
+        "name": "DAK Bidang Pertanian - LRA"
+    },
+    {
+        "code": "4.2.1.04.16",
+        "name": "DAK Bidang Energi Pedesaan - LRA"
+    },
+    {
+        "code": "4.2.1.04.17",
+        "name": "DAK Bidang Sarana dan Prasarana Kawasan Perbatasan - LRA"
+    },
+    {
+        "code": "4.2.1.04.18",
+        "name": "DAK Bidang Pendidikan - LRA"
+    },
+    {
+        "code": "4.2.1.04.19",
+        "name": "DAK Bidang Keselamatan Transportasi Darat - LRA"
+    },
+    {
+        "code": "4.2.1.04.20",
+        "name": "Dst ................"
+    },
+    {
+        "code": "4.2.2",
+        "name": "Pendapatan Transfer Pemerintah Pusat - Lainnya - LRA"
+    },
+    {
+        "code": "4.2.2.01",
+        "name": "Dana Otonomi Khusus - LRA"
+    },
+    {
+        "code": "4.2.2.01.01",
+        "name": "Dana Otonomi Khusus - LRA"
+    },
+    {
+        "code": "4.2.2.01.02",
+        "name": "Dana Tambahan Infrastruktur- LRA"
+    },
+    {
+        "code": "4.2.2.02",
+        "name": "Dana Keistimewaan - LRA"
+    },
+    {
+        "code": "4.2.2.02.01",
+        "name": "Dana Keistimewaan - LRA**"
+    },
+    {
+        "code": "4.2.2.03",
+        "name": "Dana Penyesuaian - LRA"
+    },
+    {
+        "code": "4.2.2.03.01",
+        "name": "Tunjangan Profesi Guru PNSD - LRA"
+    },
+    {
+        "code": "4.2.2.03.02",
+        "name": "Dana Tambahan Penghasilan Guru PNSD - LRA"
+    },
+    {
+        "code": "4.2.2.03.03",
+        "name": "Dana Insentif Daerah - LRA"
+    },
+    {
+        "code": "4.2.2.03.04",
+        "name": "Dana Proyek Pemerintah Daerah dan Desentralisasi Provinsi - LRA"
+    },
+    {
+        "code": "4.2.2.03.05",
+        "name": "Bantuan Operasional Sekolah - LRA***"
+    },
+    {
+        "code": "4.2.2.03.06",
+        "name": "Dst .............."
+    },
+    {
+        "code": "4.2.3",
+        "name": "Pendapatan Transfer Pemerintah Daerah Lainnya - LRA"
+    },
+    {
+        "code": "4.2.3.01",
+        "name": "Pendapatan Bagi Hasil Pajak - LRA"
+    },
+    {
+        "code": "4.2.3.01.01",
+        "name": "Pendapatan Bagi Hasil Pajak .......... - LRA"
+    },
+    {
+        "code": "4.2.3.01.02",
+        "name": "Dst .............."
+    },
+    {
+        "code": "4.2.3.02",
+        "name": "Pendapatan Bagi hasil Lainnya - LRA"
+    },
+    {
+        "code": "4.2.3.02.01",
+        "name": "Pendapatan Bagi hasil Lainnya .......... - LRA"
+    },
+    {
+        "code": "4.2.3.02.02",
+        "name": "Dst .............."
+    },
+    {
+        "code": "4.2.3.03",
+        "name": "Pendapatan Dana Otonomi Khusus - LRA"
+    },
+    {
+        "code": "4.2.3.03.01",
+        "name": "Pendapatan Dana Otonomi Khusus - LRA"
+    },
+    {
+        "code": "4.2.4",
+        "name": "Bantuan Keuangan - LRA"
+    },
+    {
+        "code": "4.2.4.01",
+        "name": "Bantuan Keuangan dari Pemerintah Daerah Provinsi Lainnya - LRA"
+    },
+    {
+        "code": "4.2.4.01.01",
+        "name": "Bantuan Keuangan dari Pemerintah Daerah Provinsi …... - LRA"
+    },
+    {
+        "code": "4.2.4.01.02",
+        "name": "Dst .............."
+    },
+    {
+        "code": "4.2.4.02",
+        "name": "Bantuan Keuangan dari Pemerintah Daerah Kabupaten - LRA"
+    },
+    {
+        "code": "4.2.4.02.01",
+        "name": "Bantuan Keuangan dari Pemerintah Daerah Kabupaten ……..…. - LRA"
+    },
+    {
+        "code": "4.2.4.02.02",
+        "name": "Dst .............."
+    },
+    {
+        "code": "4.2.4.03",
+        "name": "Bantuan Keuangan dari Pemerintah Daerah Kota - LRA"
+    },
+    {
+        "code": "4.2.4.03.01",
+        "name": "Bantuan Keuangan dari Pemerintah Daerah Kota ………… - LRA"
+    },
+    {
+        "code": "4.2.4.03.02",
+        "name": "Dst .............."
+    },
+    {
+        "code": "4.3",
+        "name": "LAIN-LAIN PENDAPATAN DAERAH YANG SAH - LRA"
+    },
+    {
+        "code": "4.3.1",
+        "name": "Pendapatan Hibah - LRA"
+    },
+    {
+        "code": "4.3.1.01",
+        "name": "Pendapatan Hibah dari Pemerintah - LRA"
+    },
+    {
+        "code": "4.3.1.01.01",
+        "name": "Pendapatan Hibah dari Pemerintah"
+    },
+    {
+        "code": "4.3.1.02",
+        "name": "Pendapatan Hibah dari Pemerintah Daerah Lainnya - LRA"
+    },
+    {
+        "code": "4.3.1.02.01",
+        "name": "Pendapatan Hibah dari Pemerintah Daerah Lainnya - LRA"
+    },
+    {
+        "code": "4.3.1.03",
+        "name": "Pendapatan Hibah dari Badan/Lembaga/Organisasi Swasta dalam Negeri - LRA"
+    },
+    {
+        "code": "4.3.1.03.01",
+        "name": "Pendapatan Hibah dari Badan/Lembaga/Organisasi Swasta dalam Negeri .......... - LRA"
+    },
+    {
+        "code": "4.3.1.03.02",
+        "name": "Dst .............."
+    },
+    {
+        "code": "4.3.1.04",
+        "name": "Pendapatan Hibah dari kelompok masyarakat/perorangan - LRA"
+    },
+    {
+        "code": "4.3.1.04.01",
+        "name": "Pendapatan Hibah dari kelompok masyarakat - LRA"
+    },
+    {
+        "code": "4.3.1.04.02",
+        "name": "Pendapatan Hibah dari perorangan - LRA"
+    },
+    {
+        "code": "4.3.2",
+        "name": "Dana Darurat - LRA"
+    },
+    {
+        "code": "4.3.2.01",
+        "name": "Dana Darurat - LRA"
+    },
+    {
+        "code": "4.3.2.01.01",
+        "name": "Korban/Kerusakan Akibat Bencana Alam - LRA"
+    },
+    {
+        "code": "4.3.2.01.02",
+        "name": "Dst .............."
+    },
+    {
+        "code": "4.3.3",
+        "name": "Pendapatan Lainnya - LRA"
+    },
+    {
+        "code": "4.3.3.01",
+        "name": "Pendapatan Lainnya - LRA"
+    },
+    {
+        "code": "4.3.3.01.01",
+        "name": "Pendapatan Sumbangan Pihak Ketiga - LRA"
+    },
+    {
+        "code": "4.3.3.01.02",
+        "name": "Dst .............."
+    }
+]

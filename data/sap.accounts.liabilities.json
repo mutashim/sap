@@ -1,0 +1,570 @@
+[
+    {
+        "code": "2",
+        "name": "KEWAJIBAN"
+    },
+    {
+        "code": "2.1",
+        "name": "KEWAJIBAN JANGKA PENDEK"
+    },
+    {
+        "code": "2.1.1",
+        "name": "Utang Perhitungan Pihak Ketiga (PFK)"
+    },
+    {
+        "code": "2.1.1.01",
+        "name": "Utang Taspen"
+    },
+    {
+        "code": "2.1.1.01.01",
+        "name": "Utang Taspen"
+    },
+    {
+        "code": "2.1.1.02",
+        "name": "Utang Iuran Jaminan Kesehatan"
+    },
+    {
+        "code": "2.1.1.02.01",
+        "name": "Utang Iuran Jaminan Kesehatan"
+    },
+    {
+        "code": "2.1.1.03",
+        "name": "Utang PPh Pusat"
+    },
+    {
+        "code": "2.1.1.03.01",
+        "name": "Utang PPh 21"
+    },
+    {
+        "code": "2.1.1.03.02",
+        "name": "Utang PPh 22"
+    },
+    {
+        "code": "2.1.1.03.03",
+        "name": "Utang PPh 23"
+    },
+    {
+        "code": "2.1.1.03.04",
+        "name": "Utang PPh 25"
+    },
+    {
+        "code": "2.1.1.03.05",
+        "name": "Dst..................."
+    },
+    {
+        "code": "2.1.1.04",
+        "name": "Utang PPN Pusat"
+    },
+    {
+        "code": "2.1.1.04.01",
+        "name": "Utang PPN Pusat"
+    },
+    {
+        "code": "2.1.1.05",
+        "name": "Utang Taperum"
+    },
+    {
+        "code": "2.1.1.05.01",
+        "name": "Utang Taperum"
+    },
+    {
+        "code": "2.1.1.06",
+        "name": "Utang Iuran Wajib Pegawai"
+    },
+    {
+        "code": "2.1.1.06.01",
+        "name": "Utang Iuran Wajib Pegawai"
+    },
+    {
+        "code": "2.1.1.07",
+        "name": "Utang Perhitungan Pihak Ketiga Lainnya"
+    },
+    {
+        "code": "2.1.1.07.01",
+        "name": "Utang Perhitungan Pihak Ketiga Lainnya ........"
+    },
+    {
+        "code": "2.1.1.07.02",
+        "name": "Dst..................."
+    },
+    {
+        "code": "2.1.1.08",
+        "name": "Utang Jaminan"
+    },
+    {
+        "code": "2.1.1.08.01",
+        "name": "Utang Jaminan ......."
+    },
+    {
+        "code": "2.1.1.08.02",
+        "name": "Dst..................."
+    },
+    {
+        "code": "2.1.2",
+        "name": "Utang Bunga"
+    },
+    {
+        "code": "2.1.2.01",
+        "name": "Utang Bunga kepada Pemerintah"
+    },
+    {
+        "code": "2.1.2.01.01",
+        "name": "Utang Bunga kepada Pemerintah"
+    },
+    {
+        "code": "2.1.2.02",
+        "name": "Utang Bunga kepada Pemerintah Daerah Lainnya"
+    },
+    {
+        "code": "2.1.2.02.01",
+        "name": "Utang Bunga kepada Pemerintah Daerah Lainnya ......."
+    },
+    {
+        "code": "2.1.2.02.02",
+        "name": "Dst..................."
+    },
+    {
+        "code": "2.1.2.03",
+        "name": "Utang Bunga Kepada BUMN/BUMD"
+    },
+    {
+        "code": "2.1.2.03.01",
+        "name": "Utang Bunga Kepada BUMN"
+    },
+    {
+        "code": "2.1.2.03.02",
+        "name": "Utang Bunga Kepada BUMD"
+    },
+    {
+        "code": "2.1.2.04",
+        "name": "Utang Bunga kepada Bank/Lembaga Keuangan Bukan Bank"
+    },
+    {
+        "code": "2.1.2.04.01",
+        "name": "Utang Bunga kepada Bank"
+    },
+    {
+        "code": "2.1.2.04.02",
+        "name": "Utang Bunga kepada Lembaga Keuangan Bukan Bank"
+    },
+    {
+        "code": "2.1.2.05",
+        "name": "Utang Bunga Dalam Negeri Lainnya"
+    },
+    {
+        "code": "2.1.2.05.01",
+        "name": "Utang Bunga Dalam Negeri Lainnya ......."
+    },
+    {
+        "code": "2.1.2.05.02",
+        "name": "Dst..................."
+    },
+    {
+        "code": "2.1.2.06",
+        "name": "Utang Bunga Luar Negeri"
+    },
+    {
+        "code": "2.1.2.06.01",
+        "name": "Utang Bunga Luar Negeri……………………"
+    },
+    {
+        "code": "2.1.2.06.02",
+        "name": "Dst..................."
+    },
+    {
+        "code": "2.1.3",
+        "name": "Bagian Lancar Utang Jangka Panjang"
+    },
+    {
+        "code": "2.1.3.01",
+        "name": "Bagian Lancar Utang Dalam Negeri Sektor Perbankan"
+    },
+    {
+        "code": "2.1.3.01.01",
+        "name": "Bagian Lancar Utang Dalam Negeri Sektor Perbankan ......."
+    },
+    {
+        "code": "2.1.3.01.02",
+        "name": "Dst..................."
+    },
+    {
+        "code": "2.1.3.02",
+        "name": "Bagian Lancar Utang dari Lembaga Keuangan Bukan Bank"
+    },
+    {
+        "code": "2.1.3.02.01",
+        "name": "Bagian Lancar Utang dari Lembaga Keuangan Bukan Bank ......."
+    },
+    {
+        "code": "2.1.3.02.02",
+        "name": "Dst..................."
+    },
+    {
+        "code": "2.1.3.03",
+        "name": "Bagian Lancar Utang Pemerintah Pusat"
+    },
+    {
+        "code": "2.1.3.03.01",
+        "name": "Bagian Lancar Utang Pemerintah Pusat ......"
+    },
+    {
+        "code": "2.1.3.03.02",
+        "name": "Dst..................."
+    },
+    {
+        "code": "2.1.3.04",
+        "name": "Bagian Lancar Utang Pemerintah Provinsi Lainnya"
+    },
+    {
+        "code": "2.1.3.04.01",
+        "name": "Bagian Lancar Utang Pemerintah Provinsi Lainnya ......"
+    },
+    {
+        "code": "2.1.3.04.02",
+        "name": "Dst..................."
+    },
+    {
+        "code": "2.1.3.05",
+        "name": "Bagian Lancar Utang Pemerintah Kabupaten/Kota"
+    },
+    {
+        "code": "2.1.3.05.01",
+        "name": "Bagian Lancar Utang Pemerintah Kabupaten/Kota ........"
+    },
+    {
+        "code": "2.1.3.05.02",
+        "name": "Dst..................."
+    },
+    {
+        "code": "2.1.4",
+        "name": "Pendapatan Diterima Dimuka"
+    },
+    {
+        "code": "2.1.4.01",
+        "name": "Setoran Kelebihan Pembayaran Dari Pihak III"
+    },
+    {
+        "code": "2.1.4.01.01",
+        "name": "Setoran Kelebihan Pembayaran Dari Pihak III ......."
+    },
+    {
+        "code": "2.1.4.01.02",
+        "name": "Dst..................."
+    },
+    {
+        "code": "2.1.4.02",
+        "name": "Uang Muka Penjualan Produk Pemda Dari Pihak III"
+    },
+    {
+        "code": "2.1.4.02.01",
+        "name": "Uang Muka Penjualan Produk Pemda Dari Pihak III ......."
+    },
+    {
+        "code": "2.1.4.02.02",
+        "name": "Dst..................."
+    },
+    {
+        "code": "2.1.4.03",
+        "name": "Uang Muka Lelang Penjualan Aset Daerah"
+    },
+    {
+        "code": "2.1.4.03.01",
+        "name": "Uang Muka Lelang Penjualan Aset Daerah ......."
+    },
+    {
+        "code": "2.1.4.03.02",
+        "name": "Dst..................."
+    },
+    {
+        "code": "2.1.4.04",
+        "name": "Pendapatan Diterima Dimuka lainnya"
+    },
+    {
+        "code": "2.1.4.04.01",
+        "name": "Pendapatan Diterima Dimuka lainnya ......."
+    },
+    {
+        "code": "2.1.4.04.02",
+        "name": "Dst................... "
+    },
+    {
+        "code": "2.1.5",
+        "name": "Utang Belanja"
+    },
+    {
+        "code": "2.1.5.01",
+        "name": "Utang Belanja Pegawai"
+    },
+    {
+        "code": "2.1.5.01.01",
+        "name": "Utang Belanja Gaji dan Tunjangan ......."
+    },
+    {
+        "code": "2.1.5.01.02",
+        "name": "Dst..................."
+    },
+    {
+        "code": "2.1.5.02",
+        "name": "Utang Belanja Barang dan Jasa"
+    },
+    {
+        "code": "2.1.5.02.01",
+        "name": "Utang Belanja Jasa"
+    },
+    {
+        "code": "2.1.5.02.02",
+        "name": "Utang Belanja Pemeliharaan"
+    },
+    {
+        "code": "2.1.5.02.03",
+        "name": "Utang Belanja Perjalanan Dinas"
+    },
+    {
+        "code": "2.1.5.02.04",
+        "name": "Utang Belanja Beasiswa Pendidikan PNS"
+    },
+    {
+        "code": "2.1.5.02.05",
+        "name": "Utang Belanja kursus, pelatihan, sosialisasi dan bimbingan teknis PNS"
+    },
+    {
+        "code": "2.1.5.02.06",
+        "name": "Dst..................."
+    },
+    {
+        "code": "2.1.5.03",
+        "name": "Utang Belanja Modal"
+    },
+    {
+        "code": "2.1.5.03.01",
+        "name": "Utang Belanja Modal Tanah"
+    },
+    {
+        "code": "2.1.5.03.02",
+        "name": "Utang Belanja Modal Peralatan dan Mesin"
+    },
+    {
+        "code": "2.1.5.03.03",
+        "name": "Utang Belanja Modal Gedung dan Bangunan"
+    },
+    {
+        "code": "2.1.5.03.04",
+        "name": "Utang Belanja Modal Jalan, Irigasi dan Jaringan"
+    },
+    {
+        "code": "2.1.5.03.05",
+        "name": "Utang Belanja Modal Aset Tetap Lainnya"
+    },
+    {
+        "code": "2.1.5.04",
+        "name": "Utang Belanja Subsidi"
+    },
+    {
+        "code": "2.1.5.04.01",
+        "name": "Utang Belanja Subsidi kepada BUMN"
+    },
+    {
+        "code": "2.1.5.04.02",
+        "name": "Utang Belanja Subsidi kepada BUMD"
+    },
+    {
+        "code": "2.1.5.04.03",
+        "name": "Utang Belanja Subsidi kepada Pihak Ketiga Lainnya"
+    },
+    {
+        "code": "2.1.5.04.04",
+        "name": "Dst..................."
+    },
+    {
+        "code": "2.1.5.05",
+        "name": "Utang Transfer Pemerintah Daerah Lainnya"
+    },
+    {
+        "code": "2.1.5.05.01",
+        "name": "Utang Transfer Bagi Hasil Pajak Daerah"
+    },
+    {
+        "code": "2.1.5.05.02",
+        "name": "Utang Transfer Lainnya ......."
+    },
+    {
+        "code": "2.1.5.05.03",
+        "name": "Dst ......."
+    },
+    {
+        "code": "2.1.5.06",
+        "name": "Utang Belanja Lain-lain"
+    },
+    {
+        "code": "2.1.5.06.01",
+        "name": "Utang Belanja Lain-lain ......."
+    },
+    {
+        "code": "2.1.5.06.02",
+        "name": "Dst..................."
+    },
+    {
+        "code": "2.1.6",
+        "name": "Utang Jangka Pendek Lainnya"
+    },
+    {
+        "code": "2.1.6.01",
+        "name": "Utang Kelebihan Pembayaran PAD"
+    },
+    {
+        "code": "2.1.6.01.01",
+        "name": "Utang Kelebihan Pembayaran Pajak"
+    },
+    {
+        "code": "2.1.6.01.02",
+        "name": "Utang Kelebihan Pembayaran Retribusi"
+    },
+    {
+        "code": "2.1.6.01.03",
+        "name": "Utang Kelebihan Pembayaran Hasil Pengelolaan Kekayaan daerah yang dipisahkan"
+    },
+    {
+        "code": "2.1.6.01.04",
+        "name": "Utang Kelebihan Pembayaran Lain-lain PAD yang sah"
+    },
+    {
+        "code": "2.1.6.02",
+        "name": "Utang Kelebihan Pembayaran Transfer"
+    },
+    {
+        "code": "2.1.6.02.01",
+        "name": "Utang Kelebihan Pembayaran Transfer Pemerintah Pusat - Dana Perimbangan"
+    },
+    {
+        "code": "2.1.6.02.02",
+        "name": "Utang Kelebihan Pembayaran Transfer Pemerintah Pusat Lainnya"
+    },
+    {
+        "code": "2.1.6.02.03",
+        "name": "Utang Kelebihan Pembayaran Transfer Pemerintah Daerah Lainnya"
+    },
+    {
+        "code": "2.1.6.02.04",
+        "name": "Utang Kelebihan Pembayaran Transfer Bantuan Keuangan dari Provinsi dan Pemerintah Daerah Lainnya"
+    },
+    {
+        "code": "2.1.6.03",
+        "name": "Utang Kelebihan Pembayaran Lain-Lain Pendapatan yang Sah"
+    },
+    {
+        "code": "2.1.6.03.01",
+        "name": "Utang Kelebihan Pembayaran Hibah"
+    },
+    {
+        "code": "2.1.6.03.02",
+        "name": "Utang Kelebihan Pembayaran Pendapatan Lainnya"
+    },
+    {
+        "code": "2.1.6.04",
+        "name": "Utang Transfer"
+    },
+    {
+        "code": "2.1.6.04.01",
+        "name": "Utang Transfer Bagi Hasil Pajak"
+    },
+    {
+        "code": "2.1.6.04.02",
+        "name": "Utang Transfer Bagi Hasil Pendapatan Lainnya"
+    },
+    {
+        "code": "2.1.6.04.03",
+        "name": "Utang Transfer Bantuan Keuangan ke Pemerintah Daerah Lainnya"
+    },
+    {
+        "code": "2.1.6.04.04",
+        "name": "Utang Transfer Bantuan Keuangan ke Desa"
+    },
+    {
+        "code": "2.1.6.04.05",
+        "name": "Utang Transfer Bantuan Kepada Partai Politik"
+    },
+    {
+        "code": "2.1.6.04.06",
+        "name": "Dst..................."
+    },
+    {
+        "code": "2.1.6.05",
+        "name": "Utang Jangka Pendek Lainnya"
+    },
+    {
+        "code": "2.1.6.05.01",
+        "name": "Utang Jangka Pendek Lainnya ........."
+    },
+    {
+        "code": "2.1.6.05.02",
+        "name": "Dst..................."
+    },
+    {
+        "code": "2.2",
+        "name": "KEWAJIBAN JANGKA PANJANG"
+    },
+    {
+        "code": "2.2.1",
+        "name": "Utang Dalam Negeri"
+    },
+    {
+        "code": "2.2.1.01",
+        "name": "Utang Dalam Negeri Sektor Perbankan"
+    },
+    {
+        "code": "2.2.1.01.01",
+        "name": "Utang Dalam Negeri Sektor Perbankan"
+    },
+    {
+        "code": "2.2.1.02",
+        "name": "Utang Dari Lembaga Keuangan Bukan Bank"
+    },
+    {
+        "code": "2.2.1.02.01",
+        "name": "Utang Dari Lembaga Keuangan Bukan Bank"
+    },
+    {
+        "code": "2.2.1.03",
+        "name": "Utang Dalam Negeri-Obligasi"
+    },
+    {
+        "code": "2.2.1.03.01",
+        "name": "Utang Dalam Negeri-Obligasi"
+    },
+    {
+        "code": "2.2.1.04",
+        "name": "Utang Pemerintah Pusat"
+    },
+    {
+        "code": "2.2.1.04.01",
+        "name": "Utang Pemerintah Pusat"
+    },
+    {
+        "code": "2.2.1.05",
+        "name": "Utang Pemerintah Daerah Lainnya"
+    },
+    {
+        "code": "2.2.1.05.01",
+        "name": "Utang Pemerintah Daerah Lainnya"
+    },
+    {
+        "code": "2.2.1.06",
+        "name": "Utang Dalam Negeri Lainnya"
+    },
+    {
+        "code": "2.2.1.06.01",
+        "name": "Utang Dalam Negeri Lainnya"
+    },
+    {
+        "code": "2.2.2",
+        "name": "Utang Jangka Panjang Lainnya"
+    },
+    {
+        "code": "2.2.2.01",
+        "name": "Utang Jangka Panjang Lainnya"
+    },
+    {
+        "code": "2.2.2.01.01",
+        "name": "Utang Jangka Panjang Lainnya"
+    }
+]

@@ -1,0 +1,4398 @@
+[
+    {
+        "code": "1",
+        "name": "ASET"
+    },
+    {
+        "code": "1.1",
+        "name": "ASET LANCAR"
+    },
+    {
+        "code": "1.1.1",
+        "name": "Kas dan Setara Kas"
+    },
+    {
+        "code": "1.1.1.01",
+        "name": "Kas di Kas Daerah"
+    },
+    {
+        "code": "1.1.1.01.01",
+        "name": "Kas di Kas Daerah"
+    },
+    {
+        "code": "1.1.1.02",
+        "name": "Kas di Bendahara Penerimaan"
+    },
+    {
+        "code": "1.1.1.02.01",
+        "name": "Kas di Bendahara Penerimaan"
+    },
+    {
+        "code": "1.1.1.03",
+        "name": "Kas di Bendahara Pengeluaran"
+    },
+    {
+        "code": "1.1.1.03.01",
+        "name": "Kas di Bendahara Pengeluaran"
+    },
+    {
+        "code": "1.1.1.04",
+        "name": "Kas di BLUD"
+    },
+    {
+        "code": "1.1.1.04.01",
+        "name": "Kas di BLUD"
+    },
+    {
+        "code": "1.1.1.05",
+        "name": "Kas Lainnya"
+    },
+    {
+        "code": "1.1.1.05.01",
+        "name": "Kas Lainnya"
+    },
+    {
+        "code": "1.1.1.06",
+        "name": "Setara Kas"
+    },
+    {
+        "code": "1.1.1.06.01",
+        "name": "Setara Kas …"
+    },
+    {
+        "code": "1.1.1.06.02",
+        "name": "Dst …………………"
+    },
+    {
+        "code": "1.1.2",
+        "name": "Investasi Jangka Pendek"
+    },
+    {
+        "code": "1.1.2.01",
+        "name": "Investasi dalam Saham"
+    },
+    {
+        "code": "1.1.2.01.01",
+        "name": "Investasi dalam Saham ...."
+    },
+    {
+        "code": "1.1.2.01.02",
+        "name": "Dst ............"
+    },
+    {
+        "code": "1.1.2.02",
+        "name": "Investasi dalam Deposito"
+    },
+    {
+        "code": "1.1.2.02.01",
+        "name": "Deposito Jangka Pendek"
+    },
+    {
+        "code": "1.1.2.03",
+        "name": "Investasi dalam SUN"
+    },
+    {
+        "code": "1.1.2.03.01",
+        "name": "Investasi dalam SUN"
+    },
+    {
+        "code": "1.1.2.04",
+        "name": "Investasi dalam SBI"
+    },
+    {
+        "code": "1.1.2.04.01",
+        "name": "Investasi dalam SBI"
+    },
+    {
+        "code": "1.1.2.05",
+        "name": "Investasi dalam SPN"
+    },
+    {
+        "code": "1.1.2.05.01",
+        "name": "Investasi dalam SPN"
+    },
+    {
+        "code": "1.1.2.06",
+        "name": "Investasi Jangka Pendek BLUD"
+    },
+    {
+        "code": "1.1.2.06.01",
+        "name": "Investasi Jangka Pendek BLUD"
+    },
+    {
+        "code": "1.1.2.07",
+        "name": "Investasi Jangka Pendek Lainnya"
+    },
+    {
+        "code": "1.1.2.07.01",
+        "name": "Investasi Jangka Pendek Lainnya"
+    },
+    {
+        "code": "1.1.3",
+        "name": "Piutang Pendapatan"
+    },
+    {
+        "code": "1.1.3.01",
+        "name": "Piutang Pajak Daerah"
+    },
+    {
+        "code": "1.1.3.01.01",
+        "name": "Piutang Pajak Kendaraan Bermotor"
+    },
+    {
+        "code": "1.1.3.01.02",
+        "name": "Piutang Bea Balik Nama Kendaraan Bermotor"
+    },
+    {
+        "code": "1.1.3.01.03",
+        "name": "Piutang Pajak Bahan Bakar Kendaraan Bermotor"
+    },
+    {
+        "code": "1.1.3.01.04",
+        "name": "Piutang Pajak Air Permukaan"
+    },
+    {
+        "code": "1.1.3.01.05",
+        "name": "Piutang Pajak Rokok"
+    },
+    {
+        "code": "1.1.3.01.06",
+        "name": "Piutang Pajak Hotel"
+    },
+    {
+        "code": "1.1.3.01.07",
+        "name": "Piutang Pajak Restoran"
+    },
+    {
+        "code": "1.1.3.01.08",
+        "name": "Piutang Pajak Hiburan"
+    },
+    {
+        "code": "1.1.3.01.09",
+        "name": "Piutang Pajak Reklame"
+    },
+    {
+        "code": "1.1.3.01.10",
+        "name": "Piutang Pajak Penerangan Jalan"
+    },
+    {
+        "code": "1.1.3.01.11",
+        "name": "Piutang Pajak Parkir"
+    },
+    {
+        "code": "1.1.3.01.12",
+        "name": "Piutang Pajak Air Tanah"
+    },
+    {
+        "code": "1.1.3.01.13",
+        "name": "Piutang Pajak Sarang Burung Walet"
+    },
+    {
+        "code": "1.1.3.01.14",
+        "name": "Piutang Pajak Mineral Bukan Logam dan Batuan"
+    },
+    {
+        "code": "1.1.3.01.15",
+        "name": "Piutang Pajak Bumi dan Bangunan Pedesaan dan Perkotaan"
+    },
+    {
+        "code": "1.1.3.01.16",
+        "name": "Piutang Bea Perolehan Hak Atas Tanah dan Bangunan"
+    },
+    {
+        "code": "1.1.3.02",
+        "name": "Piutang Retribusi"
+    },
+    {
+        "code": "1.1.3.02.01",
+        "name": "Piutang Retribusi Pelayanan Kesehatan"
+    },
+    {
+        "code": "1.1.3.02.02",
+        "name": "Piutang Retribusi Pelayanan Persampahan/Kebersihan"
+    },
+    {
+        "code": "1.1.3.02.03",
+        "name": "Piutang Retribusi Penggantian Biaya Cetak Kartu Tanda Penduduk dan Akta Catatan Sipil"
+    },
+    {
+        "code": "1.1.3.02.04",
+        "name": "Piutang Retribusi Pelayanan Pemakaman dan Pengabuan Mayat"
+    },
+    {
+        "code": "1.1.3.02.05",
+        "name": "Piutang Retribusi Pelayanan Parkir di Tepi Jalan Umum"
+    },
+    {
+        "code": "1.1.3.02.06",
+        "name": "Piutang Retribusi Pelayanan Pasar"
+    },
+    {
+        "code": "1.1.3.02.07",
+        "name": "Piutang Retribusi Pengujian Kendaraan Bermotor"
+    },
+    {
+        "code": "1.1.3.02.08",
+        "name": "Piutang Retribusi Pemeriksaan Alat Pemadam Kebakaran"
+    },
+    {
+        "code": "1.1.3.02.09",
+        "name": "Piutang Retribusi Penggantian Biaya Cetak Peta"
+    },
+    {
+        "code": "1.1.3.02.10",
+        "name": "Piutang Retribusi Penyediaan dan/atau Penyedotan Kakus"
+    },
+    {
+        "code": "1.1.3.02.11",
+        "name": "Piutang Retribusi Pengolahan Limbah Cair"
+    },
+    {
+        "code": "1.1.3.02.12",
+        "name": "Piutang Retribusi Pelayanan Tera/Tera Ulang"
+    },
+    {
+        "code": "1.1.3.02.13",
+        "name": "Piutang Retribusi Pelayanan Pendidikan"
+    },
+    {
+        "code": "1.1.3.02.14",
+        "name": "Piutang Retribusi Pengendalian Menara Telekomunikasi"
+    },
+    {
+        "code": "1.1.3.02.15",
+        "name": "Piutang Retribusi Pemakaian Kekayaan Daerah"
+    },
+    {
+        "code": "1.1.3.02.16",
+        "name": "Piutang Retribusi Pasar Grosir dan/atau Pertokoan"
+    },
+    {
+        "code": "1.1.3.02.17",
+        "name": "Piutang Retribusi Tempat Pelelangan"
+    },
+    {
+        "code": "1.1.3.02.18",
+        "name": "Piutang Retribusi Terminal"
+    },
+    {
+        "code": "1.1.3.02.19",
+        "name": "Piutang Retribusi Tempat Khusus Parkir"
+    },
+    {
+        "code": "1.1.3.02.20",
+        "name": "Piutang Retribusi Tempat Penginapan/ Pesanggrahan/ Villa"
+    },
+    {
+        "code": "1.1.3.02.21",
+        "name": "Piutang Retribusi Rumah Potong Hewan"
+    },
+    {
+        "code": "1.1.3.02.22",
+        "name": "Piutang Retribusi Pelayanan Kepelabuhan"
+    },
+    {
+        "code": "1.1.3.02.23",
+        "name": "Piutang Retribusi Tempat Rekreasi dan Olah raga"
+    },
+    {
+        "code": "1.1.3.02.24",
+        "name": "Piutang Retribusi Penyebrangan Air"
+    },
+    {
+        "code": "1.1.3.02.25",
+        "name": "Piutang Retribusi Penjualan Produksi Usaha Daerah"
+    },
+    {
+        "code": "1.1.3.02.26",
+        "name": "Piutang Retribusi Izin Mendirikan Bangunan"
+    },
+    {
+        "code": "1.1.3.02.27",
+        "name": "Piutang Retribusi Izin Tempat Penjualan Minuman Beralkohol"
+    },
+    {
+        "code": "1.1.3.02.28",
+        "name": "Piutang Retribusi Izin Gangguan"
+    },
+    {
+        "code": "1.1.3.02.29",
+        "name": "Piutang Retribusi Izin Trayek"
+    },
+    {
+        "code": "1.1.3.02.30",
+        "name": "Piutang Retribusi Izin Perikanan"
+    },
+    {
+        "code": "1.1.3.02.31",
+        "name": "Piutang Retribusi Pengendalian Lalu Lintas"
+    },
+    {
+        "code": "1.1.3.02.32",
+        "name": "Piutang Retribusi Perpanjangan Izin Mempekerjakan Tenaga Kerja Asing (IMTA)"
+    },
+    {
+        "code": "1.1.3.03",
+        "name": "Piutang Hasil Pengelolaan Kekayaan Daerah yang Dipisahkan"
+    },
+    {
+        "code": "1.1.3.03.01",
+        "name": "Piutang Bagian Laba atas penyertaan modal pada Perusahaan Milik Daerah/BUMD"
+    },
+    {
+        "code": "1.1.3.03.02",
+        "name": "Piutang Bagian Laba atas penyertaan modal pada Perusahaan Milik Pemerintah/BUMN"
+    },
+    {
+        "code": "1.1.3.03.03",
+        "name": "Piutang Bagian Laba atas penyertaan modal pada Perusahaan Milik Swasta"
+    },
+    {
+        "code": "1.1.3.03.04",
+        "name": "Dst……….."
+    },
+    {
+        "code": "1.1.3.04",
+        "name": "Piutang Lain-lain PAD yang Sah"
+    },
+    {
+        "code": "1.1.3.04.01",
+        "name": "Piutang Jasa Giro"
+    },
+    {
+        "code": "1.1.3.04.02",
+        "name": "Piutang Bunga deposito"
+    },
+    {
+        "code": "1.1.3.04.03",
+        "name": "Piutang Tuntutan Ganti Kerugian Daerah"
+    },
+    {
+        "code": "1.1.3.04.04",
+        "name": "Piutang Komisi, Potongan dan Selisih Nilai Tukar Rupiah"
+    },
+    {
+        "code": "1.1.3.04.05",
+        "name": "Piutang Denda atas Keterlambatan Pelaksanaan Pekerjaan"
+    },
+    {
+        "code": "1.1.3.04.06",
+        "name": "Piutang Denda Pajak"
+    },
+    {
+        "code": "1.1.3.04.07",
+        "name": "Piutang Denda Retribusi"
+    },
+    {
+        "code": "1.1.3.04.08",
+        "name": "Piutang Hasil Eksekusi atas Jaminan"
+    },
+    {
+        "code": "1.1.3.04.09",
+        "name": "Piutang dari Pengembalian"
+    },
+    {
+        "code": "1.1.3.04.10",
+        "name": "Piutang dari Penyelenggaraan Pendidikan dan Pelatihan"
+    },
+    {
+        "code": "1.1.3.04.11",
+        "name": "Piutang dari Angsuran/Cicilan Penjualan"
+    },
+    {
+        "code": "1.1.3.04.12",
+        "name": "Piutang Zakat *"
+    },
+    {
+        "code": "1.1.3.04.13",
+        "name": "Piutang Hasil dari Pemanfaatan Kekayaan Daerah"
+    },
+    {
+        "code": "1.1.3.04.14",
+        "name": "Piutang BLUD"
+    },
+    {
+        "code": "1.1.3.04.15",
+        "name": "Piutang Hasil Penjualan Aset Daerah Yang Tidak Dipisahkan"
+    },
+    {
+        "code": "1.1.3.04.16",
+        "name": "Piutang Hasil dari pengelolaan dana bergulir"
+    },
+    {
+        "code": "1.1.3.04.17",
+        "name": "Dst……….."
+    },
+    {
+        "code": "1.1.3.05",
+        "name": "Piutang Transfer Pemerintah Pusat-Dana Perimbangan"
+    },
+    {
+        "code": "1.1.3.05.01",
+        "name": "Piutang Bagi Hasil Pajak"
+    },
+    {
+        "code": "1.1.3.05.02",
+        "name": "Piutang Bagi Hasil Bukan Pajak/Sumber Daya Alam"
+    },
+    {
+        "code": "1.1.3.05.03",
+        "name": "Dst............."
+    },
+    {
+        "code": "1.1.3.06",
+        "name": "Piutang Transfer Pemerintah Lainnya"
+    },
+    {
+        "code": "1.1.3.06.01",
+        "name": "Piutang Transfer Dana BOS Kurang Salur"
+    },
+    {
+        "code": "1.1.3.06.02",
+        "name": "Dst............."
+    },
+    {
+        "code": "1.1.3.07",
+        "name": "Piutang Transfer Pemerintah Daerah Lainnya"
+    },
+    {
+        "code": "1.1.3.07.01",
+        "name": "Piutang Transfer Bagi Hasil Pajak Daerah"
+    },
+    {
+        "code": "1.1.3.07.02",
+        "name": "Piutang Transfer Lainnya ......."
+    },
+    {
+        "code": "1.1.3.07.03",
+        "name": "Dst……….."
+    },
+    {
+        "code": "1.1.3.08",
+        "name": "Piutang Pendapatan Lainnya"
+    },
+    {
+        "code": "1.1.3.08.01",
+        "name": "Piutang Pendapatan Lainnya ......."
+    },
+    {
+        "code": "1.1.3.08.02",
+        "name": "Dst……….."
+    },
+    {
+        "code": "1.1.4",
+        "name": "Piutang Lainnya"
+    },
+    {
+        "code": "1.1.4.01",
+        "name": "Bagian Lancar Tagihan Jangka Panjang"
+    },
+    {
+        "code": "1.1.4.01.01",
+        "name": "Bagian Lancar Tagihan Jangka Panjang ......."
+    },
+    {
+        "code": "1.1.4.01.02",
+        "name": "Dst……….."
+    },
+    {
+        "code": "1.1.4.02",
+        "name": "Bagian Lancar Tagihan Pinjaman Jangka Panjang kepada Entitas Lainnya"
+    },
+    {
+        "code": "1.1.4.02.01",
+        "name": "Bagian Lancar Tagihan Pinjaman kepada Badan Usaha Milik Negara"
+    },
+    {
+        "code": "1.1.4.02.02",
+        "name": "Bagian Lancar Tagihan Pinjaman kepada Badan Usaha Milik Daerah"
+    },
+    {
+        "code": "1.1.4.02.03",
+        "name": "Bagian Lancar Tagihan Pinjaman kepada Pemerintah"
+    },
+    {
+        "code": "1.1.4.02.04",
+        "name": "Bagian Lancar Tagihan Pinjaman kepada Pemerintah Daerah Lainnya"
+    },
+    {
+        "code": "1.1.4.02.05",
+        "name": "Dst……….. 2"
+    },
+    {
+        "code": "1.1.4.03",
+        "name": "Bagian Lancar Tagihan Penjualan Angsuran"
+    },
+    {
+        "code": "1.1.4.03.01",
+        "name": "Bagian Lancar Tagihan Penjualan Angsuran Penjualan Rumah Dinas Daerah Golongan III"
+    },
+    {
+        "code": "1.1.4.03.02",
+        "name": "Bagian Lancar Tagihan Penjualan Angsuran Penjualan Kendaraan Perorangan Dinas"
+    },
+    {
+        "code": "1.1.4.03.03",
+        "name": "Dst..........."
+    },
+    {
+        "code": "1.1.4.04",
+        "name": "Bagian lancar Tuntutan Ganti Kerugian Daerah"
+    },
+    {
+        "code": "1.1.4.04.01",
+        "name": "Bagian lancar Tuntutan Ganti Kerugian Daerah Terhadap Bendahara"
+    },
+    {
+        "code": "1.1.4.04.02",
+        "name": "Bagian lancar Tuntutan Ganti Kerugian Daerah Terhadap Pegawai Negeri Bukan Bendahara"
+    },
+    {
+        "code": "1.1.4.05",
+        "name": "Uang Muka"
+    },
+    {
+        "code": "1.1.4.05.01",
+        "name": "Uang Muka Pengadaan Barang/Jasa"
+    },
+    {
+        "code": "1.1.4.05.02",
+        "name": "Dst……….."
+    },
+    {
+        "code": "1.1.5",
+        "name": "Penyisihan Piutang"
+    },
+    {
+        "code": "1.1.5.01",
+        "name": "Penyisihan Piutang Pendapatan"
+    },
+    {
+        "code": "1.1.5.01.01",
+        "name": "Penyisihan Piutang Pajak Daerah"
+    },
+    {
+        "code": "1.1.5.01.02",
+        "name": "Penyisihan Piutang Retribusi"
+    },
+    {
+        "code": "1.1.5.01.03",
+        "name": "Penyisihan Piutang Hasil Pengelolaan Kekayaan Daerah yang Dipisahkan"
+    },
+    {
+        "code": "1.1.5.01.04",
+        "name": "Penyisihan Piutang Lain-lain PAD yang Sah"
+    },
+    {
+        "code": "1.1.5.01.05",
+        "name": "Penyisihan Piutang Transfer Pemerintah Pusat - Dana Perimbangan"
+    },
+    {
+        "code": "1.1.5.01.06",
+        "name": "Penyisihan Piutang Transfer Pemerintah Daerah Lainnya"
+    },
+    {
+        "code": "1.1.5.01.07",
+        "name": "Penyisihan Piutang Pendapatan Lainnya"
+    },
+    {
+        "code": "1.1.5.01.08",
+        "name": "Dst……….."
+    },
+    {
+        "code": "1.1.5.02",
+        "name": "Penyisihan Piutang Lainnya"
+    },
+    {
+        "code": "1.1.5.02.01",
+        "name": "Penyisihan Bagian Lancar Tagihan Jangka Panjang"
+    },
+    {
+        "code": "1.1.5.02.02",
+        "name": "Penyisihan Bagian Lancar Tagihan Pinjaman Jangka Panjang kepada Entitas Lainnya"
+    },
+    {
+        "code": "1.1.5.02.03",
+        "name": "Penyisihan Bagian Lancar Tagihan Penjualan Angsuran"
+    },
+    {
+        "code": "1.1.5.02.04",
+        "name": "Penyisihan Bagian lancar Tuntutan Ganti Kerugian"
+    },
+    {
+        "code": "1.1.5.02.05",
+        "name": "Penyisihan Uang Muka"
+    },
+    {
+        "code": "1.1.5.02.06",
+        "name": "Dst……….."
+    },
+    {
+        "code": "1.1.6",
+        "name": "Beban Dibayar Dimuka"
+    },
+    {
+        "code": "1.1.6.01",
+        "name": "Beban Pegawai Dibayar Dimuka"
+    },
+    {
+        "code": "1.1.6.01.01",
+        "name": "Beban Gaji dan Tunjangan Dibayar Dimuka"
+    },
+    {
+        "code": "1.1.6.01.02",
+        "name": "Beban Tambahan Penghasilan PNS Dibayar Dimuka"
+    },
+    {
+        "code": "1.1.6.01.03",
+        "name": "Dst……….."
+    },
+    {
+        "code": "1.1.6.02",
+        "name": "Beban Barang Dibayar Dimuka"
+    },
+    {
+        "code": "1.1.6.02.01",
+        "name": "Beban Barang Dibayar Dimuka"
+    },
+    {
+        "code": "1.1.6.02.02",
+        "name": "Dst……….."
+    },
+    {
+        "code": "1.1.6.03",
+        "name": "Beban Jasa Dibayar Dimuka"
+    },
+    {
+        "code": "1.1.6.03.01",
+        "name": "Beban Jasa Dibayar Dimuka"
+    },
+    {
+        "code": "1.1.6.03.02",
+        "name": "Beban Sewa Dibayar Dimuka"
+    },
+    {
+        "code": "1.1.6.03.03",
+        "name": "Dst……….."
+    },
+    {
+        "code": "1.1.6.04",
+        "name": "Beban Pemeliharaan Dibayar Dimuka"
+    },
+    {
+        "code": "1.1.6.04.01",
+        "name": "Beban Pemeliharaan Dibayar Dimuka"
+    },
+    {
+        "code": "1.1.6.04.02",
+        "name": "Dst……….."
+    },
+    {
+        "code": "1.1.6.05",
+        "name": "Beban Lainnya"
+    },
+    {
+        "code": "1.1.6.05.01",
+        "name": "Beban Lainnya ......"
+    },
+    {
+        "code": "1.1.6.05.02",
+        "name": "Dst ......"
+    },
+    {
+        "code": "1.1.7",
+        "name": "Persediaan"
+    },
+    {
+        "code": "1.1.7.01",
+        "name": "Persediaan Bahan Pakai Habis"
+    },
+    {
+        "code": "1.1.7.01.01",
+        "name": "Persediaan Alat Tulis Kantor"
+    },
+    {
+        "code": "1.1.7.01.02",
+        "name": "Persediaan Dokumen/Administrasi Tender"
+    },
+    {
+        "code": "1.1.7.01.03",
+        "name": "Persediaan Alat Listrik dan elektronik ( lampu pijar, battery kering)"
+    },
+    {
+        "code": "1.1.7.01.04",
+        "name": "Persediaan Perangko, materai dan benda pos lainnya"
+    },
+    {
+        "code": "1.1.7.01.05",
+        "name": "Persediaan Peralatan kebersihan dan bahan pembersih"
+    },
+    {
+        "code": "1.1.7.01.06",
+        "name": "Persediaan Bahan Bakar Minyak/Gas"
+    },
+    {
+        "code": "1.1.7.01.07",
+        "name": "Persediaan Isi tabung pemadam kebakaran"
+    },
+    {
+        "code": "1.1.7.01.08",
+        "name": "Persediaan Isi tabung gas"
+    },
+    {
+        "code": "1.1.7.01.09",
+        "name": "Dst……….."
+    },
+    {
+        "code": "1.1.7.02",
+        "name": "Persediaan Bahan/Material"
+    },
+    {
+        "code": "1.1.7.02.01",
+        "name": "Persediaan Bahan baku bangunan"
+    },
+    {
+        "code": "1.1.7.02.02",
+        "name": "Persediaan Bahan/bibit tanaman"
+    },
+    {
+        "code": "1.1.7.02.03",
+        "name": "Persediaan Bibit ternak"
+    },
+    {
+        "code": "1.1.7.02.04",
+        "name": "Persediaan Bahan obat-obatan"
+    },
+    {
+        "code": "1.1.7.02.05",
+        "name": "Persediaan Bahan kimia"
+    },
+    {
+        "code": "1.1.7.02.06",
+        "name": "Persediaan Bahan Makanan Pokok"
+    },
+    {
+        "code": "1.1.7.02.07",
+        "name": "Dst……….."
+    },
+    {
+        "code": "1.1.7.03",
+        "name": "Persediaan Barang Lainnya"
+    },
+    {
+        "code": "1.1.7.03.01",
+        "name": "Persediaan Barang Yang Akan di Berikan Kepada Pihak Ketiga"
+    },
+    {
+        "code": "1.1.7.03.02",
+        "name": "Dst……….."
+    },
+    {
+        "code": "1.1.8",
+        "name": "Aset Untuk Dikonsolidasikan"
+    },
+    {
+        "code": "1.1.8.01",
+        "name": "RK SKPD"
+    },
+    {
+        "code": "1.1.8.01.01",
+        "name": "RK SKPD…………."
+    },
+    {
+        "code": "1.1.8.01.02",
+        "name": "Dst……….."
+    },
+    {
+        "code": "1.2",
+        "name": "INVESTASI JANGKA PANJANG"
+    },
+    {
+        "code": "1.2.1",
+        "name": "Investasi Jangka Panjang Non Permanen"
+    },
+    {
+        "code": "1.2.1.01",
+        "name": "Investasi Jangka Panjang kepada Entitas Lainnya"
+    },
+    {
+        "code": "1.2.1.01.01",
+        "name": "Investasi kepada Badan Usaha Milik Negara"
+    },
+    {
+        "code": "1.2.1.01.02",
+        "name": "Investasi kepada Badan Usaha Milik Daerah"
+    },
+    {
+        "code": "1.2.1.01.03",
+        "name": "Investasi kepada Badan Usaha Milik Swasta"
+    },
+    {
+        "code": "1.2.1.01.04",
+        "name": "Dst……….."
+    },
+    {
+        "code": "1.2.1.02",
+        "name": "Investasi dalam Obligasi"
+    },
+    {
+        "code": "1.2.1.02.01",
+        "name": "Investasi dalam Obligasi ......"
+    },
+    {
+        "code": "1.2.1.02.02",
+        "name": "Dst……….."
+    },
+    {
+        "code": "1.2.1.03",
+        "name": "Investasi dalam Proyek Pembangunan"
+    },
+    {
+        "code": "1.2.1.03.01",
+        "name": "Investasi dalam Proyek Pembangunan ......"
+    },
+    {
+        "code": "1.2.1.03.02",
+        "name": "Dst……….."
+    },
+    {
+        "code": "1.2.1.04",
+        "name": "Dana Bergulir"
+    },
+    {
+        "code": "1.2.1.04.01",
+        "name": "Dana Bergulir ......"
+    },
+    {
+        "code": "1.2.1.04.02",
+        "name": "Dst……….."
+    },
+    {
+        "code": "1.2.1.05",
+        "name": "Deposito Jangka Panjang"
+    },
+    {
+        "code": "1.2.1.05.01",
+        "name": "Deposito Jangka Panjang ......"
+    },
+    {
+        "code": "1.2.1.05.02",
+        "name": "Dst……….."
+    },
+    {
+        "code": "1.2.1.06",
+        "name": "Investasi Non Permanen Lainnya"
+    },
+    {
+        "code": "1.2.1.06.01",
+        "name": "Investasi Non Permanen Lainnya ......"
+    },
+    {
+        "code": "1.2.1.06.02",
+        "name": "Dst……….."
+    },
+    {
+        "code": "1.2.2",
+        "name": "Investasi Jangka Panjang Permanen"
+    },
+    {
+        "code": "1.2.2.01",
+        "name": "Penyertaan Modal Pemerintah Daerah"
+    },
+    {
+        "code": "1.2.2.01.01",
+        "name": "Penyertaan Modal Kepada BUMN"
+    },
+    {
+        "code": "1.2.2.01.02",
+        "name": "Penyertaan Modal Kepada BUMD"
+    },
+    {
+        "code": "1.2.2.01.03",
+        "name": "Penyertaan Modal Kepada Badan Usaha Milik Swasta"
+    },
+    {
+        "code": "1.2.2.01.04",
+        "name": "Dst……….."
+    },
+    {
+        "code": "1.2.2.02",
+        "name": "Investasi Permanen Lainnya"
+    },
+    {
+        "code": "1.2.2.02.01",
+        "name": "Investasi Permanen Lainnya ......."
+    },
+    {
+        "code": "1.2.2.02.02",
+        "name": "Dst……….."
+    },
+    {
+        "code": "1.3",
+        "name": "ASET TETAP"
+    },
+    {
+        "code": "1.3.1",
+        "name": "Tanah"
+    },
+    {
+        "code": "1.3.1.01",
+        "name": "Tanah Perkampungan"
+    },
+    {
+        "code": "1.3.1.01.01",
+        "name": "Tanah Kampung"
+    },
+    {
+        "code": "1.3.1.01.02",
+        "name": "Tanah Emplasmen"
+    },
+    {
+        "code": "1.3.1.01.03",
+        "name": "Tanah Kuburan"
+    },
+    {
+        "code": "1.3.1.01.04",
+        "name": "Dst......."
+    },
+    {
+        "code": "1.3.1.02",
+        "name": "Tanah Pertanian"
+    },
+    {
+        "code": "1.3.1.02.01",
+        "name": "Tanah Sawah Satu Tahun Ditanami"
+    },
+    {
+        "code": "1.3.1.02.02",
+        "name": "Tanah Tegalan"
+    },
+    {
+        "code": "1.3.1.02.03",
+        "name": "Tanah Ladang"
+    },
+    {
+        "code": "1.3.1.02.04",
+        "name": "Dst......."
+    },
+    {
+        "code": "1.3.1.03",
+        "name": "Tanah Perkebunan"
+    },
+    {
+        "code": "1.3.1.03.01",
+        "name": "Tanah Perkebunan ......."
+    },
+    {
+        "code": "1.3.1.03.02",
+        "name": "Dst......."
+    },
+    {
+        "code": "1.3.1.04",
+        "name": "Kebun Campuran"
+    },
+    {
+        "code": "1.3.1.04.01",
+        "name": "Bidang Tanah Yang Tidak Ada Jaringan Pengairan"
+    },
+    {
+        "code": "1.3.1.04.02",
+        "name": "Tumbuh Liar Bercampur Jenis Lain"
+    },
+    {
+        "code": "1.3.1.04.03",
+        "name": "Dst......."
+    },
+    {
+        "code": "1.3.1.05",
+        "name": "Hutan"
+    },
+    {
+        "code": "1.3.1.05.01",
+        "name": "Hutan Lebat"
+    },
+    {
+        "code": "1.3.1.05.02",
+        "name": "Hutan Belukar"
+    },
+    {
+        "code": "1.3.1.05.03",
+        "name": "Hutan Tanaman Jenis"
+    },
+    {
+        "code": "1.3.1.05.04",
+        "name": "Hutan Alam Sejenis/Hutan Rawa"
+    },
+    {
+        "code": "1.3.1.05.05",
+        "name": "Hutan Untuk Penggunaan Khusus"
+    },
+    {
+        "code": "1.3.1.05.06",
+        "name": "Dst......."
+    },
+    {
+        "code": "1.3.1.06",
+        "name": "Kolam Ikan"
+    },
+    {
+        "code": "1.3.1.06.01",
+        "name": "Tambak"
+    },
+    {
+        "code": "1.3.1.06.02",
+        "name": "Air Tawar"
+    },
+    {
+        "code": "1.3.1.06.03",
+        "name": "Dst......."
+    },
+    {
+        "code": "1.3.1.07",
+        "name": "Danau/Rawa"
+    },
+    {
+        "code": "1.3.1.07.01",
+        "name": "Danau"
+    },
+    {
+        "code": "1.3.1.07.02",
+        "name": "Rawa"
+    },
+    {
+        "code": "1.3.1.08",
+        "name": "Tanah Tandus/Rusak"
+    },
+    {
+        "code": "1.3.1.08.01",
+        "name": "Tanah Tandus"
+    },
+    {
+        "code": "1.3.1.08.02",
+        "name": "Tanah Rusak"
+    },
+    {
+        "code": "1.3.1.09",
+        "name": "Alang-alang dan Padang Rumput"
+    },
+    {
+        "code": "1.3.1.09.01",
+        "name": "Alang-alang"
+    },
+    {
+        "code": "1.3.1.09.02",
+        "name": "Padang Rumput"
+    },
+    {
+        "code": "1.3.1.10",
+        "name": "Tanah Pengguna Lain"
+    },
+    {
+        "code": "1.3.1.10.01",
+        "name": "Tanah Pengguna Lain....."
+    },
+    {
+        "code": "1.3.1.10.02",
+        "name": "Dst......."
+    },
+    {
+        "code": "1.3.1.11",
+        "name": "Tanah Untuk Bangunan Gedung"
+    },
+    {
+        "code": "1.3.1.11.01",
+        "name": "Tanah Bangunan Perumahan/Gedung Tempat Tinggal"
+    },
+    {
+        "code": "1.3.1.11.02",
+        "name": "Tanah Untuk Bangunan Gedung Perdagangan/Perusahaan"
+    },
+    {
+        "code": "1.3.1.11.03",
+        "name": "Tanah Untuk Bangunan Industri"
+    },
+    {
+        "code": "1.3.1.11.04",
+        "name": "Tanah Untuk Bangunan Tempat Kerja/Jasa"
+    },
+    {
+        "code": "1.3.1.11.05",
+        "name": "Tanah Kosong"
+    },
+    {
+        "code": "1.3.1.11.06",
+        "name": "Tanah Peternakan"
+    },
+    {
+        "code": "1.3.1.11.07",
+        "name": "Tanah Bangunan Pengairan"
+    },
+    {
+        "code": "1.3.1.11.08",
+        "name": "Tanah Bangunan Jalan dan Jembatan"
+    },
+    {
+        "code": "1.3.1.11.09",
+        "name": "Tanah Lembiran/Bantaran/Lepe-lepe/Setren dst"
+    },
+    {
+        "code": "1.3.1.11.10",
+        "name": "Dst......."
+    },
+    {
+        "code": "1.3.1.12",
+        "name": "Tanah Pertambangan"
+    },
+    {
+        "code": "1.3.1.12.01",
+        "name": "Pertambangan ......"
+    },
+    {
+        "code": "1.3.1.12.02",
+        "name": "Dst......."
+    },
+    {
+        "code": "1.3.1.13",
+        "name": "Tanah Untuk Bangunan Bukan Gedung"
+    },
+    {
+        "code": "1.3.1.13.01",
+        "name": "Tanah Lapangan Olah Raga"
+    },
+    {
+        "code": "1.3.1.13.02",
+        "name": "Tanah Lapangan Parkir"
+    },
+    {
+        "code": "1.3.1.13.03",
+        "name": "Tanah Lapangan Penimbun Barang"
+    },
+    {
+        "code": "1.3.1.13.04",
+        "name": "Tanah Lapangan Pemancar dan Studio Alam"
+    },
+    {
+        "code": "1.3.1.13.05",
+        "name": "Tanah Lapangan Pengujian/Pengolahan"
+    },
+    {
+        "code": "1.3.1.13.06",
+        "name": "Tanah Lapangan Terbang"
+    },
+    {
+        "code": "1.3.1.13.07",
+        "name": "Tanah Untuk Bangunan Jalan"
+    },
+    {
+        "code": "1.3.1.13.08",
+        "name": "Tanah Untuk Bangunan Air"
+    },
+    {
+        "code": "1.3.1.13.09",
+        "name": "Tanah Untuk Bangunan Instalasi"
+    },
+    {
+        "code": "1.3.1.13.10",
+        "name": "Tanah Untuk Bangunan Jaringan"
+    },
+    {
+        "code": "1.3.1.13.11",
+        "name": "Tanah Untuk Bangunan Bersejarah"
+    },
+    {
+        "code": "1.3.1.13.12",
+        "name": "Tanah Untuk Bangunan Gedung Olah Raga"
+    },
+    {
+        "code": "1.3.1.13.13",
+        "name": "Tanah Untuk Bangunan Tempat Ibadah"
+    },
+    {
+        "code": "1.3.1.13.14",
+        "name": "Dst......."
+    },
+    {
+        "code": "1.3.2",
+        "name": "Peralatan dan Mesin"
+    },
+    {
+        "code": "1.3.2.01",
+        "name": "Alat-Alat Besar Darat"
+    },
+    {
+        "code": "1.3.2.01.01",
+        "name": "Tractor"
+    },
+    {
+        "code": "1.3.2.01.02",
+        "name": "Grader"
+    },
+    {
+        "code": "1.3.2.01.03",
+        "name": "Excavator"
+    },
+    {
+        "code": "1.3.2.01.04",
+        "name": "Pile Driver"
+    },
+    {
+        "code": "1.3.2.01.05",
+        "name": "Hauler"
+    },
+    {
+        "code": "1.3.2.01.06",
+        "name": "Asphal Equipment"
+    },
+    {
+        "code": "1.3.2.01.07",
+        "name": "Compacting Equipment"
+    },
+    {
+        "code": "1.3.2.01.08",
+        "name": "Aggregate $ Concrete Equipment"
+    },
+    {
+        "code": "1.3.2.01.09",
+        "name": "Loader"
+    },
+    {
+        "code": "1.3.2.01.10",
+        "name": "Alat Pengangkat"
+    },
+    {
+        "code": "1.3.2.01.11",
+        "name": "Mesin Proses"
+    },
+    {
+        "code": "1.3.2.01.12",
+        "name": "Dst......."
+    },
+    {
+        "code": "1.3.2.02",
+        "name": "Alat-Alat Besar Apung"
+    },
+    {
+        "code": "1.3.2.02.01",
+        "name": "Dredger"
+    },
+    {
+        "code": "1.3.2.02.02",
+        "name": "Floating Excavator"
+    },
+    {
+        "code": "1.3.2.02.03",
+        "name": "Amphibi Dredger"
+    },
+    {
+        "code": "1.3.2.02.04",
+        "name": "Kapal Tarik"
+    },
+    {
+        "code": "1.3.2.02.05",
+        "name": "Mesin Proses Apung"
+    },
+    {
+        "code": "1.3.2.02.06",
+        "name": "Dst......."
+    },
+    {
+        "code": "1.3.2.03",
+        "name": "Alat-alat Bantu"
+    },
+    {
+        "code": "1.3.2.03.01",
+        "name": "Alat Penarik"
+    },
+    {
+        "code": "1.3.2.03.02",
+        "name": "Feeder"
+    },
+    {
+        "code": "1.3.2.03.03",
+        "name": "Compressor"
+    },
+    {
+        "code": "1.3.2.03.04",
+        "name": "Electric Generating Set"
+    },
+    {
+        "code": "1.3.2.03.05",
+        "name": "Pompa"
+    },
+    {
+        "code": "1.3.2.03.06",
+        "name": "Mesin Bor"
+    },
+    {
+        "code": "1.3.2.03.07",
+        "name": "Unit Pemeliharaan Lapangan"
+    },
+    {
+        "code": "1.3.2.03.08",
+        "name": "Alat Pengolahan Air Kotor"
+    },
+    {
+        "code": "1.3.2.03.09",
+        "name": "Pembangkit Uap Air Panas/Sistem Generator"
+    },
+    {
+        "code": "1.3.2.03.10",
+        "name": "Dst......."
+    },
+    {
+        "code": "1.3.2.04",
+        "name": "Alat Angkutan Darat Bermotor"
+    },
+    {
+        "code": "1.3.2.04.01",
+        "name": "Kendaraan Dinas Bermotor Perorangan"
+    },
+    {
+        "code": "1.3.2.04.02",
+        "name": "Kendaraan Bermotor Penumpang"
+    },
+    {
+        "code": "1.3.2.04.03",
+        "name": "Kendaraan Bermotor Angkutan Barang"
+    },
+    {
+        "code": "1.3.2.04.04",
+        "name": "Kendaraan Bermotor Khusus"
+    },
+    {
+        "code": "1.3.2.04.05",
+        "name": "Kendaraan Bermotor Beroda Dua"
+    },
+    {
+        "code": "1.3.2.04.06",
+        "name": "Kendaraan Bermotor Beroda Tiga"
+    },
+    {
+        "code": "1.3.2.04.07",
+        "name": "Dst......."
+    },
+    {
+        "code": "1.3.2.05",
+        "name": "Alat Angkutan Berat Tak Bermotor"
+    },
+    {
+        "code": "1.3.2.05.01",
+        "name": "Kendaraan Bermotor Angkutan Barang"
+    },
+    {
+        "code": "1.3.2.05.02",
+        "name": "Kendaraan Tak Bermotor Berpenumpang"
+    },
+    {
+        "code": "1.3.2.05.03",
+        "name": "Kendaraan Tak Bermotor Khusus"
+    },
+    {
+        "code": "1.3.2.06",
+        "name": "Alat Angkut Apung Bermotor"
+    },
+    {
+        "code": "1.3.2.06.01",
+        "name": "Alat Angkut Apung Bermotor Barang"
+    },
+    {
+        "code": "1.3.2.06.02",
+        "name": "Alat Angkut Apung Bermotor Penumpang"
+    },
+    {
+        "code": "1.3.2.06.03",
+        "name": "Alat Angkut Apung Bermotor Khusus"
+    },
+    {
+        "code": "1.3.2.07",
+        "name": "Alat Angkut Apung Tak Bermotor"
+    },
+    {
+        "code": "1.3.2.07.01",
+        "name": "Alat Angkut Apung Tak Bermotor Untuk Barang"
+    },
+    {
+        "code": "1.3.2.07.02",
+        "name": "Alat Angkut Apung Tak Bermotor Penumpang"
+    },
+    {
+        "code": "1.3.2.07.03",
+        "name": "Alat Angkut Apung Tak Bermotor Khusus"
+    },
+    {
+        "code": "1.3.2.08",
+        "name": "Alat Angkut Bermotor Udara"
+    },
+    {
+        "code": "1.3.2.08.01",
+        "name": "Pesawat Terbang"
+    },
+    {
+        "code": "1.3.2.08.02",
+        "name": "Dst………"
+    },
+    {
+        "code": "1.3.2.09",
+        "name": "Alat Bengkel Bermesin"
+    },
+    {
+        "code": "1.3.2.09.01",
+        "name": "Perkakas Konstruksi Logam Terpasang pada Pondasi"
+    },
+    {
+        "code": "1.3.2.09.02",
+        "name": "Perkakas Konstruksi Logam yang Berpindah"
+    },
+    {
+        "code": "1.3.2.09.03",
+        "name": "Perkakas Bengkel Listrik"
+    },
+    {
+        "code": "1.3.2.09.04",
+        "name": "Perkakas Bengkel Service"
+    },
+    {
+        "code": "1.3.2.09.05",
+        "name": "Perkakas Pengangkat Bermesin"
+    },
+    {
+        "code": "1.3.2.09.06",
+        "name": "Perkakas Bengkel Kayu"
+    },
+    {
+        "code": "1.3.2.09.07",
+        "name": "Perkakas Bengkel Khusus"
+    },
+    {
+        "code": "1.3.2.09.08",
+        "name": "Peralatan Las"
+    },
+    {
+        "code": "1.3.2.09.09",
+        "name": "Perkakas Pabrik Es"
+    },
+    {
+        "code": "1.3.2.09.10",
+        "name": "Dst………"
+    },
+    {
+        "code": "1.3.2.10",
+        "name": "Alat Bengkel Tak Bermesin"
+    },
+    {
+        "code": "1.3.2.10.01",
+        "name": "Perkakas Bengkel Konstruksi Logam"
+    },
+    {
+        "code": "1.3.2.10.02",
+        "name": "Perkakas Bengkel Listrik"
+    },
+    {
+        "code": "1.3.2.10.03",
+        "name": "Perkakas Bengkel Service"
+    },
+    {
+        "code": "1.3.2.10.04",
+        "name": "Perkakas Pengangkat"
+    },
+    {
+        "code": "1.3.2.10.05",
+        "name": "Perkakas Standar (Standart Tool)"
+    },
+    {
+        "code": "1.3.2.10.06",
+        "name": "Perkakas Khusus (Special Tool)"
+    },
+    {
+        "code": "1.3.2.10.07",
+        "name": "Perkakas Bengkel Kerja"
+    },
+    {
+        "code": "1.3.2.10.08",
+        "name": "Peralatan Tukang-tukang Besi"
+    },
+    {
+        "code": "1.3.2.10.09",
+        "name": "Peralatan Tukang Kayu"
+    },
+    {
+        "code": "1.3.2.10.10",
+        "name": "Peralatan Tukang Kulit"
+    },
+    {
+        "code": "1.3.2.10.11",
+        "name": "Peralatan Ukur, Gip & Feting"
+    },
+    {
+        "code": "1.3.2.10.12",
+        "name": "Dst………"
+    },
+    {
+        "code": "1.3.2.11",
+        "name": "Alat Ukur"
+    },
+    {
+        "code": "1.3.2.11.01",
+        "name": "Alat Ukur universal"
+    },
+    {
+        "code": "1.3.2.11.02",
+        "name": "Alat Ukur/Test Intelegensia"
+    },
+    {
+        "code": "1.3.2.11.03",
+        "name": "Alat Ukur/Test Alat Kepribadian"
+    },
+    {
+        "code": "1.3.2.11.04",
+        "name": "Alat Ukur /Test Klinis Lain"
+    },
+    {
+        "code": "1.3.2.11.05",
+        "name": "Alat Calibrasi"
+    },
+    {
+        "code": "1.3.2.11.06",
+        "name": "Oscilloscope"
+    },
+    {
+        "code": "1.3.2.11.07",
+        "name": "Universal Tester"
+    },
+    {
+        "code": "1.3.2.11.08",
+        "name": "Alat Ukur/Pembanding"
+    },
+    {
+        "code": "1.3.2.11.09",
+        "name": "Alat Ukur Lainnya"
+    },
+    {
+        "code": "1.3.2.11.10",
+        "name": "Alat Timbangan/Blora"
+    },
+    {
+        "code": "1.3.2.11.11",
+        "name": "Anak Timbangan/Biasa"
+    },
+    {
+        "code": "1.3.2.11.12",
+        "name": "Takaran Kering"
+    },
+    {
+        "code": "1.3.2.11.13",
+        "name": "Takaran Bahan Bangunan 2 HL"
+    },
+    {
+        "code": "1.3.2.11.14",
+        "name": "Takaran Latex/Getah Susu"
+    },
+    {
+        "code": "1.3.2.11.15",
+        "name": "Gelas Takar Berbagai Capasitas"
+    },
+    {
+        "code": "1.3.2.11.16",
+        "name": "Dst………"
+    },
+    {
+        "code": "1.3.2.12",
+        "name": "Alat Pengolahan"
+    },
+    {
+        "code": "1.3.2.12.01",
+        "name": "Alat Pengolahan Tanah dan Tanaman"
+    },
+    {
+        "code": "1.3.2.12.02",
+        "name": "Alat Panen/Pengolahan"
+    },
+    {
+        "code": "1.3.2.12.03",
+        "name": "Alat-Alat Peternakan"
+    },
+    {
+        "code": "1.3.2.12.04",
+        "name": "Alat Penyimpanan Hasil Percobaan Pertanian"
+    },
+    {
+        "code": "1.3.2.12.05",
+        "name": "Alat Laboratorium Pertanian"
+    },
+    {
+        "code": "1.3.2.12.06",
+        "name": "Alat Processing"
+    },
+    {
+        "code": "1.3.2.12.07",
+        "name": "Alat Pasca Panen"
+    },
+    {
+        "code": "1.3.2.12.08",
+        "name": "Alat Produksi Perikanan"
+    },
+    {
+        "code": "1.3.2.12.09",
+        "name": "Dst………"
+    },
+    {
+        "code": "1.3.2.13",
+        "name": "Alat Pemeliharaan Tanaman/Alat Penyimpan"
+    },
+    {
+        "code": "1.3.2.13.01",
+        "name": "Alat Pemeliharaan Tanaman"
+    },
+    {
+        "code": "1.3.2.13.02",
+        "name": "Alat Panen"
+    },
+    {
+        "code": "1.3.2.13.03",
+        "name": "Alat Penyimpanan"
+    },
+    {
+        "code": "1.3.2.13.04",
+        "name": "Alat Laboratorium"
+    },
+    {
+        "code": "1.3.2.13.05",
+        "name": "Alat Penangkap Ikan"
+    },
+    {
+        "code": "1.3.2.13.06",
+        "name": "Dst………"
+    },
+    {
+        "code": "1.3.2.14",
+        "name": "Alat Kantor"
+    },
+    {
+        "code": "1.3.2.14.01",
+        "name": "Mesin Tik"
+    },
+    {
+        "code": "1.3.2.14.02",
+        "name": "Mesin Hitung/Jumlah"
+    },
+    {
+        "code": "1.3.2.14.03",
+        "name": "Alat Reproduksi (Pengganda)"
+    },
+    {
+        "code": "1.3.2.14.04",
+        "name": "Alat Penyimpanan Perlengkapan Kantor"
+    },
+    {
+        "code": "1.3.2.14.05",
+        "name": "Alat Kantor Lainnya"
+    },
+    {
+        "code": "1.3.2.14.06",
+        "name": "Dst………"
+    },
+    {
+        "code": "1.3.2.15",
+        "name": "Alat Rumah Tangga"
+    },
+    {
+        "code": "1.3.2.15.01",
+        "name": "Meubelair"
+    },
+    {
+        "code": "1.3.2.15.02",
+        "name": "Alat Pengukur Waktu"
+    },
+    {
+        "code": "1.3.2.15.03",
+        "name": "Alat Pembersih"
+    },
+    {
+        "code": "1.3.2.15.04",
+        "name": "Alat Pendingin"
+    },
+    {
+        "code": "1.3.2.15.05",
+        "name": "Alat Dapur"
+    },
+    {
+        "code": "1.3.2.15.06",
+        "name": "Alat Rumah Tangga Lainnya (Home Use)"
+    },
+    {
+        "code": "1.3.2.15.07",
+        "name": "Alat Pemadam Kebakaran"
+    },
+    {
+        "code": "1.3.2.15.08",
+        "name": "Dst………"
+    },
+    {
+        "code": "1.3.2.16",
+        "name": "Komputer"
+    },
+    {
+        "code": "1.3.2.16.01",
+        "name": "Komputer Unit/Jaringan"
+    },
+    {
+        "code": "1.3.2.16.02",
+        "name": "Personal Komputer"
+    },
+    {
+        "code": "1.3.2.16.03",
+        "name": "Peralatan Komputer Mainframe"
+    },
+    {
+        "code": "1.3.2.16.04",
+        "name": "Peralatan Mini Komputer"
+    },
+    {
+        "code": "1.3.2.16.05",
+        "name": "Peralatan Personal Komputer"
+    },
+    {
+        "code": "1.3.2.16.06",
+        "name": "Perlatan Jaringan"
+    },
+    {
+        "code": "1.3.2.16.07",
+        "name": "Dst………"
+    },
+    {
+        "code": "1.3.2.17",
+        "name": "Meja Dan Kursi Kerja/Rapat Pejabat"
+    },
+    {
+        "code": "1.3.2.17.01",
+        "name": "Meja Kerja Pejabat"
+    },
+    {
+        "code": "1.3.2.17.02",
+        "name": "Meja Rapat Pejabat"
+    },
+    {
+        "code": "1.3.2.17.03",
+        "name": "Kursi Kerja Pejabat"
+    },
+    {
+        "code": "1.3.2.17.04",
+        "name": "Kursi Rapat Pejabat"
+    },
+    {
+        "code": "1.3.2.17.05",
+        "name": "Kursi Hadap Depan Meja Kerja Pejabat"
+    },
+    {
+        "code": "1.3.2.17.06",
+        "name": "Kursi Tamu di Ruangan Pejabat"
+    },
+    {
+        "code": "1.3.2.17.07",
+        "name": "Lemari dan Arsip Pejabat"
+    },
+    {
+        "code": "1.3.2.17.08",
+        "name": "Dst………"
+    },
+    {
+        "code": "1.3.2.18",
+        "name": "Alat Studio"
+    },
+    {
+        "code": "1.3.2.18.01",
+        "name": "Peralatan Studio Visual"
+    },
+    {
+        "code": "1.3.2.18.02",
+        "name": "Peralatan Studio Video dan Film"
+    },
+    {
+        "code": "1.3.2.18.03",
+        "name": "Peralatan Studio Video dan Film A"
+    },
+    {
+        "code": "1.3.2.18.04",
+        "name": "Peralatan Cetak"
+    },
+    {
+        "code": "1.3.2.18.05",
+        "name": "Peralatan Computing"
+    },
+    {
+        "code": "1.3.2.18.06",
+        "name": "Peralatan Pemetaan Ukur"
+    },
+    {
+        "code": "1.3.2.18.07",
+        "name": "Dst………"
+    },
+    {
+        "code": "1.3.2.19",
+        "name": "Alat Komunikasi"
+    },
+    {
+        "code": "1.3.2.19.01",
+        "name": "Alat Komunikasi Telephone"
+    },
+    {
+        "code": "1.3.2.19.02",
+        "name": "Alat Komunikasi Radio SSB"
+    },
+    {
+        "code": "1.3.2.19.03",
+        "name": "Alat Komunikasi Radio HF/FM"
+    },
+    {
+        "code": "1.3.2.19.04",
+        "name": "Alat Komunikasi Radio VHF"
+    },
+    {
+        "code": "1.3.2.19.05",
+        "name": "Alat Komunikasi Radio UHF"
+    },
+    {
+        "code": "1.3.2.19.06",
+        "name": "Alat Komunikasi Sosial"
+    },
+    {
+        "code": "1.3.2.19.07",
+        "name": "Alat-alat Sandi"
+    },
+    {
+        "code": "1.3.2.19.08",
+        "name": "Dst………"
+    },
+    {
+        "code": "1.3.2.20",
+        "name": "Peralatan Pemancar"
+    },
+    {
+        "code": "1.3.2.20.01",
+        "name": "Peralatan Pemancar MF/MW"
+    },
+    {
+        "code": "1.3.2.20.02",
+        "name": "Peralatan Pemancar HF/SW"
+    },
+    {
+        "code": "1.3.2.20.03",
+        "name": "Peralatan Pemancar VHF/FM"
+    },
+    {
+        "code": "1.3.2.20.04",
+        "name": "Peralatan Pemancar UHF"
+    },
+    {
+        "code": "1.3.2.20.05",
+        "name": "Peralatan Pemancar SHF"
+    },
+    {
+        "code": "1.3.2.20.06",
+        "name": "Peralatan Antena MF/MW"
+    },
+    {
+        "code": "1.3.2.20.07",
+        "name": "Peralatan Antena HF/SW"
+    },
+    {
+        "code": "1.3.2.20.08",
+        "name": "Peralatan Antena VHF/FM"
+    },
+    {
+        "code": "1.3.2.20.09",
+        "name": "Peralatan Antena UHF"
+    },
+    {
+        "code": "1.3.2.20.10",
+        "name": "Peralatan Antena SHF/Parabola"
+    },
+    {
+        "code": "1.3.2.20.11",
+        "name": "Peralatan Translator VHF/VHF"
+    },
+    {
+        "code": "1.3.2.20.12",
+        "name": "Peralatan Translator UHF/UHF"
+    },
+    {
+        "code": "1.3.2.20.13",
+        "name": "Peralatan Translator VHF/UHF"
+    },
+    {
+        "code": "1.3.2.20.14",
+        "name": "Peralatan Translator UHF/VHF"
+    },
+    {
+        "code": "1.3.2.20.15",
+        "name": "Peralatan Microvawe FPU"
+    },
+    {
+        "code": "1.3.2.20.16",
+        "name": "Peralatan Microvawe Terestrial"
+    },
+    {
+        "code": "1.3.2.20.17",
+        "name": "Peralatan Microvawe TVRO"
+    },
+    {
+        "code": "1.3.2.20.18",
+        "name": "Peralatan Dummy Load"
+    },
+    {
+        "code": "1.3.2.20.19",
+        "name": "Switcher Antena"
+    },
+    {
+        "code": "1.3.2.20.20",
+        "name": "Switcher/Menara Antena"
+    },
+    {
+        "code": "1.3.2.20.21",
+        "name": "Feeder"
+    },
+    {
+        "code": "1.3.2.20.22",
+        "name": "Humitity Control"
+    },
+    {
+        "code": "1.3.2.20.23",
+        "name": "Program Input Equipment"
+    },
+    {
+        "code": "1.3.2.20.24",
+        "name": "Peralatan Antena Penerima VHF"
+    },
+    {
+        "code": "1.3.2.20.25",
+        "name": "Dst………"
+    },
+    {
+        "code": "1.3.2.21",
+        "name": "Alat Kedokteran"
+    },
+    {
+        "code": "1.3.2.21.01",
+        "name": "Alat Kedokteran Umum"
+    },
+    {
+        "code": "1.3.2.21.02",
+        "name": "Alat Kedokteran Gigi"
+    },
+    {
+        "code": "1.3.2.21.03",
+        "name": "Alat Kedokteran Keluarga Berencana"
+    },
+    {
+        "code": "1.3.2.21.04",
+        "name": "Alat Kedokteran Mata"
+    },
+    {
+        "code": "1.3.2.21.05",
+        "name": "Alat Kedokteran T.H.T"
+    },
+    {
+        "code": "1.3.2.21.06",
+        "name": "Alat Rotgen"
+    },
+    {
+        "code": "1.3.2.21.07",
+        "name": "Alat Farmasi"
+    },
+    {
+        "code": "1.3.2.21.08",
+        "name": "Alat Kedokteran Bedah"
+    },
+    {
+        "code": "1.3.2.21.09",
+        "name": "Alat Kesehatan Kebidanan dan Penyakit Kandungan"
+    },
+    {
+        "code": "1.3.2.21.10",
+        "name": "Alat Kedokteran Bagian Penyakit Dalam"
+    },
+    {
+        "code": "1.3.2.21.11",
+        "name": "Mortuary"
+    },
+    {
+        "code": "1.3.2.21.12",
+        "name": "Alat Kesehatan Anak"
+    },
+    {
+        "code": "1.3.2.21.13",
+        "name": "Poliklinik Set"
+    },
+    {
+        "code": "1.3.2.21.14",
+        "name": "Penderita Cacat Tubuh"
+    },
+    {
+        "code": "1.3.2.21.15",
+        "name": "Alat Kedokteran Neurologi (syaraf)"
+    },
+    {
+        "code": "1.3.2.21.16",
+        "name": "Alat Kedokteran Jantung"
+    },
+    {
+        "code": "1.3.2.21.17",
+        "name": "Alat Kedokteran Nuklir"
+    },
+    {
+        "code": "1.3.2.21.18",
+        "name": "Alat Kedokteran Radiologi"
+    },
+    {
+        "code": "1.3.2.21.19",
+        "name": "Alat Kedokteran Kulit dan Kelamin"
+    },
+    {
+        "code": "1.3.2.21.20",
+        "name": "Alat Kedokteran Gawat Darurat"
+    },
+    {
+        "code": "1.3.2.21.21",
+        "name": "Alat Kedokteran Jiwa"
+    },
+    {
+        "code": "1.3.2.21.22",
+        "name": "Alat Kedokteran Hewan"
+    },
+    {
+        "code": "1.3.2.21.23",
+        "name": "Dst………"
+    },
+    {
+        "code": "1.3.2.22",
+        "name": "Alat Kesehatan"
+    },
+    {
+        "code": "1.3.2.22.01",
+        "name": "Alat Kesehatan Perawatan"
+    },
+    {
+        "code": "1.3.2.22.02",
+        "name": "Alat Kesehatan Rehabilitasi Medis"
+    },
+    {
+        "code": "1.3.2.22.03",
+        "name": "Alat Kesehatan Matra Laut"
+    },
+    {
+        "code": "1.3.2.22.04",
+        "name": "Alat Kesehatan Matra Udara"
+    },
+    {
+        "code": "1.3.2.22.05",
+        "name": "Alat Kesehatan Kedokteran Kepolisian"
+    },
+    {
+        "code": "1.3.2.22.06",
+        "name": "Alat Kesehatan Olahraga"
+    },
+    {
+        "code": "1.3.2.22.07",
+        "name": "Dst………"
+    },
+    {
+        "code": "1.3.2.23",
+        "name": "Unit-Unit Laboratorium"
+    },
+    {
+        "code": "1.3.2.23.01",
+        "name": "Alat Laboratorium Kimia Air"
+    },
+    {
+        "code": "1.3.2.23.02",
+        "name": "Alat Laboratorium Microbiologi"
+    },
+    {
+        "code": "1.3.2.23.03",
+        "name": "Alat Laboratorium Hidro Kimia"
+    },
+    {
+        "code": "1.3.2.23.04",
+        "name": "Alat Laboratorium Model/Hidrolika"
+    },
+    {
+        "code": "1.3.2.23.05",
+        "name": "Alat Laboratorium Buatan/Geologi"
+    },
+    {
+        "code": "1.3.2.23.06",
+        "name": "Alat Laboratorium Bahan Bangunan Konstruksi"
+    },
+    {
+        "code": "1.3.2.23.07",
+        "name": "Alat Laboratorium Aspal Cat & Kimia"
+    },
+    {
+        "code": "1.3.2.23.08",
+        "name": "Alat Laboratorium Mekanik Tanah & Batuan"
+    },
+    {
+        "code": "1.3.2.23.09",
+        "name": "Alat Laboratorium Cocok Tanam"
+    },
+    {
+        "code": "1.3.2.23.10",
+        "name": "Alat Laboratorium Logam, Mesin, Listrik"
+    },
+    {
+        "code": "1.3.2.23.11",
+        "name": "Alat Laboratorium Logam, Mesin Listrik A"
+    },
+    {
+        "code": "1.3.2.23.12",
+        "name": "Alat Laboratorium Umum"
+    },
+    {
+        "code": "1.3.2.23.13",
+        "name": "Alat Laboratorium Umum A"
+    },
+    {
+        "code": "1.3.2.23.14",
+        "name": "Alat Laboratorium Kedokteran"
+    },
+    {
+        "code": "1.3.2.23.15",
+        "name": "Alat Laboratorium Microbiologi"
+    },
+    {
+        "code": "1.3.2.23.16",
+        "name": "Alat Laboratorium Kimia"
+    },
+    {
+        "code": "1.3.2.23.17",
+        "name": "Alat Laboratorium Microbiologi A"
+    },
+    {
+        "code": "1.3.2.23.18",
+        "name": "Alat Laboratorium Patologi"
+    },
+    {
+        "code": "1.3.2.23.19",
+        "name": "Alat Laboratorium Immunologi"
+    },
+    {
+        "code": "1.3.2.23.20",
+        "name": "Alat Laboratorium Hematologi"
+    },
+    {
+        "code": "1.3.2.23.21",
+        "name": "Alat Laboratorium Film"
+    },
+    {
+        "code": "1.3.2.23.22",
+        "name": "Alat Laboratorium Makanan"
+    },
+    {
+        "code": "1.3.2.23.23",
+        "name": "Alat Laboratorium Standarisasi, Kalibrasi dan Instrumentasi"
+    },
+    {
+        "code": "1.3.2.23.24",
+        "name": "Alat Laboratorium Farmasi"
+    },
+    {
+        "code": "1.3.2.23.25",
+        "name": "Alat Laboratorium Fisika"
+    },
+    {
+        "code": "1.3.2.23.26",
+        "name": "Alat Laboratorium Hidrodinamika"
+    },
+    {
+        "code": "1.3.2.23.27",
+        "name": "Alat Laboratorium Klimatologi"
+    },
+    {
+        "code": "1.3.2.23.28",
+        "name": "Alat Laboratorium Proses Peleburan"
+    },
+    {
+        "code": "1.3.2.23.29",
+        "name": "Alat Laboratorium Pasir"
+    },
+    {
+        "code": "1.3.2.23.30",
+        "name": "Alat Laboratorium Proses Pembuatan Cetakan"
+    },
+    {
+        "code": "1.3.2.23.31",
+        "name": "Alat Laboratorium Proses Pembuatan Pola"
+    },
+    {
+        "code": "1.3.2.23.32",
+        "name": "Alat Laboratorium Metalography"
+    },
+    {
+        "code": "1.3.2.23.33",
+        "name": "Alat Laboratorium Proses Pengelasan"
+    },
+    {
+        "code": "1.3.2.23.34",
+        "name": "Alat Laboratorium Uji Proses Pengelasan"
+    },
+    {
+        "code": "1.3.2.23.35",
+        "name": "Alat Laboratorium Proses Pembuatan Logam"
+    },
+    {
+        "code": "1.3.2.23.36",
+        "name": "Alat Laboratorium Matrologie"
+    },
+    {
+        "code": "1.3.2.23.37",
+        "name": "Alat Laboratorium Proses Pelapisan Logam"
+    },
+    {
+        "code": "1.3.2.23.38",
+        "name": "Alat Laboratorium Proses Pengolahan Panas"
+    },
+    {
+        "code": "1.3.2.23.39",
+        "name": "Alat Laboratorium Proses Teknologi Textil"
+    },
+    {
+        "code": "1.3.2.23.40",
+        "name": "Alat Laboratorium Uji Tekstel"
+    },
+    {
+        "code": "1.3.2.23.41",
+        "name": "Alat Laboratorium Proses Teknologi Keramik"
+    },
+    {
+        "code": "1.3.2.23.42",
+        "name": "Alat Laboratorium Proses Teknologi Kulit Karet"
+    },
+    {
+        "code": "1.3.2.23.43",
+        "name": "Alat Laboratorium Uji Kulit, Karet dan Plastik"
+    },
+    {
+        "code": "1.3.2.23.44",
+        "name": "Alat Laboratorium Uji Keramik"
+    },
+    {
+        "code": "1.3.2.23.45",
+        "name": "Alat Laboratorium Proses Teknologi Selulosa"
+    },
+    {
+        "code": "1.3.2.23.46",
+        "name": "Alat Laboratorium Pertanian"
+    },
+    {
+        "code": "1.3.2.23.47",
+        "name": "Alat Laboratorium Pertanian A"
+    },
+    {
+        "code": "1.3.2.23.48",
+        "name": "Alat Laboratorium Pertanian B"
+    },
+    {
+        "code": "1.3.2.23.49",
+        "name": "Alat Laboratorium Elektronika dan Daya"
+    },
+    {
+        "code": "1.3.2.23.50",
+        "name": "Alat Laboratorium Energi Surya"
+    },
+    {
+        "code": "1.3.2.23.51",
+        "name": "Alat Laboratorium Konversi Batubara dan Biomas"
+    },
+    {
+        "code": "1.3.2.23.52",
+        "name": "Alat Laboratorium Oceanografi"
+    },
+    {
+        "code": "1.3.2.23.53",
+        "name": "Alat Laboratorium Lingkungan Perairan"
+    },
+    {
+        "code": "1.3.2.23.54",
+        "name": "Alat Laboratorium Biologi Peralatan"
+    },
+    {
+        "code": "1.3.2.23.55",
+        "name": "Alat Laboratorium Biologi"
+    },
+    {
+        "code": "1.3.2.23.56",
+        "name": "Alat Laboratorium Geofisika"
+    },
+    {
+        "code": "1.3.2.23.57",
+        "name": "Alat Laboratorium Tambang"
+    },
+    {
+        "code": "1.3.2.23.58",
+        "name": "Alat Laboratorium Proses/Teknik Kimia"
+    },
+    {
+        "code": "1.3.2.23.59",
+        "name": "Alat Laboratorium Proses Industri"
+    },
+    {
+        "code": "1.3.2.23.60",
+        "name": "Alat Laboratorium Kesehatan Kerja"
+    },
+    {
+        "code": "1.3.2.23.61",
+        "name": "Laboratorium Kearsipan"
+    },
+    {
+        "code": "1.3.2.23.62",
+        "name": "Laboratorium Hematologi & Urinalisis"
+    },
+    {
+        "code": "1.3.2.23.63",
+        "name": "Laboratorium Hematologi & Urinalisis A"
+    },
+    {
+        "code": "1.3.2.23.64",
+        "name": "Alat Laboratorium Lainnya"
+    },
+    {
+        "code": "1.3.2.23.65",
+        "name": "Dst………"
+    },
+    {
+        "code": "1.3.2.24",
+        "name": "Alat Peraga/Praktek Sekolah"
+    },
+    {
+        "code": "1.3.2.24.01",
+        "name": "Bidang Studi : Bahasa Indonesia"
+    },
+    {
+        "code": "1.3.2.24.02",
+        "name": "Bidang Studi : Matematika"
+    },
+    {
+        "code": "1.3.2.24.03",
+        "name": "Bidang Studi : IPA Dasar"
+    },
+    {
+        "code": "1.3.2.24.04",
+        "name": "Bidang Studi : IPA Lanjutan"
+    },
+    {
+        "code": "1.3.2.24.05",
+        "name": "Bidang Studi : IPA Menengah"
+    },
+    {
+        "code": "1.3.2.24.06",
+        "name": "Bidang Studi : IPA Atas"
+    },
+    {
+        "code": "1.3.2.24.07",
+        "name": "Bidang Studi : IPS"
+    },
+    {
+        "code": "1.3.2.24.08",
+        "name": "Bidang Studi : Agama Islam"
+    },
+    {
+        "code": "1.3.2.24.09",
+        "name": "Bidang Studi : Ketrampilan"
+    },
+    {
+        "code": "1.3.2.24.10",
+        "name": "Bidang Studi : Kesenian"
+    },
+    {
+        "code": "1.3.2.24.11",
+        "name": "Bidang Studi : Olah Raga"
+    },
+    {
+        "code": "1.3.2.24.12",
+        "name": "Bidang Studi : PMP"
+    },
+    {
+        "code": "1.3.2.24.13",
+        "name": "Alat Peraga/Praktek Sekolah Bidang Pendidikan/Ketrampilan Lain-lain"
+    },
+    {
+        "code": "1.3.2.24.14",
+        "name": "Dst………"
+    },
+    {
+        "code": "1.3.2.25",
+        "name": "Unit Alat Laboratorium Kimia Nuklir"
+    },
+    {
+        "code": "1.3.2.25.01",
+        "name": "Analytical instrument"
+    },
+    {
+        "code": "1.3.2.25.02",
+        "name": "Instrument Probe/Sensor"
+    },
+    {
+        "code": "1.3.2.25.03",
+        "name": "General Laboratory Tool"
+    },
+    {
+        "code": "1.3.2.25.04",
+        "name": "Instrument Probe/Sensor A"
+    },
+    {
+        "code": "1.3.2.25.05",
+        "name": "Glassware Plastic/Utensils"
+    },
+    {
+        "code": "1.3.2.25.06",
+        "name": "Laboratory Safety Equipment"
+    },
+    {
+        "code": "1.3.2.25.07",
+        "name": "Dst………"
+    },
+    {
+        "code": "1.3.2.26",
+        "name": "Alat Laboratorium Fisika Nuklir / Elektronika"
+    },
+    {
+        "code": "1.3.2.26.01",
+        "name": "Radiation Detector"
+    },
+    {
+        "code": "1.3.2.26.02",
+        "name": "Modular Counting and Scentific"
+    },
+    {
+        "code": "1.3.2.26.03",
+        "name": "Assembly/Accounting System"
+    },
+    {
+        "code": "1.3.2.26.04",
+        "name": "Recorder Display"
+    },
+    {
+        "code": "1.3.2.26.05",
+        "name": "System/Power Supply"
+    },
+    {
+        "code": "1.3.2.26.06",
+        "name": "Measuring / Testing Device"
+    },
+    {
+        "code": "1.3.2.26.07",
+        "name": "Opto Electronics"
+    },
+    {
+        "code": "1.3.2.26.08",
+        "name": "Accelator"
+    },
+    {
+        "code": "1.3.2.26.09",
+        "name": "Reactor Expermental System"
+    },
+    {
+        "code": "1.3.2.26.10",
+        "name": "Dst………"
+    },
+    {
+        "code": "1.3.2.27",
+        "name": "Alat Proteksi Radiasi / Proteksi Lingkungan"
+    },
+    {
+        "code": "1.3.2.27.01",
+        "name": "Alat Ukur Fisika Kesehatan"
+    },
+    {
+        "code": "1.3.2.27.02",
+        "name": "Alat Kesehatan Kerja"
+    },
+    {
+        "code": "1.3.2.27.03",
+        "name": "Proteksi Lingkungan"
+    },
+    {
+        "code": "1.3.2.27.04",
+        "name": "Meteorological Equipment"
+    },
+    {
+        "code": "1.3.2.27.05",
+        "name": "Sumber Radiasi"
+    },
+    {
+        "code": "1.3.2.27.06",
+        "name": "Dst………"
+    },
+    {
+        "code": "1.3.2.28",
+        "name": "Radiation Aplication and Non Destructive Testing Laboratory (BATAM)"
+    },
+    {
+        "code": "1.3.2.28.01",
+        "name": "Radiation Application Equipment"
+    },
+    {
+        "code": "1.3.2.28.02",
+        "name": "Non Destructive Test (NDT) Device"
+    },
+    {
+        "code": "1.3.2.28.03",
+        "name": "Peralatan Umum Kedoteran /Klinik Nuklir"
+    },
+    {
+        "code": "1.3.2.28.04",
+        "name": "Peralatan Hidrologi"
+    },
+    {
+        "code": "1.3.2.28.05",
+        "name": "Dst………"
+    },
+    {
+        "code": "1.3.2.29",
+        "name": "Alat Laboratorium Lingkungan Hidup"
+    },
+    {
+        "code": "1.3.2.29.01",
+        "name": "Alat laboratorium Kualitas Air dan tanah"
+    },
+    {
+        "code": "1.3.2.29.02",
+        "name": "Alat Laboratorium Kualitas Udara"
+    },
+    {
+        "code": "1.3.2.29.03",
+        "name": "Alat Laboratorium Kebisingan dan Getaran"
+    },
+    {
+        "code": "1.3.2.29.04",
+        "name": "Laboratorium Lingkungan"
+    },
+    {
+        "code": "1.3.2.29.05",
+        "name": "Alat Laboratorium Penunjang"
+    },
+    {
+        "code": "1.3.2.29.06",
+        "name": "Dst………"
+    },
+    {
+        "code": "1.3.2.30",
+        "name": "Peralatan Laboratorium Hidrodinamika"
+    },
+    {
+        "code": "1.3.2.30.01",
+        "name": "Towing Carriage"
+    },
+    {
+        "code": "1.3.2.30.02",
+        "name": "Wave Generator and Absorber"
+    },
+    {
+        "code": "1.3.2.30.03",
+        "name": "Data Aqquistion and Analyzing System"
+    },
+    {
+        "code": "1.3.2.30.04",
+        "name": "Cavitation Tunnel"
+    },
+    {
+        "code": "1.3.2.30.05",
+        "name": "Overhead Cranes"
+    },
+    {
+        "code": "1.3.2.30.06",
+        "name": "Peralatan umum"
+    },
+    {
+        "code": "1.3.2.30.07",
+        "name": "Pemesinan : Model Ship Workshop"
+    },
+    {
+        "code": "1.3.2.30.08",
+        "name": "Pemesinan : Propeller Model Workshop"
+    },
+    {
+        "code": "1.3.2.30.09",
+        "name": "Pemesinan : Mechanical Workshop"
+    },
+    {
+        "code": "1.3.2.30.10",
+        "name": "Pemesinan : Precision Mechanical Workshop"
+    },
+    {
+        "code": "1.3.2.30.11",
+        "name": "Pemesinan Painting Shop"
+    },
+    {
+        "code": "1.3.2.30.12",
+        "name": "Pemesinan : Ship Model Preparation Shop"
+    },
+    {
+        "code": "1.3.2.30.13",
+        "name": "Pemesinan : Electrical Workshop"
+    },
+    {
+        "code": "1.3.2.30.14",
+        "name": "MOB"
+    },
+    {
+        "code": "1.3.2.30.15",
+        "name": "Photo and Film Equipment"
+    },
+    {
+        "code": "1.3.2.30.16",
+        "name": "Dst………"
+    },
+    {
+        "code": "1.3.2.31",
+        "name": "Senjata Api"
+    },
+    {
+        "code": "1.3.2.31.01",
+        "name": "Senjata Genggam"
+    },
+    {
+        "code": "1.3.2.31.02",
+        "name": "Senjata Pinggang"
+    },
+    {
+        "code": "1.3.2.31.03",
+        "name": "Senjata Bahu/Senjata Laras Panjang"
+    },
+    {
+        "code": "1.3.2.31.04",
+        "name": "Senapan Mesin"
+    },
+    {
+        "code": "1.3.2.31.05",
+        "name": "Mortir"
+    },
+    {
+        "code": "1.3.2.31.06",
+        "name": "Anti Lapis Baja"
+    },
+    {
+        "code": "1.3.2.31.07",
+        "name": "Artileri Medan (Armed)"
+    },
+    {
+        "code": "1.3.2.31.08",
+        "name": "Artileri Pertahanan Udara (Arhanud)"
+    },
+    {
+        "code": "1.3.2.31.09",
+        "name": "Peluru Kendali/Rudal"
+    },
+    {
+        "code": "1.3.2.31.10",
+        "name": "Kavaleri"
+    },
+    {
+        "code": "1.3.2.31.11",
+        "name": "Senjata Lain-lain"
+    },
+    {
+        "code": "1.3.2.32",
+        "name": "Persenjataan Non Senjata Api"
+    },
+    {
+        "code": "1.3.2.32.01",
+        "name": "Alat Keamanan"
+    },
+    {
+        "code": "1.3.2.32.02",
+        "name": "Non Senjata Api"
+    },
+    {
+        "code": "1.3.2.33",
+        "name": "Amunisi"
+    },
+    {
+        "code": "1.3.2.33.01",
+        "name": "Amunisi Umum"
+    },
+    {
+        "code": "1.3.2.33.02",
+        "name": "Amunisi Darat"
+    },
+    {
+        "code": "1.3.2.33.03",
+        "name": "Dst......"
+    },
+    {
+        "code": "1.3.2.34",
+        "name": "Senjata Sinar"
+    },
+    {
+        "code": "1.3.2.34.01",
+        "name": "Laser"
+    },
+    {
+        "code": "1.3.2.34.02",
+        "name": "Dst........"
+    },
+    {
+        "code": "1.3.2.35",
+        "name": "Alat Keamanan dan Perlindungan"
+    },
+    {
+        "code": "1.3.2.35.01",
+        "name": "Alat Bantu Keamanan"
+    },
+    {
+        "code": "1.3.2.35.02",
+        "name": "Alat Perlindungan"
+    },
+    {
+        "code": "1.3.2.35.03",
+        "name": "Alat Bantu Lalu Lintas Darat dan Air"
+    },
+    {
+        "code": "1.3.2.35.04",
+        "name": "Dst........"
+    },
+    {
+        "code": "1.3.3",
+        "name": "Gedung dan Bangunan"
+    },
+    {
+        "code": "1.3.3.01",
+        "name": "Bangunan Gedung Tempat Kerja"
+    },
+    {
+        "code": "1.3.3.01.01",
+        "name": "Bangunan Gedung Kantor"
+    },
+    {
+        "code": "1.3.3.01.02",
+        "name": "Bangunan Gudang"
+    },
+    {
+        "code": "1.3.3.01.03",
+        "name": "Bangunan Gudang Untuk Bengkel"
+    },
+    {
+        "code": "1.3.3.01.04",
+        "name": "Bangunan Gedung Instalasi"
+    },
+    {
+        "code": "1.3.3.01.05",
+        "name": "Bangunan Gedung Laboratorium"
+    },
+    {
+        "code": "1.3.3.01.06",
+        "name": "Bangunan Kesehatan"
+    },
+    {
+        "code": "1.3.3.01.07",
+        "name": "Bangunan Oceanarium/Opservatorium"
+    },
+    {
+        "code": "1.3.3.01.08",
+        "name": "Bangunan Gedung Tempat Ibadah"
+    },
+    {
+        "code": "1.3.3.01.09",
+        "name": "Bangunan Gedung Tempat Pertemuan"
+    },
+    {
+        "code": "1.3.3.01.10",
+        "name": "Bangunan Gedung Tempat Pendidikan"
+    },
+    {
+        "code": "1.3.3.01.11",
+        "name": "Bangunan Gedung Tempat Olah Raga"
+    },
+    {
+        "code": "1.3.3.01.12",
+        "name": "Bangunan Gedung Pertokoan/Koperasi/Pasar"
+    },
+    {
+        "code": "1.3.3.01.13",
+        "name": "Bangunan Gedung Untuk Pos Jaga"
+    },
+    {
+        "code": "1.3.3.01.14",
+        "name": "Bangunan Gedung Garasi/Pool"
+    },
+    {
+        "code": "1.3.3.01.15",
+        "name": "Bangunan Gedung Pemotongan Hewan"
+    },
+    {
+        "code": "1.3.3.01.16",
+        "name": "Bangunan Gedung Pabrik"
+    },
+    {
+        "code": "1.3.3.01.17",
+        "name": "Bangunan Stasiun Bus"
+    },
+    {
+        "code": "1.3.3.01.18",
+        "name": "Bangunan Kandang Hewan/Ternak"
+    },
+    {
+        "code": "1.3.3.01.19",
+        "name": "Bangunan Gedung Perpustakaan"
+    },
+    {
+        "code": "1.3.3.01.20",
+        "name": "Bangunan Gedung Museum"
+    },
+    {
+        "code": "1.3.3.01.21",
+        "name": "Bangunan Gedung Terminal/Pelabuhan/Bandar"
+    },
+    {
+        "code": "1.3.3.01.22",
+        "name": "Bangunan Pengujian Kelaikan"
+    },
+    {
+        "code": "1.3.3.01.23",
+        "name": "Bangunan Lembaga Pemasyarakatan"
+    },
+    {
+        "code": "1.3.3.01.24",
+        "name": "Bangunan Rumah Tahanan"
+    },
+    {
+        "code": "1.3.3.01.25",
+        "name": "Bangunan Gedung Kramatorium"
+    },
+    {
+        "code": "1.3.3.01.26",
+        "name": "Bangunan Pembakaran Bangkai Hewan"
+    },
+    {
+        "code": "1.3.3.01.27",
+        "name": "Bangunan Gedung Tempat Kerja Lainnya"
+    },
+    {
+        "code": "1.3.3.02",
+        "name": "Bangunan Gedung Tempat Tinggal"
+    },
+    {
+        "code": "1.3.3.02.01",
+        "name": "Rumah Negara Golongan I"
+    },
+    {
+        "code": "1.3.3.02.02",
+        "name": "Rumah Negara Golongan II"
+    },
+    {
+        "code": "1.3.3.02.03",
+        "name": "Rumah Negara Golongan III"
+    },
+    {
+        "code": "1.3.3.02.04",
+        "name": "Mess/Wisma/Bungalow/Tempat Peristirahatan"
+    },
+    {
+        "code": "1.3.3.02.05",
+        "name": "Asrama"
+    },
+    {
+        "code": "1.3.3.02.06",
+        "name": "Hotel"
+    },
+    {
+        "code": "1.3.3.02.07",
+        "name": "Motel"
+    },
+    {
+        "code": "1.3.3.02.08",
+        "name": "Flat/Rumah Susun"
+    },
+    {
+        "code": "1.3.3.02.09",
+        "name": "Dst........"
+    },
+    {
+        "code": "1.3.3.03",
+        "name": "Bangunan Menara"
+    },
+    {
+        "code": "1.3.3.03.01",
+        "name": "Bangunan Menara Perambuan Penerang Pantai"
+    },
+    {
+        "code": "1.3.3.03.02",
+        "name": "Bangunan Perambut Penerangan Pantai Tidak Bermenara"
+    },
+    {
+        "code": "1.3.3.03.03",
+        "name": "Bangunan Menara Telekomunikasi"
+    },
+    {
+        "code": "1.3.3.03.04",
+        "name": "Dst........"
+    },
+    {
+        "code": "1.3.3.04",
+        "name": "Bangunan Bersejarah"
+    },
+    {
+        "code": "1.3.3.04.01",
+        "name": "Istana Peringatan"
+    },
+    {
+        "code": "1.3.3.04.02",
+        "name": "Rumah Adat"
+    },
+    {
+        "code": "1.3.3.04.03",
+        "name": "Rumah Peninggalan Sejarah"
+    },
+    {
+        "code": "1.3.3.04.04",
+        "name": "Makam Sejarah"
+    },
+    {
+        "code": "1.3.3.04.05",
+        "name": "Bangunan Tempat Ibadah Bersejarah"
+    },
+    {
+        "code": "1.3.3.04.06",
+        "name": "Dst........"
+    },
+    {
+        "code": "1.3.3.05",
+        "name": "Tugu Peringatan"
+    },
+    {
+        "code": "1.3.3.05.01",
+        "name": "Tugu Kemerdekaan"
+    },
+    {
+        "code": "1.3.3.05.02",
+        "name": "Tugu Pembangunan"
+    },
+    {
+        "code": "1.3.3.05.03",
+        "name": "Tugu Peringatan Lainnya"
+    },
+    {
+        "code": "1.3.3.06",
+        "name": "Candi"
+    },
+    {
+        "code": "1.3.3.06.01",
+        "name": "Candi Hindhu"
+    },
+    {
+        "code": "1.3.3.06.02",
+        "name": "Candi Budha"
+    },
+    {
+        "code": "1.3.3.06.03",
+        "name": "Candi Lainnya"
+    },
+    {
+        "code": "1.3.3.07",
+        "name": "Monumen/Bangunan Bersejarah"
+    },
+    {
+        "code": "1.3.3.07.01",
+        "name": "Bangunan Bersejarah Lainnya"
+    },
+    {
+        "code": "1.3.3.08",
+        "name": "Tugu Titik Kontrol/Pasti"
+    },
+    {
+        "code": "1.3.3.08.01",
+        "name": "Tugu/Tanda Batas"
+    },
+    {
+        "code": "1.3.3.08.02",
+        "name": "Dst......"
+    },
+    {
+        "code": "1.3.3.09",
+        "name": "Rambu-Rambu"
+    },
+    {
+        "code": "1.3.3.09.01",
+        "name": "Rambu Bersuar Lalu Lintas Darat"
+    },
+    {
+        "code": "1.3.3.09.02",
+        "name": "Rambu Tidak Bersuar"
+    },
+    {
+        "code": "1.3.3.09.03",
+        "name": "Dst......"
+    },
+    {
+        "code": "1.3.3.10",
+        "name": "Rambu-Rambu Lalu Lintas Udara"
+    },
+    {
+        "code": "1.3.3.10.01",
+        "name": "Rumwey/Threshold Light"
+    },
+    {
+        "code": "1.3.3.10.02",
+        "name": "Visual Approach Slope Indicator (VASI)"
+    },
+    {
+        "code": "1.3.3.10.03",
+        "name": "Approach Light"
+    },
+    {
+        "code": "1.3.3.10.04",
+        "name": "Rumwey Identification Light (Rells)"
+    },
+    {
+        "code": "1.3.3.10.05",
+        "name": "Signal"
+    },
+    {
+        "code": "1.3.3.10.06",
+        "name": "Flood Light"
+    },
+    {
+        "code": "1.3.3.10.07",
+        "name": "Dst......"
+    },
+    {
+        "code": "1.3.4",
+        "name": "Jalan, Irigasi, dan Jaringan"
+    },
+    {
+        "code": "1.3.4.01",
+        "name": "Jalan"
+    },
+    {
+        "code": "1.3.4.01.01",
+        "name": "Jalan Negara/Nasional"
+    },
+    {
+        "code": "1.3.4.01.02",
+        "name": "Jalan Propinsi"
+    },
+    {
+        "code": "1.3.4.01.03",
+        "name": "Jalan Kabupaten/Kota"
+    },
+    {
+        "code": "1.3.4.01.04",
+        "name": "Jalan Desa"
+    },
+    {
+        "code": "1.3.4.01.05",
+        "name": "Jalan Khusus"
+    },
+    {
+        "code": "1.3.4.01.06",
+        "name": "Jalan Tol"
+    },
+    {
+        "code": "1.3.4.01.07",
+        "name": "Jalan Kereta"
+    },
+    {
+        "code": "1.3.4.01.08",
+        "name": "Landasan Pacu Pesawat Terbang"
+    },
+    {
+        "code": "1.3.4.01.09",
+        "name": "Dst......"
+    },
+    {
+        "code": "1.3.4.02",
+        "name": "Jembatan"
+    },
+    {
+        "code": "1.3.4.02.01",
+        "name": "Jembatan Negara/Nasional"
+    },
+    {
+        "code": "1.3.4.02.02",
+        "name": "Jembatan Propinsi"
+    },
+    {
+        "code": "1.3.4.02.03",
+        "name": "Jembatan Kabupaten/Kota"
+    },
+    {
+        "code": "1.3.4.02.04",
+        "name": "Jembatan Desa"
+    },
+    {
+        "code": "1.3.4.02.05",
+        "name": "Jembatan Khusus"
+    },
+    {
+        "code": "1.3.4.02.06",
+        "name": "Jembatan Pada Jalan Tol"
+    },
+    {
+        "code": "1.3.4.02.07",
+        "name": "Jembatan Pada Jalan Kereta Api"
+    },
+    {
+        "code": "1.3.4.02.08",
+        "name": "Jembatan Pada Landasan Pacu Pesawat Terbang"
+    },
+    {
+        "code": "1.3.4.02.09",
+        "name": "Jembatan Penyeberangan"
+    },
+    {
+        "code": "1.3.4.02.10",
+        "name": "Dst......"
+    },
+    {
+        "code": "1.3.4.03",
+        "name": "Bangunan Air Irigasi"
+    },
+    {
+        "code": "1.3.4.03.01",
+        "name": "Bangunan Waduk"
+    },
+    {
+        "code": "1.3.4.03.02",
+        "name": "Bangunan Pengambilan Irigasi"
+    },
+    {
+        "code": "1.3.4.03.03",
+        "name": "Bangunan Pembawa Irigasi"
+    },
+    {
+        "code": "1.3.4.03.04",
+        "name": "Bangunan Pembuang Irigasi"
+    },
+    {
+        "code": "1.3.4.03.05",
+        "name": "Bangunan Pengaman Irigasi"
+    },
+    {
+        "code": "1.3.4.03.06",
+        "name": "Bangunan Pelengkap Irigasi"
+    },
+    {
+        "code": "1.3.4.03.07",
+        "name": "Dst......"
+    },
+    {
+        "code": "1.3.4.04",
+        "name": "Bangunan Air Pasang Surut"
+    },
+    {
+        "code": "1.3.4.04.01",
+        "name": "Bangunan Waduk"
+    },
+    {
+        "code": "1.3.4.04.02",
+        "name": "Bangunan Pengambilan Pasang Surut"
+    },
+    {
+        "code": "1.3.4.04.03",
+        "name": "Bangunan Pembawa Pasang Surut"
+    },
+    {
+        "code": "1.3.4.04.04",
+        "name": "Bangunan Pembuang Pasang Surut"
+    },
+    {
+        "code": "1.3.4.04.05",
+        "name": "Bangunan Pengaman Pasang Surut"
+    },
+    {
+        "code": "1.3.4.04.06",
+        "name": "Bangunan Pelengkap Pasang Surut"
+    },
+    {
+        "code": "1.3.4.04.07",
+        "name": "Bangunan Sawah Pasang Surut"
+    },
+    {
+        "code": "1.3.4.04.08",
+        "name": "Dst......"
+    },
+    {
+        "code": "1.3.4.05",
+        "name": "Bangunan Air Rawa"
+    },
+    {
+        "code": "1.3.4.05.01",
+        "name": "Bangunan Air Pengembang Rawa dan Poder"
+    },
+    {
+        "code": "1.3.4.05.02",
+        "name": "Bangunan Pengembalian Pasang Rawa"
+    },
+    {
+        "code": "1.3.4.05.03",
+        "name": "Bangunan Pembawa Pasang Rawa"
+    },
+    {
+        "code": "1.3.4.05.04",
+        "name": "Bangunan Pembuang Pasang Rawa"
+    },
+    {
+        "code": "1.3.4.05.05",
+        "name": "Bangunan Pengamanan Pasang Surut"
+    },
+    {
+        "code": "1.3.4.05.06",
+        "name": "Bangunan Pelengkap Pasang Rawa"
+    },
+    {
+        "code": "1.3.4.05.07",
+        "name": "Bangunan Sawah Pengembangan Rawa"
+    },
+    {
+        "code": "1.3.4.05.08",
+        "name": "Dst......"
+    },
+    {
+        "code": "1.3.4.06",
+        "name": "Bangunan Pengaman Sungai dan Penanggulangan Bencana Alam"
+    },
+    {
+        "code": "1.3.4.06.01",
+        "name": "Bangunan Waduk Penanggulangan Sungai"
+    },
+    {
+        "code": "1.3.4.06.02",
+        "name": "Bangunan Pengambilan Pengamanan Sungai"
+    },
+    {
+        "code": "1.3.4.06.03",
+        "name": "Bangunan Pembuang Pengaman"
+    },
+    {
+        "code": "1.3.4.06.04",
+        "name": "Bangunan Pembuang Pengaman Sungai"
+    },
+    {
+        "code": "1.3.4.06.05",
+        "name": "Bangunan Pengaman Pengamanan Sungai"
+    },
+    {
+        "code": "1.3.4.06.06",
+        "name": "Bangunan Pelengkap Pengamanan Sungai"
+    },
+    {
+        "code": "1.3.4.06.07",
+        "name": "Dst......"
+    },
+    {
+        "code": "1.3.4.07",
+        "name": "Bangunan Pengembangan Sumber Air dan Air Tanah"
+    },
+    {
+        "code": "1.3.4.07.01",
+        "name": "Bangunan Waduk Pengembangan Sumber Air"
+    },
+    {
+        "code": "1.3.4.07.02",
+        "name": "Bangunan Pengambilan Pengembangan Sumber Air"
+    },
+    {
+        "code": "1.3.4.07.03",
+        "name": "Bangunan Pembawa Pengembangan Sumber Air"
+    },
+    {
+        "code": "1.3.4.07.04",
+        "name": "Bangunan Pembuang Pengembangan Sumber Air"
+    },
+    {
+        "code": "1.3.4.07.05",
+        "name": "Bangunan Pengamanan Pengembangan Sumber Air"
+    },
+    {
+        "code": "1.3.4.07.06",
+        "name": "Bangunan Pelengkap Pengembangan Sumber Air"
+    },
+    {
+        "code": "1.3.4.07.07",
+        "name": "Dst......"
+    },
+    {
+        "code": "1.3.4.08",
+        "name": "Bangunan Air Bersih/Baku"
+    },
+    {
+        "code": "1.3.4.08.01",
+        "name": "Waduk Air Bersih/Air Baku"
+    },
+    {
+        "code": "1.3.4.08.02",
+        "name": "Bangunan Pengambilan Air Bersih/Baku"
+    },
+    {
+        "code": "1.3.4.08.03",
+        "name": "Bangunan Pembawa Air Bersih"
+    },
+    {
+        "code": "1.3.4.08.04",
+        "name": "Bangunan Pembuang Air Bersih/Air Baku"
+    },
+    {
+        "code": "1.3.4.08.05",
+        "name": "Bangunan Pelengkap Air Bersih/Air Baku"
+    },
+    {
+        "code": "1.3.4.08.06",
+        "name": "Dst......"
+    },
+    {
+        "code": "1.3.4.09",
+        "name": "Bangunan Air Kotor"
+    },
+    {
+        "code": "1.3.4.09.01",
+        "name": "Bangunan Pembawa Air Kotor"
+    },
+    {
+        "code": "1.3.4.09.02",
+        "name": "Bangunan Waduk Air Kotor"
+    },
+    {
+        "code": "1.3.4.09.03",
+        "name": "Bangunan Pembuangan Air Kotor"
+    },
+    {
+        "code": "1.3.4.09.04",
+        "name": "Bangunan Pengaman Air Kotor"
+    },
+    {
+        "code": "1.3.4.09.05",
+        "name": "Bangunan Pelengkap Air Kotor"
+    },
+    {
+        "code": "1.3.4.09.06",
+        "name": "Dst......"
+    },
+    {
+        "code": "1.3.4.10",
+        "name": "Bangunan Air"
+    },
+    {
+        "code": "1.3.4.10.01",
+        "name": "Bangunan Air Laut"
+    },
+    {
+        "code": "1.3.4.10.02",
+        "name": "Bangunan Air Tawar"
+    },
+    {
+        "code": "1.3.4.10.03",
+        "name": "Dst......"
+    },
+    {
+        "code": "1.3.4.11",
+        "name": "Instalasi Air Minum Bersih"
+    },
+    {
+        "code": "1.3.4.11.01",
+        "name": "Air Muka Tanah"
+    },
+    {
+        "code": "1.3.4.11.02",
+        "name": "Air Sumber /Mata Air"
+    },
+    {
+        "code": "1.3.4.11.03",
+        "name": "Air Tanah Dalam"
+    },
+    {
+        "code": "1.3.4.11.04",
+        "name": "Air Tanah Dangkal"
+    },
+    {
+        "code": "1.3.4.11.05",
+        "name": "Air Bersih/Air Baku Lainnya"
+    },
+    {
+        "code": "1.3.4.11.06",
+        "name": "Dst......"
+    },
+    {
+        "code": "1.3.4.12",
+        "name": "Instalasi Air Kotor"
+    },
+    {
+        "code": "1.3.4.12.01",
+        "name": "Instalasi Air Kotor"
+    },
+    {
+        "code": "1.3.4.12.02",
+        "name": "Instalasi Air Buangan Industri"
+    },
+    {
+        "code": "1.3.4.12.03",
+        "name": "Instalasi Air Buangan Pertanian"
+    },
+    {
+        "code": "1.3.4.12.04",
+        "name": "Dst......"
+    },
+    {
+        "code": "1.3.4.13",
+        "name": "Instalasi Pengolahan Sampah Organik dan Non Organik"
+    },
+    {
+        "code": "1.3.4.13.01",
+        "name": "Instalasi Pengolahan Sampah Organik"
+    },
+    {
+        "code": "1.3.4.13.02",
+        "name": "Instalasi Pengolahan Sampah Non Organik"
+    },
+    {
+        "code": "1.3.4.14",
+        "name": "Instalasi Pengolahan Bahan Bangunan"
+    },
+    {
+        "code": "1.3.4.14.01",
+        "name": "Instalasi Pengolahan Bahan Bangunan ......"
+    },
+    {
+        "code": "1.3.4.14.02",
+        "name": "Dst......"
+    },
+    {
+        "code": "1.3.4.15",
+        "name": "Instalasi Pembangkit Listrik"
+    },
+    {
+        "code": "1.3.4.15.01",
+        "name": "Pembangkit Listrik Tenaga Air (PLTA)"
+    },
+    {
+        "code": "1.3.4.15.02",
+        "name": "Pembangkit Listrik Tenaga Diesel (PLTD)"
+    },
+    {
+        "code": "1.3.4.15.03",
+        "name": "Pembangkit Liatrik Tenaga Mikro (Hidro)"
+    },
+    {
+        "code": "1.3.4.15.04",
+        "name": "Pembangkit Listrik Tenaga Angin (PLTAN)"
+    },
+    {
+        "code": "1.3.4.15.05",
+        "name": "Pembangkit Listrik Tenaga Uap (PLTU)"
+    },
+    {
+        "code": "1.3.4.15.06",
+        "name": "Pembangkit Listrik Tenaga Nuklir (PLTN)"
+    },
+    {
+        "code": "1.3.4.15.07",
+        "name": "Pembangkit Listrik Tenaga Gas (PLTG)"
+    },
+    {
+        "code": "1.3.4.15.08",
+        "name": "Pembangkit Listrik Tenaga Panas Bumi (PLTP)"
+    },
+    {
+        "code": "1.3.4.15.09",
+        "name": "Pembangkit Listrik Tenaga Tenaga Surya (PLTS)"
+    },
+    {
+        "code": "1.3.4.15.10",
+        "name": "Pembangkit Listrik Tenaga Biogas (PLTB)"
+    },
+    {
+        "code": "1.3.4.15.11",
+        "name": "Pembangkit Listrik Tenaga Samudra/Gelombang Samudra (PLTSm)"
+    },
+    {
+        "code": "1.3.4.15.12",
+        "name": "Dst......"
+    },
+    {
+        "code": "1.3.4.16",
+        "name": "Instalasi Gardu Listrik"
+    },
+    {
+        "code": "1.3.4.16.01",
+        "name": "Instalasi Gardu Listrik Induk"
+    },
+    {
+        "code": "1.3.4.16.02",
+        "name": "Instalasi Gardu Listrik Distribusi"
+    },
+    {
+        "code": "1.3.4.16.03",
+        "name": "Instalasi Pusat Pengatur Listrik"
+    },
+    {
+        "code": "1.3.4.16.04",
+        "name": "Dst......"
+    },
+    {
+        "code": "1.3.4.17",
+        "name": "Instalasi Pertahanan"
+    },
+    {
+        "code": "1.3.4.17.01",
+        "name": "Instalasi Pertahanan Di Darat"
+    },
+    {
+        "code": "1.3.4.17.02",
+        "name": "Dst......"
+    },
+    {
+        "code": "1.3.4.18",
+        "name": "Instalasi Gas"
+    },
+    {
+        "code": "1.3.4.18.01",
+        "name": "Instalasi Gardu Gas"
+    },
+    {
+        "code": "1.3.4.18.02",
+        "name": "Instalasi Jaringan Pipa Gas"
+    },
+    {
+        "code": "1.3.4.19",
+        "name": "Instalasi Pengaman"
+    },
+    {
+        "code": "1.3.4.19.01",
+        "name": "Instalasi Pengaman Penangkal Petir"
+    },
+    {
+        "code": "1.3.4.19.02",
+        "name": "Dst......"
+    },
+    {
+        "code": "1.3.4.20",
+        "name": "Jaringan Air Minum"
+    },
+    {
+        "code": "1.3.4.20.01",
+        "name": "Jaringan Pembawa"
+    },
+    {
+        "code": "1.3.4.20.02",
+        "name": "Jaringan Induk Distribusi"
+    },
+    {
+        "code": "1.3.4.20.03",
+        "name": "Jaringan Cabang Distribusi"
+    },
+    {
+        "code": "1.3.4.20.04",
+        "name": "Jaringan Sambungan ke rumah"
+    },
+    {
+        "code": "1.3.4.20.05",
+        "name": "Dst......"
+    },
+    {
+        "code": "1.3.4.21",
+        "name": "Jaringan Listrik"
+    },
+    {
+        "code": "1.3.4.21.01",
+        "name": "Jaringan Transmisi"
+    },
+    {
+        "code": "1.3.4.21.02",
+        "name": "Jaringan Distribusi"
+    },
+    {
+        "code": "1.3.4.22",
+        "name": "Jaringan Telepon"
+    },
+    {
+        "code": "1.3.4.22.01",
+        "name": "Jaringan Telepon Di atas Tanah"
+    },
+    {
+        "code": "1.3.4.22.02",
+        "name": "Jaringan Telepon Di bawah Tanah"
+    },
+    {
+        "code": "1.3.4.22.03",
+        "name": "Jaringan Telepon Didalam Air"
+    },
+    {
+        "code": "1.3.4.23",
+        "name": "Jaringan Gas"
+    },
+    {
+        "code": "1.3.4.23.01",
+        "name": "Jaringan Pipa Gas Transmisi"
+    },
+    {
+        "code": "1.3.4.23.02",
+        "name": "Jaringan Pipa Distribusi"
+    },
+    {
+        "code": "1.3.4.23.03",
+        "name": "Jaringan Pipa Dinas"
+    },
+    {
+        "code": "1.3.4.23.04",
+        "name": "Jaringan BBM"
+    },
+    {
+        "code": "1.3.4.23.05",
+        "name": "Dst......"
+    },
+    {
+        "code": "1.3.5",
+        "name": "Aset Tetap Lainnya"
+    },
+    {
+        "code": "1.3.5.01",
+        "name": "Buku"
+    },
+    {
+        "code": "1.3.5.01.01",
+        "name": "Umum"
+    },
+    {
+        "code": "1.3.5.01.02",
+        "name": "Filsafat"
+    },
+    {
+        "code": "1.3.5.01.03",
+        "name": "Agama"
+    },
+    {
+        "code": "1.3.5.01.04",
+        "name": "Ilmu Sosial"
+    },
+    {
+        "code": "1.3.5.01.05",
+        "name": "Ilmu Bahasa"
+    },
+    {
+        "code": "1.3.5.01.06",
+        "name": "Matematika & Pengetahuan alam"
+    },
+    {
+        "code": "1.3.5.01.07",
+        "name": "Ilmu Pengetahuan Praktis"
+    },
+    {
+        "code": "1.3.5.01.08",
+        "name": "Arsitektur, Kesenian, Olah raga"
+    },
+    {
+        "code": "1.3.5.01.09",
+        "name": "Geografi, Biografi, Sejarah"
+    },
+    {
+        "code": "1.3.5.01.10",
+        "name": "Dst......."
+    },
+    {
+        "code": "1.3.5.02",
+        "name": "Terbitan"
+    },
+    {
+        "code": "1.3.5.02.01",
+        "name": "Terbitan Berkala"
+    },
+    {
+        "code": "1.3.5.02.02",
+        "name": "Buku Laporan"
+    },
+    {
+        "code": "1.3.5.02.03",
+        "name": "Dst......."
+    },
+    {
+        "code": "1.3.5.03",
+        "name": "Barang-Barang Perpustakaan"
+    },
+    {
+        "code": "1.3.5.03.01",
+        "name": "Peta"
+    },
+    {
+        "code": "1.3.5.03.02",
+        "name": "Naskah (Manuskrip)"
+    },
+    {
+        "code": "1.3.5.03.03",
+        "name": "Musik"
+    },
+    {
+        "code": "1.3.5.03.04",
+        "name": "Karya Grafika (Graphic Material)"
+    },
+    {
+        "code": "1.3.5.03.05",
+        "name": "Three Dimensional Artetacs and Realita"
+    },
+    {
+        "code": "1.3.5.03.06",
+        "name": "Bentuk Micro (Microform)"
+    },
+    {
+        "code": "1.3.5.03.07",
+        "name": "Rekaman Suara (Sound Recording)"
+    },
+    {
+        "code": "1.3.5.03.08",
+        "name": "Berkas Komputer (Computer Files)"
+    },
+    {
+        "code": "1.3.5.03.09",
+        "name": "Film Bergerak dan Rekaman Video"
+    },
+    {
+        "code": "1.3.5.03.10",
+        "name": "Tarscalt"
+    },
+    {
+        "code": "1.3.5.03.11",
+        "name": "Dst......."
+    },
+    {
+        "code": "1.3.5.04",
+        "name": "Barang Bercorak Kebudayaan"
+    },
+    {
+        "code": "1.3.5.04.01",
+        "name": "Pahatan"
+    },
+    {
+        "code": "1.3.5.04.02",
+        "name": "Lukisan"
+    },
+    {
+        "code": "1.3.5.04.03",
+        "name": "Alat Kesenian"
+    },
+    {
+        "code": "1.3.5.04.04",
+        "name": "Alat Olah Raga"
+    },
+    {
+        "code": "1.3.5.04.05",
+        "name": "Tanda Penghargaan"
+    },
+    {
+        "code": "1.3.5.04.06",
+        "name": "Maket dan Foto Dokumen"
+    },
+    {
+        "code": "1.3.5.04.07",
+        "name": "Benda-benda Bersejarah"
+    },
+    {
+        "code": "1.3.5.04.08",
+        "name": "Barang Kerajinan"
+    },
+    {
+        "code": "1.3.5.04.09",
+        "name": "Dst......."
+    },
+    {
+        "code": "1.3.5.05",
+        "name": "Alat Olah Raga Lainnya"
+    },
+    {
+        "code": "1.3.5.05.01",
+        "name": "Senam"
+    },
+    {
+        "code": "1.3.5.05.02",
+        "name": "Alat Olah Raga Air"
+    },
+    {
+        "code": "1.3.5.05.03",
+        "name": "Alat Olah Raga Udara"
+    },
+    {
+        "code": "1.3.5.05.04",
+        "name": "Dst......."
+    },
+    {
+        "code": "1.3.5.06",
+        "name": "Hewan"
+    },
+    {
+        "code": "1.3.5.06.01",
+        "name": "Binatang Ternak"
+    },
+    {
+        "code": "1.3.5.06.02",
+        "name": "Binatang Unggas"
+    },
+    {
+        "code": "1.3.5.06.03",
+        "name": "Binatang Melata"
+    },
+    {
+        "code": "1.3.5.06.04",
+        "name": "Binatang Ikan"
+    },
+    {
+        "code": "1.3.5.06.05",
+        "name": "Hewan Kebun Binatang"
+    },
+    {
+        "code": "1.3.5.06.06",
+        "name": "Hewan Pengamanan"
+    },
+    {
+        "code": "1.3.5.06.07",
+        "name": "Dst......."
+    },
+    {
+        "code": "1.3.5.07",
+        "name": "Tanaman"
+    },
+    {
+        "code": "1.3.5.07.01",
+        "name": "Tanaman Perkebunan"
+    },
+    {
+        "code": "1.3.5.07.02",
+        "name": "Tanaman Holtikultura"
+    },
+    {
+        "code": "1.3.5.07.03",
+        "name": "Tanaman Kehutanan"
+    },
+    {
+        "code": "1.3.5.07.04",
+        "name": "Tanaman Hias"
+    },
+    {
+        "code": "1.3.5.07.05",
+        "name": "Tanaman Obat dan Kosmetika"
+    },
+    {
+        "code": "1.3.5.07.06",
+        "name": "Dst......."
+    },
+    {
+        "code": "1.3.5.08",
+        "name": "Aset Tetap Renovasi"
+    },
+    {
+        "code": "1.3.5.08.01",
+        "name": "Aset Tetap Renovasi ....."
+    },
+    {
+        "code": "1.3.5.08.02",
+        "name": "Dst......"
+    },
+    {
+        "code": "1.3.6",
+        "name": "Konstruksi Dalam Pengerjaan"
+    },
+    {
+        "code": "1.3.6.01",
+        "name": "Konstruksi Dalam Pengerjaan"
+    },
+    {
+        "code": "1.3.6.01.01",
+        "name": "Konstruksi Dalam Pengerjaan ......."
+    },
+    {
+        "code": "1.3.6.01.02",
+        "name": "Dst......"
+    },
+    {
+        "code": "1.3.7",
+        "name": "Akumulasi Penyusutan"
+    },
+    {
+        "code": "1.3.7.01",
+        "name": "Akumulasi Penyusutan Peralatan dan Mesin"
+    },
+    {
+        "code": "1.3.7.01.01",
+        "name": "Akumulasi Penyusutan Alat-Alat Besar Darat"
+    },
+    {
+        "code": "1.3.7.01.02",
+        "name": "Akumulasi Penyusutan Alat-Alat Besar Apung"
+    },
+    {
+        "code": "1.3.7.01.03",
+        "name": "Akumulasi Penyusutan Alat-alat Bantu"
+    },
+    {
+        "code": "1.3.7.01.04",
+        "name": "Akumulasi Penyusutan Alat Angkutan Darat Bermotor"
+    },
+    {
+        "code": "1.3.7.01.05",
+        "name": "Akumulasi Penyusutan Alat Angkutan Berat Tak Bermotor"
+    },
+    {
+        "code": "1.3.7.01.06",
+        "name": "Akumulasi Penyusutan Alat Angkut Apung Bermotor"
+    },
+    {
+        "code": "1.3.7.01.07",
+        "name": "Akumulasi Penyusutan Alat Angkut Apung Tak Bermotor"
+    },
+    {
+        "code": "1.3.7.01.08",
+        "name": "Akumulasi Penyusutan Alat Angkut Bermotor Udara"
+    },
+    {
+        "code": "1.3.7.01.09",
+        "name": "Akumulasi Penyusutan Alat Bengkel Bermesin"
+    },
+    {
+        "code": "1.3.7.01.10",
+        "name": "Akumulasi Penyusutan Alat Bengkel Tak Bermesin"
+    },
+    {
+        "code": "1.3.7.01.11",
+        "name": "Akumulasi Penyusutan Alat Ukur"
+    },
+    {
+        "code": "1.3.7.01.12",
+        "name": "Akumulasi Penyusutan Alat Pengolahan Pertanian"
+    },
+    {
+        "code": "1.3.7.01.13",
+        "name": "Akumulasi Penyusutan Alat Pemeliharaan Tanaman/Alat Penyimpan Pertanian"
+    },
+    {
+        "code": "1.3.7.01.14",
+        "name": "Akumulasi Penyusutan Alat Kantor"
+    },
+    {
+        "code": "1.3.7.01.15",
+        "name": "Akumulasi Penyusutan Alat Rumah Tangga"
+    },
+    {
+        "code": "1.3.7.01.16",
+        "name": "Akumulasi Penyusutan Peralatan Komputer"
+    },
+    {
+        "code": "1.3.7.01.17",
+        "name": "Akumulasi Penyusutan Meja Dan Kursi Kerja/Rapat Pejabat"
+    },
+    {
+        "code": "1.3.7.01.18",
+        "name": "Akumulasi Penyusutan Alat Studio"
+    },
+    {
+        "code": "1.3.7.01.19",
+        "name": "Akumulasi Penyusutan Alat Komunikasi"
+    },
+    {
+        "code": "1.3.7.01.20",
+        "name": "Akumulasi Penyusutan Peralatan Pemancar"
+    },
+    {
+        "code": "1.3.7.01.21",
+        "name": "Akumulasi Penyusutan Alat Kedokteran"
+    },
+    {
+        "code": "1.3.7.01.22",
+        "name": "Akumulasi Penyusutan Alat Kesehatan"
+    },
+    {
+        "code": "1.3.7.01.23",
+        "name": "Akumulasi Penyusutan Unit-Unit Laboratorium"
+    },
+    {
+        "code": "1.3.7.01.24",
+        "name": "Akumulasi Penyusutan Alat Peraga/Praktek Sekolah"
+    },
+    {
+        "code": "1.3.7.01.25",
+        "name": "Akumulasi Penyusutan Unit Alat Laboratorium Kimia Nuklir"
+    },
+    {
+        "code": "1.3.7.01.26",
+        "name": "Akumulasi Penyusutan Alat Laboratorium Fisika Nuklir / Elektronika"
+    },
+    {
+        "code": "1.3.7.01.27",
+        "name": "Akumulasi Penyusutan Alat Proteksi Radiasi / Proteksi Lingkungan"
+    },
+    {
+        "code": "1.3.7.01.28",
+        "name": "Akumulasi Penyusutan Radiation Aplication and Non Destructive Testing Laboratory (BATAM)"
+    },
+    {
+        "code": "1.3.7.01.29",
+        "name": "Akumulasi Penyusutan Alat Laboratorium Lingkungan Hidup"
+    },
+    {
+        "code": "1.3.7.01.30",
+        "name": "Akumulasi Penyusutan Peralatan Laboratorium Hidrodinamika"
+    },
+    {
+        "code": "1.3.7.01.31",
+        "name": "Akumulasi Penyusutan Senjata Api"
+    },
+    {
+        "code": "1.3.7.01.32",
+        "name": "Akumulasi Penyusutan Persenjataan Non Senjata Api"
+    },
+    {
+        "code": "1.3.7.01.33",
+        "name": "Akumulasi Penyusutan Alat Keamanan dan Perlindungan"
+    },
+    {
+        "code": "1.3.7.02",
+        "name": "Akumulasi Penyusutan Gedung dan Bangunan"
+    },
+    {
+        "code": "1.3.7.02.01",
+        "name": "Akumulasi Penyusutan Bangunan Gedung Tempat Kerja"
+    },
+    {
+        "code": "1.3.7.02.02",
+        "name": "Akumulasi Penyusutan Bangunan Gedung Tempat Tinggal"
+    },
+    {
+        "code": "1.3.7.02.03",
+        "name": "Akumulasi Penyusutan Bangunan Menara"
+    },
+    {
+        "code": "1.3.7.02.04",
+        "name": "Akumulasi Penyusutan Bangunan Bersejarah"
+    },
+    {
+        "code": "1.3.7.02.05",
+        "name": "Akumulasi Penyusutan Tugu Peringatan"
+    },
+    {
+        "code": "1.3.7.02.06",
+        "name": "Akumulasi Penyusutan Candi"
+    },
+    {
+        "code": "1.3.7.02.07",
+        "name": "Akumulasi Penyusutan Monumen/Bangunan Bersejarah"
+    },
+    {
+        "code": "1.3.7.02.08",
+        "name": "Akumulasi Penyusutan Tugu Titik Kontrol/Pasti"
+    },
+    {
+        "code": "1.3.7.02.09",
+        "name": "Akumulasi Penyusutan Bangunan Rambu-Rambu"
+    },
+    {
+        "code": "1.3.7.02.10",
+        "name": "Akumulasi Penyusutan Bangunan Rambu-Rambu Lalu Lintas Udara"
+    },
+    {
+        "code": "1.3.7.03",
+        "name": "Akumulasi Penyusutan Jalan, Irigasi, dan jaringan"
+    },
+    {
+        "code": "1.3.7.03.01",
+        "name": "Akumulasi Penyusutan Jalan"
+    },
+    {
+        "code": "1.3.7.03.02",
+        "name": "Akumulasi Penyusutan Jembatan"
+    },
+    {
+        "code": "1.3.7.03.03",
+        "name": "Akumulasi Penyusutan Bangunan Air Irigasi"
+    },
+    {
+        "code": "1.3.7.03.04",
+        "name": "Akumulasi Penyusutan Bangunan Air Pasang Surut"
+    },
+    {
+        "code": "1.3.7.03.05",
+        "name": "Akumulasi Penyusutan Bangunan Air Rawa"
+    },
+    {
+        "code": "1.3.7.03.06",
+        "name": "Akumulasi Penyusutan Bangunan Pengaman Sungai dan Penanggulangan Bencana Alam"
+    },
+    {
+        "code": "1.3.7.03.07",
+        "name": "Akumulasi Penyusutan Bangunan Pengembangan Sumber Air dan Air Tanah"
+    },
+    {
+        "code": "1.3.7.03.08",
+        "name": "Akumulasi Penyusutan Bangunan Air Bersih/Baku"
+    },
+    {
+        "code": "1.3.7.03.09",
+        "name": "Akumulasi Penyusutan Bangunan Air Kotor"
+    },
+    {
+        "code": "1.3.7.03.10",
+        "name": "Akumulasi Penyusutan Bangunan Air"
+    },
+    {
+        "code": "1.3.7.03.11",
+        "name": "Akumulasi Penyusutan Instalasi Air Minum/Air Bersih"
+    },
+    {
+        "code": "1.3.7.03.12",
+        "name": "Akumulasi Penyusutan Instalasi Air Kotor"
+    },
+    {
+        "code": "1.3.7.03.13",
+        "name": "Akumulasi Penyusutan Instalasi Pengolahan Sampah"
+    },
+    {
+        "code": "1.3.7.03.14",
+        "name": "Akumulasi Penyusutan Instalasi Pengolahan Bahan Bangunan"
+    },
+    {
+        "code": "1.3.7.03.15",
+        "name": "Akumulasi Penyusutan Instalasi Pembangkit Listrik"
+    },
+    {
+        "code": "1.3.7.03.16",
+        "name": "Akumulasi Penyusutan Instalasi Gardu Listrik"
+    },
+    {
+        "code": "1.3.7.03.17",
+        "name": "Akumulasi Penyusutan Instalasi Pertahanan"
+    },
+    {
+        "code": "1.3.7.03.18",
+        "name": "Akumulasi Penyusutan Instalasi Gas"
+    },
+    {
+        "code": "1.3.7.03.19",
+        "name": "Akumulasi Penyusutan Instalasi Pengaman"
+    },
+    {
+        "code": "1.3.7.03.20",
+        "name": "Akumulasi Penyusutan Jaringan Air Minum"
+    },
+    {
+        "code": "1.3.7.03.21",
+        "name": "Akumulasi Penyusutan Jaringan Listrik"
+    },
+    {
+        "code": "1.3.7.03.22",
+        "name": "Akumulasi Penyusutan Jaringan Telepon"
+    },
+    {
+        "code": "1.3.7.03.23",
+        "name": "Akumulasi Penyusutan Jaringan Gas"
+    },
+    {
+        "code": "1.4",
+        "name": "DANA CADANGAN"
+    },
+    {
+        "code": "1.4.1",
+        "name": "Dana Cadangan"
+    },
+    {
+        "code": "1.4.1.01",
+        "name": "Dana Cadangan"
+    },
+    {
+        "code": "1.4.1.01.01",
+        "name": "Dana Cadangan ......"
+    },
+    {
+        "code": "1.4.1.01.02",
+        "name": "Dst......."
+    },
+    {
+        "code": "1.5",
+        "name": "ASET LAINNYA"
+    },
+    {
+        "code": "1.5.1",
+        "name": "Tagihan Jangka Panjang"
+    },
+    {
+        "code": "1.5.1.01",
+        "name": "Tagihan Penjualan Angsuran"
+    },
+    {
+        "code": "1.5.1.01.01",
+        "name": "Tagihan Angsuran Penjualan Rumah Dinas Daerah Golongan III"
+    },
+    {
+        "code": "1.5.1.01.02",
+        "name": "Tagihan Angsuran Penjualan Kendaraan Perorangan Dinas"
+    },
+    {
+        "code": "1.5.1.01.03",
+        "name": "Dst......."
+    },
+    {
+        "code": "1.5.2.02",
+        "name": "Tuntutan Ganti Kerugian Daerah"
+    },
+    {
+        "code": "1.5.2.02.01",
+        "name": "Tuntutan Ganti Kerugian Daerah Terhadap Bendahara"
+    },
+    {
+        "code": "1.5.2.02.02",
+        "name": "Tuntutan Ganti Kerugian Daerah Terhadap Pegawai Negeri Bukan Bendahara"
+    },
+    {
+        "code": "1.5.2",
+        "name": "Kemitraan dengan Pihak Ketiga"
+    },
+    {
+        "code": "1.5.2.01",
+        "name": "Sewa"
+    },
+    {
+        "code": "1.5.2.01.01",
+        "name": "Sewa ......"
+    },
+    {
+        "code": "1.5.2.01.02",
+        "name": "Dst......"
+    },
+    {
+        "code": "1.5.2.02",
+        "name": "Kerjasama Pemanfaatan"
+    },
+    {
+        "code": "1.5.2.02.01",
+        "name": "Kerjasama Pemanfaatan ....."
+    },
+    {
+        "code": "1.5.2.02.02",
+        "name": "Dst......"
+    },
+    {
+        "code": "1.5.2.03",
+        "name": "Bangun guna serah"
+    },
+    {
+        "code": "1.5.2.03.01",
+        "name": "Bangun guna serah ........"
+    },
+    {
+        "code": "1.5.2.03.02",
+        "name": "Dst......"
+    },
+    {
+        "code": "1.5.2.04",
+        "name": "Bangun serah guna"
+    },
+    {
+        "code": "1.5.2.04.01",
+        "name": "Bangun serah guna ......."
+    },
+    {
+        "code": "1.5.2.04.02",
+        "name": "Dst......"
+    },
+    {
+        "code": "1.5.3",
+        "name": "Aset Tidak Berwujud"
+    },
+    {
+        "code": "1.5.3.01",
+        "name": "Goodwill"
+    },
+    {
+        "code": "1.5.3.01.01",
+        "name": "Goodwill ......"
+    },
+    {
+        "code": "1.5.3.01.02",
+        "name": "Dst..................."
+    },
+    {
+        "code": "1.5.3.02",
+        "name": "Lisensi dan frenchise"
+    },
+    {
+        "code": "1.5.3.02.01",
+        "name": "Lisensi dan frenchise ...."
+    },
+    {
+        "code": "1.5.3.02.02",
+        "name": "Dst..................."
+    },
+    {
+        "code": "1.5.3.03",
+        "name": "Hak Cipta"
+    },
+    {
+        "code": "1.5.3.03.01",
+        "name": "Hak Cipta ...."
+    },
+    {
+        "code": "1.5.3.03.02",
+        "name": "Dst..................."
+    },
+    {
+        "code": "1.5.3.04",
+        "name": "Paten"
+    },
+    {
+        "code": "1.5.3.04.01",
+        "name": "Paten ...."
+    },
+    {
+        "code": "1.5.3.04.02",
+        "name": "Dst..................."
+    },
+    {
+        "code": "1.5.3.05",
+        "name": "Aset Tidat Berwujud Lainnya"
+    },
+    {
+        "code": "1.5.3.05.01",
+        "name": "Software"
+    },
+    {
+        "code": "1.5.3.05.02",
+        "name": "Kajian"
+    },
+    {
+        "code": "1.5.3.05.03",
+        "name": "Dst..................."
+    },
+    {
+        "code": "1.5.3.06",
+        "name": "Akumulasi Amortisasi Aset Tidak Berwujud"
+    },
+    {
+        "code": "1.5.3.06.01",
+        "name": "Akumulasi Amortisasi Goodwill"
+    },
+    {
+        "code": "1.5.3.06.02",
+        "name": "Akumulasi Amortisasi Lisensi dan frenchise"
+    },
+    {
+        "code": "1.5.3.06.03",
+        "name": "Akumulasi Amortisasi Hak Cipta"
+    },
+    {
+        "code": "1.5.3.06.04",
+        "name": "Akumulasi Amortisasi Paten"
+    },
+    {
+        "code": "1.5.3.06.05",
+        "name": "Akumulasi Amortisasi Aset Tidak Berwujud Lainnya"
+    },
+    {
+        "code": "1.5.4",
+        "name": "Aset Lain-lain"
+    },
+    {
+        "code": "1.5.4.01",
+        "name": "Aset Lain-lain"
+    },
+    {
+        "code": "1.5.4.01.01",
+        "name": "Aset Lain-lain…………"
+    },
+    {
+        "code": "1.5.4.01.02",
+        "name": "Dst..................."
+    }
+]

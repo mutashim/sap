@@ -1,0 +1,1770 @@
+[
+    {
+        "code": "9",
+        "name": "BEBAN"
+    },
+    {
+        "code": "9.1",
+        "name": "BEBAN OPERASI - LO"
+    },
+    {
+        "code": "9.1.1",
+        "name": "Beban Pegawai - LO"
+    },
+    {
+        "code": "9.1.1.01",
+        "name": "Beban Gaji dan Tunjangan - LO"
+    },
+    {
+        "code": "9.1.1.01.01",
+        "name": "Gaji Pokok PNS / Uang Representasi - LO"
+    },
+    {
+        "code": "9.1.1.01.02",
+        "name": "Tunjangan Keluarga - LO"
+    },
+    {
+        "code": "9.1.1.01.03",
+        "name": "Tunjangan Jabatan - LO"
+    },
+    {
+        "code": "9.1.1.01.04",
+        "name": "Tunjangan Fungsional - LO"
+    },
+    {
+        "code": "9.1.1.01.05",
+        "name": "Tunjangan Fungsional Umum - LO"
+    },
+    {
+        "code": "9.1.1.01.06",
+        "name": "Tunjangan Beras - LO"
+    },
+    {
+        "code": "9.1.1.01.07",
+        "name": "Tunjangan PPh/Tunjangan Khusus - LO"
+    },
+    {
+        "code": "9.1.1.01.08",
+        "name": "Pembulatan Gaji - LO"
+    },
+    {
+        "code": "9.1.1.01.09",
+        "name": "Iuran Jaminan Kesehatan - LO"
+    },
+    {
+        "code": "9.1.1.01.10",
+        "name": "Uang Paket - LO"
+    },
+    {
+        "code": "9.1.1.01.11",
+        "name": "Tunjangan Badan Musyawarah - LO"
+    },
+    {
+        "code": "9.1.1.01.12",
+        "name": "Tunjangan Komisi - LO"
+    },
+    {
+        "code": "9.1.1.01.13",
+        "name": "Tunjangan Badan Anggaran - LO"
+    },
+    {
+        "code": "9.1.1.01.14",
+        "name": "Tunjangan Badan Kehormatan - LO"
+    },
+    {
+        "code": "9.1.1.01.15",
+        "name": "Tunjangan Alat Kelengkapan Lainnya - LO"
+    },
+    {
+        "code": "9.1.1.01.16",
+        "name": "Tunjangan Perumahan - LO"
+    },
+    {
+        "code": "9.1.1.01.17",
+        "name": "Uang Duka Wafat/Tewas - LO"
+    },
+    {
+        "code": "9.1.1.01.18",
+        "name": "Uang Jasa Pengabdian - LO"
+    },
+    {
+        "code": "9.1.1.01.19",
+        "name": "Belanja Penunjang Operasional Pimpinan DPRD - LO"
+    },
+    {
+        "code": "9.1.1.01.20",
+        "name": "Tunjangan Kesehatan DPRD - LO"
+    },
+    {
+        "code": "9.1.1.01.21",
+        "name": "Dst ..................."
+    },
+    {
+        "code": "9.1.1.02",
+        "name": "Beban Tambahan Penghasilan PNS - LO"
+    },
+    {
+        "code": "9.1.1.02.01",
+        "name": "Tambahan Penghasilan berdasarkan beban kerja - LO"
+    },
+    {
+        "code": "9.1.1.02.02",
+        "name": "Tambahan Penghasilan berdasarkan tempat bertugas - LO"
+    },
+    {
+        "code": "9.1.1.02.03",
+        "name": "Tambahan Penghasilan berdasarkan kondisi kerja - LO"
+    },
+    {
+        "code": "9.1.1.02.04",
+        "name": "Tambahan Penghasilan berdasarkan kelangkaan profesi - LO"
+    },
+    {
+        "code": "9.1.1.02.05",
+        "name": "Dst …………………."
+    },
+    {
+        "code": "9.1.1.03",
+        "name": "Beban Penerimaan lainnya Pimpinan dan anggota DPRD serta KDH/WKDH - LO"
+    },
+    {
+        "code": "9.1.1.03.01",
+        "name": "Beban Tunjangan Komunikasi Intensif Pimpinan dan Anggota DPRD - LO"
+    },
+    {
+        "code": "9.1.1.03.02",
+        "name": "Beban Penunjang Operasional KDH/WKDH - LO"
+    },
+    {
+        "code": "9.1.1.03.03",
+        "name": "Dst …………………."
+    },
+    {
+        "code": "9.1.1.04",
+        "name": "Beban Pemungutan Pajak Bumi dan Bangunan - LO"
+    },
+    {
+        "code": "9.1.1.04.01",
+        "name": "Beban Pemungutan Pajak Bumi dan Bangunan Pertambangan - LO"
+    },
+    {
+        "code": "9.1.1.04.02",
+        "name": "Beban Pemungutan Pajak Bumi dan Bangunan Perkebunan - LO"
+    },
+    {
+        "code": "9.1.1.04.03",
+        "name": "Beban Pemungutan Pajak Bumi dan Bangunan Perhutanan - LO"
+    },
+    {
+        "code": "9.1.1.05",
+        "name": "Insentif Pemungutan Pajak Daerah"
+    },
+    {
+        "code": "9.1.1.05.01",
+        "name": "Insentif Pemungutan Pajak Daerah - Pajak Kendaraan Bermotor - LO"
+    },
+    {
+        "code": "9.1.1.05.02",
+        "name": "Insentif Pemungutan Pajak Daerah - Bea Balik Nama Kendaraan Bermotor - LO"
+    },
+    {
+        "code": "9.1.1.05.03",
+        "name": "Insentif Pemungutan Pajak Daerah - Pajak Bahan Bakar Kendaraan Bermotor - LO"
+    },
+    {
+        "code": "9.1.1.05.04",
+        "name": "Insentif Pemungutan Pajak Daerah - Pajak Air Permukaan - LO"
+    },
+    {
+        "code": "9.1.1.05.05",
+        "name": "Insentif Pemungutan Pajak Daerah - Pajak Rokok - LO"
+    },
+    {
+        "code": "9.1.1.05.06",
+        "name": "Insentif Pemungutan Pajak Daerah - Pajak Hotel - LO"
+    },
+    {
+        "code": "9.1.1.05.07",
+        "name": "Insentif Pemungutan Pajak Daerah - Pajak Restoran - LO"
+    },
+    {
+        "code": "9.1.1.05.08",
+        "name": "Insentif Pemungutan Pajak Daerah - Pajak Hiburan - LO"
+    },
+    {
+        "code": "9.1.1.05.09",
+        "name": "Insentif Pemungutan Pajak Daerah - Pajak Reklame - LO"
+    },
+    {
+        "code": "9.1.1.05.10",
+        "name": "Insentif Pemungutan Pajak Daerah - Pajak Penerangan Jalan - LO"
+    },
+    {
+        "code": "9.1.1.05.11",
+        "name": "Insentif Pemungutan Pajak Daerah - Pajak Parkir - LO"
+    },
+    {
+        "code": "9.1.1.05.12",
+        "name": "Insentif Pemungutan Pajak Daerah - Pajak Air Tanah - LO"
+    },
+    {
+        "code": "9.1.1.05.13",
+        "name": "Insentif Pemungutan Pajak Daerah - Pajak Sarang Burung Walet - LO"
+    },
+    {
+        "code": "9.1.1.05.14",
+        "name": "Insentif Pemungutan Pajak Daerah - Pajak Mineral Bukan Logam dan Batuan - LO"
+    },
+    {
+        "code": "9.1.1.05.15",
+        "name": "Insentif Pemungutan Pajak Daerah - Pajak Bumi dan Bangunan Pedesaan dan Perkotaan - LO"
+    },
+    {
+        "code": "9.1.1.05.16",
+        "name": "Insentif Pemungutan Pajak Daerah - Bea Perolehan Hak Atas Tanah dan Bangunan - LO"
+    },
+    {
+        "code": "9.1.1.06",
+        "name": "Insentif Pemungutan Retribusi Daerah"
+    },
+    {
+        "code": "9.1.1.06.01",
+        "name": "Insentif Pemungutan Retribusi Daerah - Pelayanan Kesehatan - LO"
+    },
+    {
+        "code": "9.1.1.06.02",
+        "name": "Insentif Pemungutan Retribusi Daerah - Pelayanan Persampahan/ Kebersihan - LO"
+    },
+    {
+        "code": "9.1.1.06.03",
+        "name": "Insentif Pemungutan Retribusi Daerah - Penggantian Biaya Cetak Kartu Tanda Penduduk dan Akta Catatan Sipil - LO"
+    },
+    {
+        "code": "9.1.1.06.04",
+        "name": "Insentif Pemungutan Retribusi Daerah - Pelayanan Pemakaman dan Pengabuan Mayat - LO"
+    },
+    {
+        "code": "9.1.1.06.05",
+        "name": "Insentif Pemungutan Retribusi Daerah - Pelayanan Parkir di Tepi Jalan Umum - LO"
+    },
+    {
+        "code": "9.1.1.06.06",
+        "name": "Insentif Pemungutan Retribusi Daerah - Pelayanan Pasar - LO"
+    },
+    {
+        "code": "9.1.1.06.07",
+        "name": "Insentif Pemungutan Retribusi Daerah - Pengujian Kendaraan Bermotor - LO"
+    },
+    {
+        "code": "9.1.1.06.08",
+        "name": "Insentif Pemungutan Retribusi Daerah - Pemeriksaan Alat Pemadam Kebakaran - LO"
+    },
+    {
+        "code": "9.1.1.06.09",
+        "name": "Insentif Pemungutan Retribusi Daerah - Penggantian Biaya Cetak Peta - LO"
+    },
+    {
+        "code": "9.1.1.06.10",
+        "name": "Insentif Pemungutan Retribusi Daerah - Penyediaan dan/atau Penyedotan Kakus - LO"
+    },
+    {
+        "code": "9.1.1.06.11",
+        "name": "Insentif Pemungutan Retribusi Daerah - Pengolahan Limbah Cair - LO"
+    },
+    {
+        "code": "9.1.1.06.12",
+        "name": "Insentif Pemungutan Retribusi Daerah - Pelayanan Tera/Tera Ulang - LO"
+    },
+    {
+        "code": "9.1.1.06.13",
+        "name": "Insentif Pemungutan Retribusi Daerah - Pelayanan Pendidikan - LO"
+    },
+    {
+        "code": "9.1.1.06.14",
+        "name": "Insentif Pemungutan Retribusi Daerah - Pengendalian Menara Telekomunikasi - LO"
+    },
+    {
+        "code": "9.1.1.06.15",
+        "name": "Insentif Pemungutan Retribusi Daerah - Pemakaian Kekayaan Daerah - LO"
+    },
+    {
+        "code": "9.1.1.06.16",
+        "name": "Insentif Pemungutan Retribusi Daerah - Pasar Grosir dan/ atau Pertokoan - LO"
+    },
+    {
+        "code": "9.1.1.06.17",
+        "name": "Insentif Pemungutan Retribusi Daerah - Tempat Pelelangan - LO"
+    },
+    {
+        "code": "9.1.1.06.18",
+        "name": "Insentif Pemungutan Retribusi Daerah - Terminal - LO"
+    },
+    {
+        "code": "9.1.1.06.19",
+        "name": "Insentif Pemungutan Retribusi Daerah - Tempat Khusus Parkir - LO"
+    },
+    {
+        "code": "9.1.1.06.20",
+        "name": "Insentif Pemungutan Retribusi Daerah - Tempat Penginapan/ Pesanggrahan/ Villa - LO"
+    },
+    {
+        "code": "9.1.1.06.21",
+        "name": "Insentif Pemungutan Retribusi Daerah - Rumah Potong Hewan - LO"
+    },
+    {
+        "code": "9.1.1.06.22",
+        "name": "Insentif Pemungutan Retribusi Daerah - Pelayanan Kepelabuhan - LO"
+    },
+    {
+        "code": "9.1.1.06.23",
+        "name": "Insentif Pemungutan Retribusi Daerah - Tempat Rekreasi dan Olah raga- LO"
+    },
+    {
+        "code": "9.1.1.06.24",
+        "name": "Insentif Pemungutan Retribusi Daerah - Penyebrangan Air - LO"
+    },
+    {
+        "code": "9.1.1.06.25",
+        "name": "Insentif Pemungutan Retribusi Daerah - Penjualan Produksi Usaha Daerah - LO"
+    },
+    {
+        "code": "9.1.1.06.26",
+        "name": "Insentif Pemungutan Retribusi Daerah - Izin Mendirikan Bangunan - LO"
+    },
+    {
+        "code": "9.1.1.06.27",
+        "name": "Insentif Pemungutan Retribusi Daerah - Izin Tempat Penjualan Minuman Beralkohol - LO"
+    },
+    {
+        "code": "9.1.1.06.28",
+        "name": "Insentif Pemungutan Retribusi Daerah - Izin Gangguan - LO"
+    },
+    {
+        "code": "9.1.1.06.29",
+        "name": "Insentif Pemungutan Retribusi Daerah - Izin Trayek - LO"
+    },
+    {
+        "code": "9.1.1.06.30",
+        "name": "Insentif Pemungutan Retribusi Daerah - Izin Perikanan - LO"
+    },
+    {
+        "code": "9.1.1.06.31",
+        "name": "Insentif Pemungutan Retribusi Daerah - Pengendalian Lalu Lintas - LO"
+    },
+    {
+        "code": "9.1.1.06.32",
+        "name": "Insentif Pemungutan Retribusi Daerah - Perpanjangan Izin Mempekerjakan Tenaga Kerja Asing (IMTA) - LO"
+    },
+    {
+        "code": "9.1.1.07",
+        "name": "Uang Lembur - LO"
+    },
+    {
+        "code": "9.1.1.07.01",
+        "name": "Uang Lembur PNS - LO"
+    },
+    {
+        "code": "9.1.1.07.02",
+        "name": "Uang Lembur Non PNS - LO"
+    },
+    {
+        "code": "9.1.2",
+        "name": "Beban Barang dan Jasa"
+    },
+    {
+        "code": "9.1.2.01",
+        "name": "Beban Bahan Pakai Habis"
+    },
+    {
+        "code": "9.1.2.01.01",
+        "name": "Beban Persediaan alat tulis kantor"
+    },
+    {
+        "code": "9.1.2.01.02",
+        "name": "Beban Persediaan dokumen/administrasi tender"
+    },
+    {
+        "code": "9.1.2.01.03",
+        "name": "Beban Persediaan alat listrik dan elektronik ( lampu pijar, battery kering)"
+    },
+    {
+        "code": "9.1.2.01.04",
+        "name": "Beban Persediaan perangko, materai dan benda pos lainnya"
+    },
+    {
+        "code": "9.1.2.01.05",
+        "name": "Beban Persediaan peralatan kebersihan dan bahan pembersih"
+    },
+    {
+        "code": "9.1.2.01.06",
+        "name": "Beban Persediaan Bahan Bakar Minyak/Gas"
+    },
+    {
+        "code": "9.1.2.01.07",
+        "name": "Beban Persediaan pengisian tabung pemadam kebakaran"
+    },
+    {
+        "code": "9.1.2.01.08",
+        "name": "Beban Persediaan pengisian isi tabung gas"
+    },
+    {
+        "code": "9.1.2.01.09",
+        "name": "Dst …."
+    },
+    {
+        "code": "9.1.2.02",
+        "name": "Beban Persediaan Bahan/ Material"
+    },
+    {
+        "code": "9.1.2.02.01",
+        "name": "Beban Persediaan bahan baku bangunan"
+    },
+    {
+        "code": "9.1.2.02.02",
+        "name": "Beban Persediaan bahan/bibit tanaman"
+    },
+    {
+        "code": "9.1.2.02.03",
+        "name": "Beban Persediaan bibit ternak"
+    },
+    {
+        "code": "9.1.2.02.04",
+        "name": "Beban Persediaan bahan obat-obatan"
+    },
+    {
+        "code": "9.1.2.02.05",
+        "name": "Beban Persediaan bahan kimia"
+    },
+    {
+        "code": "9.1.2.02.06",
+        "name": "Beban Persediaan Makanan Pokok"
+    },
+    {
+        "code": "9.1.2.02.07",
+        "name": "Dst ………………"
+    },
+    {
+        "code": "9.1.2.03",
+        "name": "Beban Jasa Kantor"
+    },
+    {
+        "code": "9.1.2.03.01",
+        "name": "Beban Jasa telepon"
+    },
+    {
+        "code": "9.1.2.03.02",
+        "name": "Beban Jasa air"
+    },
+    {
+        "code": "9.1.2.03.03",
+        "name": "Beban Jasa listrik"
+    },
+    {
+        "code": "9.1.2.03.04",
+        "name": "Beban Jasa pengumuman lelang/ pemenang lelang"
+    },
+    {
+        "code": "9.1.2.03.05",
+        "name": "Beban Jasa surat kabar/majalah"
+    },
+    {
+        "code": "9.1.2.03.06",
+        "name": "Beban Jasa kawat/faksimili/internet"
+    },
+    {
+        "code": "9.1.2.03.07",
+        "name": "Beban Jasa paket/pengiriman"
+    },
+    {
+        "code": "9.1.2.03.08",
+        "name": "Beban Jasa Sertifikasi"
+    },
+    {
+        "code": "9.1.2.03.09",
+        "name": "Beban Jasa Transaksi Keuangan"
+    },
+    {
+        "code": "9.1.2.03.10",
+        "name": "Beban Jasa administrasi pungutan Pajak Penerangan Jalan Umum"
+    },
+    {
+        "code": "9.1.2.03.11",
+        "name": "Beban Jasa administrasi pungutan Pajak Bahan Bakar Kendaraan Bermotor"
+    },
+    {
+        "code": "9.1.2.03.12",
+        "name": "Dst ….."
+    },
+    {
+        "code": "9.1.2.04",
+        "name": "Beban Premi Asuransi"
+    },
+    {
+        "code": "9.1.2.04.01",
+        "name": "Beban Jasa Premi Asuransi Kesehatan"
+    },
+    {
+        "code": "9.1.2.04.02",
+        "name": "Beban Jasa Premi Asuransi Barang Milik Daerah"
+    },
+    {
+        "code": "9.1.2.04.03",
+        "name": "Dst…………………………………"
+    },
+    {
+        "code": "9.1.2.05",
+        "name": "Beban Perawatan Kendaraan Bermotor"
+    },
+    {
+        "code": "9.1.2.05.01",
+        "name": "Beban Jasa Service"
+    },
+    {
+        "code": "9.1.2.05.02",
+        "name": "Beban Penggantian Suku Cadang"
+    },
+    {
+        "code": "9.1.2.05.03",
+        "name": "Beban Bahan Bakar Minyak/Gas dan pelumas"
+    },
+    {
+        "code": "9.1.2.05.04",
+        "name": "Beban Jasa KIR"
+    },
+    {
+        "code": "9.1.2.05.05",
+        "name": "Beban Pajak Kendaraan Bermotor"
+    },
+    {
+        "code": "9.1.2.05.06",
+        "name": "Beban Bea Balik Nama Kendaraan Bermotor"
+    },
+    {
+        "code": "9.1.2.06",
+        "name": "Beban Cetak dan Penggandaan"
+    },
+    {
+        "code": "9.1.2.06.01",
+        "name": "Beban Cetak"
+    },
+    {
+        "code": "9.1.2.06.02",
+        "name": "Beban Penggandaan"
+    },
+    {
+        "code": "9.1.2.07",
+        "name": "Beban Sewa Rumah/Gedung/Gudang/Parkir"
+    },
+    {
+        "code": "9.1.2.07.01",
+        "name": "Beban sewa rumah jabatan/rumah dinas"
+    },
+    {
+        "code": "9.1.2.07.02",
+        "name": "Beban sewa gedung/ kantor/tempat"
+    },
+    {
+        "code": "9.1.2.07.03",
+        "name": "Beban sewa ruang rapat/pertemuan"
+    },
+    {
+        "code": "9.1.2.07.04",
+        "name": "Beban sewa tempat parkir/uang tambat/hanggar sarana mobilitas"
+    },
+    {
+        "code": "9.1.2.07.05",
+        "name": "Dst …."
+    },
+    {
+        "code": "9.1.2.08",
+        "name": "Beban Sewa Sarana Mobilitas"
+    },
+    {
+        "code": "9.1.2.08.01",
+        "name": "Beban Sewa Sarana Mobilitas Darat"
+    },
+    {
+        "code": "9.1.2.08.02",
+        "name": "Beban Sewa Sarana Mobilitas Air"
+    },
+    {
+        "code": "9.1.2.08.03",
+        "name": "Beban Sewa Sarana Mobilitas Udara"
+    },
+    {
+        "code": "9.1.2.08.04",
+        "name": "Dst …"
+    },
+    {
+        "code": "9.1.2.09",
+        "name": "Beban Sewa Alat Berat"
+    },
+    {
+        "code": "9.1.2.09.01",
+        "name": "Beban Sewa Eskavator"
+    },
+    {
+        "code": "9.1.2.09.02",
+        "name": "Beban Sewa Buldoser"
+    },
+    {
+        "code": "9.1.2.09.03",
+        "name": "Dst …"
+    },
+    {
+        "code": "9.1.2.10",
+        "name": "Beban Sewa Perlengkapan dan Peralatan Kantor"
+    },
+    {
+        "code": "9.1.2.10.01",
+        "name": "Beban sewa meja kursi"
+    },
+    {
+        "code": "9.1.2.10.02",
+        "name": "Beban sewa komputer dan printer"
+    },
+    {
+        "code": "9.1.2.10.03",
+        "name": "Beban sewa proyektor"
+    },
+    {
+        "code": "9.1.2.10.04",
+        "name": "Beban sewa generator"
+    },
+    {
+        "code": "9.1.2.10.05",
+        "name": "Beban sewa tenda"
+    },
+    {
+        "code": "9.1.2.10.06",
+        "name": "Beban sewa pakaian adat/tradisional"
+    },
+    {
+        "code": "9.1.2.10.07",
+        "name": "Dst …."
+    },
+    {
+        "code": "9.1.2.11",
+        "name": "Beban Makanan dan Minuman"
+    },
+    {
+        "code": "9.1.2.11.01",
+        "name": "Beban makanan dan minuman harian pegawai"
+    },
+    {
+        "code": "9.1.2.11.02",
+        "name": "Beban makanan dan minuman rapat"
+    },
+    {
+        "code": "9.1.2.11.03",
+        "name": "Beban makanan dan minuman tamu"
+    },
+    {
+        "code": "9.1.2.11.04",
+        "name": "Beban makanan dan minuman pelatihan"
+    },
+    {
+        "code": "9.1.2.11.05",
+        "name": "Dst …"
+    },
+    {
+        "code": "9.1.2.12",
+        "name": "Beban Pakaian Dinas dan Atributnya"
+    },
+    {
+        "code": "9.1.2.12.01",
+        "name": "Beban pakaian Dinas KDH dan WKDH"
+    },
+    {
+        "code": "9.1.2.12.02",
+        "name": "Beban Pakaian Sipil Harian (PSH)"
+    },
+    {
+        "code": "9.1.2.12.03",
+        "name": "BebanPakaian Sipil Lengkap (PSL)"
+    },
+    {
+        "code": "9.1.2.12.04",
+        "name": "Beban Pakaian Dinas Harian (PDH)"
+    },
+    {
+        "code": "9.1.2.12.05",
+        "name": "Beban Pakaian Dinas Upacara (PDU)"
+    },
+    {
+        "code": "9.1.2.12.06",
+        "name": "Dst …"
+    },
+    {
+        "code": "9.1.2.13",
+        "name": "Belanja Pakaian Kerja"
+    },
+    {
+        "code": "9.1.2.13.01",
+        "name": "Beban pakaian kerja lapangan"
+    },
+    {
+        "code": "9.1.2.13.02",
+        "name": "Dst …"
+    },
+    {
+        "code": "9.1.2.14",
+        "name": "Belanja Pakaian khusus dan hari-hari tertentu"
+    },
+    {
+        "code": "9.1.2.14.01",
+        "name": "Beban pakaian KORPRI"
+    },
+    {
+        "code": "9.1.2.14.02",
+        "name": "Beban pakaian adat daerah"
+    },
+    {
+        "code": "9.1.2.14.03",
+        "name": "Beban pakaian batik tradisional"
+    },
+    {
+        "code": "9.1.2.14.04",
+        "name": "Beban pakaian olahraga"
+    },
+    {
+        "code": "9.1.2.14.05",
+        "name": "Dst …"
+    },
+    {
+        "code": "9.1.2.15",
+        "name": "Beban Perjalanan Dinas"
+    },
+    {
+        "code": "9.1.2.15.01",
+        "name": "Beban perjalanan dinas dalam daerah"
+    },
+    {
+        "code": "9.1.2.15.02",
+        "name": "Beban perjalanan dinas luar daerah"
+    },
+    {
+        "code": "9.1.2.15.03",
+        "name": "Beban perjalanan dinas luar negeri"
+    },
+    {
+        "code": "9.1.2.16",
+        "name": "Beban Perjalanan Pindah Tugas"
+    },
+    {
+        "code": "9.1.2.16.01",
+        "name": "Beban perjalanan pindah tugas dalam daerah"
+    },
+    {
+        "code": "9.1.2.16.02",
+        "name": "Beban perjalanan pindah tugas luar daerah"
+    },
+    {
+        "code": "9.1.2.17",
+        "name": "Beban Pemulangan Pegawai"
+    },
+    {
+        "code": "9.1.2.17.01",
+        "name": "Beban pemulangan pegawai yang pensiun dalam daerah"
+    },
+    {
+        "code": "9.1.2.17.02",
+        "name": "Beban pemulangan pegawai yang pensiun luar daerah"
+    },
+    {
+        "code": "9.1.2.18",
+        "name": "Beban Pemeliharaan"
+    },
+    {
+        "code": "9.1.2.18.01",
+        "name": "Beban Pemeliharan Tanah"
+    },
+    {
+        "code": "9.1.2.18.02",
+        "name": "Beban Pemeliharan Peralatan dan Mesin"
+    },
+    {
+        "code": "9.1.2.18.03",
+        "name": "Beban Pemeliharan Gedung dan Bangunan"
+    },
+    {
+        "code": "9.1.2.18.04",
+        "name": "Beban Pemeliharan Jalan, Irigasi, dan Jaringan"
+    },
+    {
+        "code": "9.1.2.18.05",
+        "name": "Beban Pemeliharan Aset Tetap Lainnya"
+    },
+    {
+        "code": "9.1.2.18.06",
+        "name": "Dst…………………………………"
+    },
+    {
+        "code": "9.1.2.19",
+        "name": "Beban Jasa Konsultasi"
+    },
+    {
+        "code": "9.1.2.19.01",
+        "name": "Beban Jasa Konsultansi Penelitian"
+    },
+    {
+        "code": "9.1.2.19.02",
+        "name": "Beban Jasa Konsultansi Perencanaan"
+    },
+    {
+        "code": "9.1.2.19.03",
+        "name": "Beban Jasa Konsultansi Pengawasan"
+    },
+    {
+        "code": "9.1.2.19.04",
+        "name": "Dst …"
+    },
+    {
+        "code": "9.1.2.20",
+        "name": "Beban Barang Untuk Diserahkan kepada Masyarakat/Pihak Ketiga"
+    },
+    {
+        "code": "9.1.2.20.01",
+        "name": "Beban Barang Yang Akan Diserahkan Kepada Masyarakat"
+    },
+    {
+        "code": "9.1.2.20.02",
+        "name": "Beban Barang Yang Akan Diserahkan Kepada Pihak Ketiga"
+    },
+    {
+        "code": "9.1.2.21",
+        "name": "Beban Barang Untuk Dijual kepada Masyarakat/Pihak Ketiga"
+    },
+    {
+        "code": "9.1.2.21.01",
+        "name": "Beban Barang Yang Akan Dijual Kepada Masyarakat"
+    },
+    {
+        "code": "9.1.2.21.02",
+        "name": "Beban Barang Yang Akan Dijual Kepada Pihak Ketiga"
+    },
+    {
+        "code": "9.1.2.22",
+        "name": "Beban Beasiswa Pendidikan PNS"
+    },
+    {
+        "code": "9.1.2.22.01",
+        "name": "Beban beasiswa tugas belajar D3"
+    },
+    {
+        "code": "9.1.2.22.02",
+        "name": "Beban beasiswa tugas belajar S1"
+    },
+    {
+        "code": "9.1.2.22.03",
+        "name": "Beban beasiswa tugas belajar S2"
+    },
+    {
+        "code": "9.1.2.22.04",
+        "name": "Beban beasiswa tugas belajar S3"
+    },
+    {
+        "code": "9.1.2.22.05",
+        "name": "Dst ……………………"
+    },
+    {
+        "code": "9.1.2.23",
+        "name": "Beban kursus, pelatihan, sosialisasi dan bimbingan teknis PNS"
+    },
+    {
+        "code": "9.1.2.23.01",
+        "name": "Beban kursus-kursus singkat/ pelatihan"
+    },
+    {
+        "code": "9.1.2.23.02",
+        "name": "Beban sosialisasi"
+    },
+    {
+        "code": "9.1.2.23.03",
+        "name": "Beban bimbingan teknis"
+    },
+    {
+        "code": "9.1.2.23.04",
+        "name": "Dst ……………………"
+    },
+    {
+        "code": "9.1.2.24",
+        "name": "Beban Honorarium Non Pegawai"
+    },
+    {
+        "code": "9.1.2.24.01",
+        "name": "Honorarium Tenaga Ahli/Narasumber/Instruktur"
+    },
+    {
+        "code": "9.1.2.24.02",
+        "name": "Moderator"
+    },
+    {
+        "code": "9.1.2.24.03",
+        "name": "Dst………….."
+    },
+    {
+        "code": "9.1.2.25",
+        "name": "Honorarium PNS"
+    },
+    {
+        "code": "9.1.2.25.01",
+        "name": "Honorarium Panitia Pelaksana Kegiatan"
+    },
+    {
+        "code": "9.1.2.25.02",
+        "name": "Honorarium Tim Pengadaan Barang dan Jasa"
+    },
+    {
+        "code": "9.1.2.25.03",
+        "name": "Honorarium Tenaga Ahli/Instruktur/Narasumber"
+    },
+    {
+        "code": "9.1.2.25.04",
+        "name": "Dst……"
+    },
+    {
+        "code": "9.1.2.26",
+        "name": "Honorarium Non PNS"
+    },
+    {
+        "code": "9.1.2.26.01",
+        "name": "Honorarium Tenaga Ahli/Instruktur/Narasumber"
+    },
+    {
+        "code": "9.1.2.26.02",
+        "name": "Honorarium Pegawai Honorer/Tidak Tetap"
+    },
+    {
+        "code": "9.1.2.26.03",
+        "name": "Dst……"
+    },
+    {
+        "code": "9.1.2.27",
+        "name": "Uang untuk diberikan kepada Pihak Ketiga/Masyarakat"
+    },
+    {
+        "code": "9.1.2.27.01",
+        "name": "Uang untuk diberikan kepada Pihak Ketiga"
+    },
+    {
+        "code": "9.1.2.27.02",
+        "name": "Uang untuk diberikan kepada Pihak Masyarakat"
+    },
+    {
+        "code": "9.1.2.27.03",
+        "name": "Dst……"
+    },
+    {
+        "code": "9.1.3",
+        "name": "Beban Bunga"
+    },
+    {
+        "code": "9.1.3.01",
+        "name": "Bunga Utang Pinjaman"
+    },
+    {
+        "code": "9.1.3.01.01",
+        "name": "Beban Bunga Utang Pinjaman kepada Pemerintah"
+    },
+    {
+        "code": "9.1.3.01.02",
+        "name": "Beban Bunga Utang Pinjaman kepada Pemerintah Daerah lainnya"
+    },
+    {
+        "code": "9.1.3.01.03",
+        "name": "Beban Bunga Utang Pinjaman kepada Lembaga Keuangan Bank"
+    },
+    {
+        "code": "9.1.3.01.04",
+        "name": "Beban Bunga Utang Pinjaman kepada Lembaga Keuangan Bukan Bank"
+    },
+    {
+        "code": "9.1.3.01.05",
+        "name": "Bunga Utang Pinjaman Lainnya"
+    },
+    {
+        "code": "9.1.3.02",
+        "name": "Bunga Utang Obligasi"
+    },
+    {
+        "code": "9.1.3.02.01",
+        "name": "Bunga Utang Obligasi"
+    },
+    {
+        "code": "9.1.4",
+        "name": "Beban Subsidi"
+    },
+    {
+        "code": "9.1.4.01",
+        "name": "Beban Subsidi"
+    },
+    {
+        "code": "9.1.4.01.01",
+        "name": "Beban Subsidi kepada BUMN"
+    },
+    {
+        "code": "9.1.4.01.02",
+        "name": "Beban Subsidi kepada BUMD"
+    },
+    {
+        "code": "9.1.4.01.03",
+        "name": "Beban Subsidi kepada Pihak Ketiga Lainnya"
+    },
+    {
+        "code": "9.1.5",
+        "name": "Beban Hibah"
+    },
+    {
+        "code": "9.1.5.01",
+        "name": "Beban Hibah kepada Pemerintah"
+    },
+    {
+        "code": "9.1.5.01.01",
+        "name": "Beban Hibah Barang kepada Pemerintah"
+    },
+    {
+        "code": "9.1.5.02",
+        "name": "Beban Hibah kepada Pemerintah Daerah lainnya"
+    },
+    {
+        "code": "9.1.5.02.01",
+        "name": "Beban Hibah kepada Pemerintah Provinsi"
+    },
+    {
+        "code": "9.1.5.02.02",
+        "name": "Beban Hibah kepada Pemerintah Kabupaten"
+    },
+    {
+        "code": "9.1.5.02.03",
+        "name": "Beban Hibah kepada Pemerintah Kota"
+    },
+    {
+        "code": "9.1.5.03",
+        "name": "Beban Hibah kepada Perusahaan Daerah/BUMD"
+    },
+    {
+        "code": "9.1.5.03.01",
+        "name": "Beban Hibah kepada Perusahaan Daerah/BUMD….."
+    },
+    {
+        "code": "9.1.5.03.02",
+        "name": "Dst….."
+    },
+    {
+        "code": "9.1.5.04",
+        "name": "Beban Hibah kepada Kelompok Masyarakat"
+    },
+    {
+        "code": "9.1.5.04.01",
+        "name": "Beban Hibah kepada Kelompok Masyarakat……"
+    },
+    {
+        "code": "9.1.5.04.01",
+        "name": "Dst….."
+    },
+    {
+        "code": "9.1.5.05",
+        "name": "Beban Hibah kepada Organisasi Kemasyarakatan"
+    },
+    {
+        "code": "9.1.5.05.01",
+        "name": "Beban Hibah kepada Organisasi Kemasyarakatan….."
+    },
+    {
+        "code": "9.1.5.05.02",
+        "name": "Dst …"
+    },
+    {
+        "code": "9.1.5.06",
+        "name": "Beban Hibah Dana BOS untuk Satuan Pendidikan Dasar***"
+    },
+    {
+        "code": "9.1.5.06.01",
+        "name": "Beban Hibah Dana BOS ke Satuan Pendidikan Dasar di Kabupaten/Kota….."
+    },
+    {
+        "code": "9.1.5.06.02",
+        "name": "Dst …"
+    },
+    {
+        "code": "9.1.6",
+        "name": "Beban Bantuan Sosial"
+    },
+    {
+        "code": "9.1.6.01",
+        "name": "Beban Bantuan Sosial kepada Organisasi Sosial Kemasyarakatan"
+    },
+    {
+        "code": "9.1.6.01.01",
+        "name": "Beban Bantuan Sosial kepada Organisasi Sosial Kemasyarakatan …"
+    },
+    {
+        "code": "9.1.6.01.02",
+        "name": "Dst ……………………"
+    },
+    {
+        "code": "9.1.6.02",
+        "name": "Beban Bantuan Sosial kepada Masyarakat"
+    },
+    {
+        "code": "9.1.6.02.01",
+        "name": "Beban Bantuan Sosial kepada …."
+    },
+    {
+        "code": "9.1.6.02.02",
+        "name": "Dst ……………………"
+    },
+    {
+        "code": "9.1.7",
+        "name": "Beban Penyusutan dan Amortisasi"
+    },
+    {
+        "code": "9.1.7.01",
+        "name": "Beban Penyusutan Peralatan dan Mesin"
+    },
+    {
+        "code": "9.1.7.01.01",
+        "name": "Beban Penyusutan Alat-Alat Besar Darat"
+    },
+    {
+        "code": "9.1.7.01.02",
+        "name": "Beban Penyusutan Alat-Alat Besar Apung"
+    },
+    {
+        "code": "9.1.7.01.03",
+        "name": "Beban Penyusutan Alat-alat Bantu"
+    },
+    {
+        "code": "9.1.7.01.04",
+        "name": "Beban Penyusutan Alat Angkutan Darat Bermotor"
+    },
+    {
+        "code": "9.1.7.01.05",
+        "name": "Beban Penyusutan Alat Angkutan Berat Tak Bermotor"
+    },
+    {
+        "code": "9.1.7.01.06",
+        "name": "Beban Penyusutan Alat Angkut Apung Bermotor"
+    },
+    {
+        "code": "9.1.7.01.07",
+        "name": "Beban Penyusutan Alat Angkut Apung Tak Bermotor"
+    },
+    {
+        "code": "9.1.7.01.08",
+        "name": "Beban Penyusutan Alat Angkut Bermotor Udara"
+    },
+    {
+        "code": "9.1.7.01.09",
+        "name": "Beban Penyusutan Alat Bengkel Bermesin"
+    },
+    {
+        "code": "9.1.7.01.10",
+        "name": "Beban Penyusutan Alat Bengkel Tak Bermesin"
+    },
+    {
+        "code": "9.1.7.01.11",
+        "name": "Beban Penyusutan Alat Ukur"
+    },
+    {
+        "code": "9.1.7.01.12",
+        "name": "Beban Penyusutan Alat Pengolahan Pertanian"
+    },
+    {
+        "code": "9.1.7.01.13",
+        "name": "Beban Penyusutan Alat Pemeliharaan Tanaman/Alat Penyimpan Pertanian"
+    },
+    {
+        "code": "9.1.7.01.14",
+        "name": "Beban Penyusutan Alat Kantor"
+    },
+    {
+        "code": "9.1.7.01.15",
+        "name": "Beban Penyusutan Alat Rumah Tangga"
+    },
+    {
+        "code": "9.1.7.01.16",
+        "name": "Beban Penyusutan Peralatan Komputer"
+    },
+    {
+        "code": "9.1.7.01.17",
+        "name": "Beban Penyusutan Meja Dan Kursi Kerja/Rapat Pejabat"
+    },
+    {
+        "code": "9.1.7.01.18",
+        "name": "Beban Penyusutan Alat Studio"
+    },
+    {
+        "code": "9.1.7.01.19",
+        "name": "Beban Penyusutan Alat Komunikasi"
+    },
+    {
+        "code": "9.1.7.01.20",
+        "name": "Beban Penyusutan Peralatan Pemancar"
+    },
+    {
+        "code": "9.1.7.01.21",
+        "name": "Beban Penyusutan Alat Kedokteran"
+    },
+    {
+        "code": "9.1.7.01.22",
+        "name": "Beban Penyusutan Alat Kesehatan"
+    },
+    {
+        "code": "9.1.7.01.23",
+        "name": "Beban Penyusutan Unit-Unit Laboratorium"
+    },
+    {
+        "code": "9.1.7.01.24",
+        "name": "Beban Penyusutan Alat Peraga/Praktek Sekolah"
+    },
+    {
+        "code": "9.1.7.01.25",
+        "name": "Beban Penyusutan Unit Alat Laboratorium Kimia Nuklir"
+    },
+    {
+        "code": "9.1.7.01.26",
+        "name": "Beban Penyusutan Alat Laboratorium Fisika Nuklir / Elektronika"
+    },
+    {
+        "code": "9.1.7.01.27",
+        "name": "Beban Penyusutan Alat Proteksi Radiasi / Proteksi Lingkungan"
+    },
+    {
+        "code": "9.1.7.01.28",
+        "name": "Beban Penyusutan Radiation Aplication and Non Destructive Testing Laboratory (BATAM)"
+    },
+    {
+        "code": "9.1.7.01.29",
+        "name": "Beban Penyusutan Alat Laboratorium Lingkungan Hidup"
+    },
+    {
+        "code": "9.1.7.01.30",
+        "name": "Beban Penyusutan Peralatan Laboratorium Hidrodinamika"
+    },
+    {
+        "code": "9.1.7.01.31",
+        "name": "Beban Penyusutan Senjata Api"
+    },
+    {
+        "code": "9.1.7.01.32",
+        "name": "Beban Penyusutan Persenjataan Non Senjata Api"
+    },
+    {
+        "code": "9.1.7.01.33",
+        "name": "Beban Penyusutan Alat Keamanan dan Perlindungan"
+    },
+    {
+        "code": "9.1.7.02",
+        "name": "Beban Penyusutan Gedung dan Bangunan"
+    },
+    {
+        "code": "9.1.7.02.01",
+        "name": "Beban Penyusutan Bangunan Gedung Tempat Kerja"
+    },
+    {
+        "code": "9.1.7.02.02",
+        "name": "Beban Penyusutan Bangunan Gedung Tempat Tinggal"
+    },
+    {
+        "code": "9.1.7.02.03",
+        "name": "Beban Penyusutan Bangunan Menara"
+    },
+    {
+        "code": "9.1.7.02.04",
+        "name": "Beban Penyusutan Bangunan Bersejarah"
+    },
+    {
+        "code": "9.1.7.02.05",
+        "name": "Beban Penyusutan Tugu Peringatan"
+    },
+    {
+        "code": "9.1.7.02.06",
+        "name": "Beban Penyusutan Candi"
+    },
+    {
+        "code": "9.1.7.02.07",
+        "name": "Beban Penyusutan Monumen/Bangunan Bersejarah"
+    },
+    {
+        "code": "9.1.7.02.08",
+        "name": "Beban Penyusutan Tugu Peringatan Lain"
+    },
+    {
+        "code": "9.1.7.02.09",
+        "name": "Beban Penyusutan Tugu Titik Kontrol/Pasti"
+    },
+    {
+        "code": "9.1.7.02.10",
+        "name": "Beban Penyusutan Bangunan Rambu-Rambu"
+    },
+    {
+        "code": "9.1.7.02.11",
+        "name": "Beban Penyusutan Bangunan Rambu-Rambu Lalu Lintas Udara"
+    },
+    {
+        "code": "9.1.7.03",
+        "name": "Beban Penyusutan Jalan, Irigasi, dan Jaringan"
+    },
+    {
+        "code": "9.1.7.03.01",
+        "name": "Beban Penyusutan Jalan"
+    },
+    {
+        "code": "9.1.7.03.02",
+        "name": "Beban Penyusutan Jembatan"
+    },
+    {
+        "code": "9.1.7.03.03",
+        "name": "Beban Penyusutan Bangunan Air Irigasi"
+    },
+    {
+        "code": "9.1.7.03.04",
+        "name": "Beban Penyusutan Bangunan Air Pasang Surut"
+    },
+    {
+        "code": "9.1.7.03.05",
+        "name": "Beban Penyusutan Bangunan Air Rawa"
+    },
+    {
+        "code": "9.1.7.03.06",
+        "name": "Beban Penyusutan Bangunan Pengaman Sungai dan Penanggulangan Bencana Alam"
+    },
+    {
+        "code": "9.1.7.03.07",
+        "name": "Beban Penyusutan Bangunan Pengembangan Sumber Air dan Air Tanah"
+    },
+    {
+        "code": "9.1.7.03.08",
+        "name": "Beban Penyusutan Bangunan Air Bersih/Baku"
+    },
+    {
+        "code": "9.1.7.03.09",
+        "name": "Beban Penyusutan Bangunan Air Kotor"
+    },
+    {
+        "code": "9.1.7.03.10",
+        "name": "Beban Penyusutan Bangunan Air"
+    },
+    {
+        "code": "9.1.7.03.11",
+        "name": "Beban Penyusutan Instalasi Air Minum/Air Bersih"
+    },
+    {
+        "code": "9.1.7.03.12",
+        "name": "Beban Penyusutan Instalasi Air Kotor"
+    },
+    {
+        "code": "9.1.7.03.13",
+        "name": "Beban Penyusutan Instalasi Pengolahan Sampah"
+    },
+    {
+        "code": "9.1.7.03.14",
+        "name": "Beban Penyusutan Instalasi Pengolahan Bahan Bangunan"
+    },
+    {
+        "code": "9.1.7.03.15",
+        "name": "Beban Penyusutan Instalasi Pembangkit Listrik"
+    },
+    {
+        "code": "9.1.7.03.16",
+        "name": "Beban Penyusutan Instalasi Gardu Listrik"
+    },
+    {
+        "code": "9.1.7.03.17",
+        "name": "Beban Penyusutan Instalasi Pertahanan"
+    },
+    {
+        "code": "9.1.7.03.18",
+        "name": "Beban Penyusutan Instalasi Gas"
+    },
+    {
+        "code": "9.1.7.03.19",
+        "name": "Beban Penyusutan Instalasi Pengaman"
+    },
+    {
+        "code": "9.1.7.03.20",
+        "name": "Beban Penyusutan Jaringan Air Minum"
+    },
+    {
+        "code": "9.1.7.03.21",
+        "name": "Beban Penyusutan Jaringan Listrik"
+    },
+    {
+        "code": "9.1.7.03.22",
+        "name": "Beban Penyusutan Jaringan Telepon"
+    },
+    {
+        "code": "9.1.7.03.23",
+        "name": "Beban Penyusutan Jaringan Gas"
+    },
+    {
+        "code": "9.1.7.04",
+        "name": "Beban Amortisasi Aset Tidak Berwujud"
+    },
+    {
+        "code": "9.1.7.04.01",
+        "name": "Beban Amortisasi Goodwill"
+    },
+    {
+        "code": "9.1.7.04.02",
+        "name": "Beban Amortisasi Lisensi dan frenchise"
+    },
+    {
+        "code": "9.1.7.04.03",
+        "name": "Beban Amortisasi Hak Cipta"
+    },
+    {
+        "code": "9.1.7.04.04",
+        "name": "Beban Amortisasi Paten"
+    },
+    {
+        "code": "9.1.7.04.05",
+        "name": "Beban Amortisasi Aset Tidat Berwujud Lainnya"
+    },
+    {
+        "code": "9.1.8",
+        "name": "Beban Penyisihan Piutang"
+    },
+    {
+        "code": "9.1.8.01",
+        "name": "Beban Penyisihan Piutang Pendapatan"
+    },
+    {
+        "code": "9.1.8.01.01",
+        "name": "Beban Penyisihan Piutang Pajak"
+    },
+    {
+        "code": "9.1.8.01.02",
+        "name": "Beban Penyisihan Piutang Retribusi"
+    },
+    {
+        "code": "9.1.8.01.03",
+        "name": "Beban Penyisihan Piutang Hasil Pengelolaan Kekayaan Daerah yang Dipisahkan"
+    },
+    {
+        "code": "9.1.8.01.04",
+        "name": "Beban Penyisihan Piutang Lain-lain PAD yang Sah"
+    },
+    {
+        "code": "9.1.8.01.05",
+        "name": "Beban Penyisihan Piutang Transfer Pemerintah Pusat"
+    },
+    {
+        "code": "9.1.8.01.06",
+        "name": "Beban Penyisihan Piutang Transfer Pemerintah Pusat - Lainnya"
+    },
+    {
+        "code": "9.1.8.01.07",
+        "name": "Beban Penyisihan Piutang Transfer Pemerintah Daerah Lainnya"
+    },
+    {
+        "code": "9.1.8.01.08",
+        "name": "Beban Penyisihan Piutang Bantuan Keuangan"
+    },
+    {
+        "code": "9.1.8.01.09",
+        "name": "Beban Penyisihan Piutang Hibah"
+    },
+    {
+        "code": "9.1.8.01.10",
+        "name": "Beban Penyisihan Piutang Pendapatan Lainnya"
+    },
+    {
+        "code": "9.1.8.01.11",
+        "name": "Dst ……………………"
+    },
+    {
+        "code": "9.1.8.02",
+        "name": "Beban Penyisihan Piutang Lainnya"
+    },
+    {
+        "code": "9.1.8.02.01",
+        "name": "Beban Penyisihan Bagian Lancar Tagihan Jangka Panjang"
+    },
+    {
+        "code": "9.1.8.02.02",
+        "name": "Beban Penyisihan Bagian Lancar Tagihan Pinjaman Jangka Panjang kepada Entitas Lainnya"
+    },
+    {
+        "code": "9.1.8.02.03",
+        "name": "Beban Penyisihan Bagian Lancar Tagihan Penjualan Angsuran"
+    },
+    {
+        "code": "9.1.8.02.04",
+        "name": "Beban Penyisihan Bagian lancar Tuntutan Ganti Rugi"
+    },
+    {
+        "code": "9.1.8.02.05",
+        "name": "Beban Penyisihan Uang Muka"
+    },
+    {
+        "code": "9.1.8.02.06",
+        "name": "Dst ……………………"
+    },
+    {
+        "code": "9.1.9",
+        "name": "Beban Lain-lain"
+    },
+    {
+        "code": "9.1.9.01",
+        "name": "Beban Penurunan Nilai Investasi"
+    },
+    {
+        "code": "9.1.9.01.01",
+        "name": "Beban Penurunan Nilai Investasi"
+    },
+    {
+        "code": "9.1.9.02",
+        "name": "Beban Penyisihan Dana Bergulir"
+    },
+    {
+        "code": "9.1.9.02.01",
+        "name": "Beban Penyisihan Dana Bergulir"
+    },
+    {
+        "code": "9.1.9.03",
+        "name": "Beban Lain-lain"
+    },
+    {
+        "code": "9.1.9.03.01",
+        "name": "Beban Lain-lain"
+    },
+    {
+        "code": "9.2",
+        "name": "BEBAN TRANSFER"
+    },
+    {
+        "code": "9.2.1",
+        "name": "Beban Transfer Bagi Hasil Pajak Daerah"
+    },
+    {
+        "code": "9.2.1.01",
+        "name": "Beban Transfer Bagi Hasil Pajak Daerah Kepada Pemerintahan Kabupaten/Kota"
+    },
+    {
+        "code": "9.2.1.01.01",
+        "name": "Beban Transfer Bagi Hasil Pajak Daerah Kepada Pemerintahan Kabupaten/Kota…."
+    },
+    {
+        "code": "9.2.1.01.02",
+        "name": "Dst…."
+    },
+    {
+        "code": "9.2.2",
+        "name": "Beban Transfer Bagi Hasil Pendapatan Lainnya"
+    },
+    {
+        "code": "9.2.2.01",
+        "name": "Beban Transfer Bagi Hasil Pendapatan Lainnya Kepada Pemerintahan Kabupaten/Kota"
+    },
+    {
+        "code": "9.2.2.01.01",
+        "name": "Beban Transfer Bagi Hasil Pendapatan Lainnya Kepada Pemerintahan Kabupaten/Kota….."
+    },
+    {
+        "code": "9.2.2.01.02",
+        "name": "Dst…………………………………"
+    },
+    {
+        "code": "9.2.3",
+        "name": "Beban Transfer Bantuan Keuangan ke Pemerintah Daerah Lainnya"
+    },
+    {
+        "code": "9.2.3.01",
+        "name": "Beban Transfer Bantuan Keuangan ke Propinsi"
+    },
+    {
+        "code": "9.2.3.01.01",
+        "name": "Beban Transfer Bantuan Keuangan ke Propinsi…."
+    },
+    {
+        "code": "9.2.3.01.02",
+        "name": "Dst….."
+    },
+    {
+        "code": "9.2.3.02",
+        "name": "Beban Transfer Bantuan Keuangan ke Kabupaten/Kota"
+    },
+    {
+        "code": "9.2.3.02.01",
+        "name": "Beban Transfer Bantuan Keuangan ke Kabupaten/Kota….."
+    },
+    {
+        "code": "9.2.3.02.02",
+        "name": "Dst….."
+    },
+    {
+        "code": "9.2.4",
+        "name": "Beban Transfer Bantuan Keuangan ke Desa"
+    },
+    {
+        "code": "9.2.4.01",
+        "name": "Beban Transfer Bantuan Keuangan ke Desa"
+    },
+    {
+        "code": "9.2.4.01.01",
+        "name": "Beban Transfer Bantuan Keuangan ke Desa…."
+    },
+    {
+        "code": "9.2.4.01.02",
+        "name": "Dst…."
+    },
+    {
+        "code": "9.2.5",
+        "name": "Beban Transfer Bantuan Keuangan Lainnya"
+    },
+    {
+        "code": "9.2.5.01",
+        "name": "Beban Transfer Bantuan Kepada Partai Politik"
+    },
+    {
+        "code": "9.2.5.01.01",
+        "name": "Beban Transfer Bantuan Kepada Partai Politik….."
+    },
+    {
+        "code": "9.2.5.01.02",
+        "name": "Dst…."
+    },
+    {
+        "code": "9.2.6",
+        "name": "Beban Transfer Dana Otonomi Khusus"
+    },
+    {
+        "code": "9.2.6.01",
+        "name": "Beban Transfer Dana Otsus Kabupaten/Kota"
+    },
+    {
+        "code": "9.2.6.01.01",
+        "name": "Beban Transfer Dana Otsus Kabupaten/Kota…"
+    },
+    {
+        "code": "9.2.6.01.02",
+        "name": "Dst…."
+    },
+    {
+        "code": "9.3",
+        "name": "DEFISIT NON OPERASIONAL"
+    },
+    {
+        "code": "9.3.1",
+        "name": "Defisit Penjualan Aset Non Lancar - LO"
+    },
+    {
+        "code": "9.3.1.01",
+        "name": "Defisit Penjualan Aset Non Lancar - LO"
+    },
+    {
+        "code": "9.3.1.01.01",
+        "name": "Defisit Penjualan Aset Tanah - LO"
+    },
+    {
+        "code": "9.3.1.01.02",
+        "name": "Defisit Penjualan Aset Peralatan dan Mesin - LO"
+    },
+    {
+        "code": "9.3.1.01.03",
+        "name": "Defisit Penjualan Aset Gedung dan Bangunan - LO"
+    },
+    {
+        "code": "9.3.1.01.04",
+        "name": "Defisit Penjualan Aset Non Lancar/Aset Tetap Lainnya - LO"
+    },
+    {
+        "code": "9.3.1.01.05",
+        "name": "Defisit Pelepasan Investasi Jangka Panjang - LO"
+    },
+    {
+        "code": "9.3.1.01.06",
+        "name": "Defisit Penjualan Aset Lain-lain - LO"
+    },
+    {
+        "code": "9.3.1.01.07",
+        "name": "Dst ……………………"
+    },
+    {
+        "code": "9.3.2",
+        "name": "Defisit Penyelesaian Kewajiban Jangka Panjang - LO"
+    },
+    {
+        "code": "9.3.2.01",
+        "name": "Defisit Penyelesaian Kewajiban Jangka Panjang - LO"
+    },
+    {
+        "code": "9.3.2.01.01",
+        "name": "Defisit Penyelesaian Utang Dalam Negeri Sektor Perbankan - LO"
+    },
+    {
+        "code": "9.3.2.01.02",
+        "name": "Defisit Penyelesaian Utang Dari Lembaga Keuangan Bukan Bank - LO"
+    },
+    {
+        "code": "9.3.2.01.03",
+        "name": "Defisit Penyelesaian Utang Dalam Negeri - Obligasi - LO"
+    },
+    {
+        "code": "9.3.2.01.04",
+        "name": "Defisit Penyelesaian Utang Pemerintah Pusat - LO"
+    },
+    {
+        "code": "9.3.2.01.05",
+        "name": "Defisit Penyelesaian Utang Pemerintah Provinsi - LO"
+    },
+    {
+        "code": "9.3.2.01.06",
+        "name": "Defisit Penyelesaian Utang Pemerintah Kabupaten/Kota - LO"
+    },
+    {
+        "code": "9.3.2.01.07",
+        "name": "Defisit Penyelesaian Premium (Diskonto) Obligasi - LO"
+    },
+    {
+        "code": "9.3.2.01.08",
+        "name": "Dst ……………………"
+    },
+    {
+        "code": "9.3.3",
+        "name": "Defisit dari Kegiatan Non Operasional Lainnya - LO"
+    },
+    {
+        "code": "9.3.3.01",
+        "name": "Defisit dari Kegiatan Non Operasional Lainnya - LO"
+    },
+    {
+        "code": "9.3.3.01.01",
+        "name": "Defisit dari Kegiatan Non Operasional Lainnya - LO"
+    },
+    {
+        "code": "9.3.3.01.02",
+        "name": "Defisit Pelepasan Investasi Jangka Pendek - LO"
+    },
+    {
+        "code": "9.3.3.01.03",
+        "name": "Dst ……………………"
+    },
+    {
+        "code": "9.4",
+        "name": "BEBAN LUAR BIASA"
+    },
+    {
+        "code": "9.4.1",
+        "name": "Beban Luar Biasa"
+    },
+    {
+        "code": "9.4.1.01",
+        "name": "Beban Luar Biasa"
+    },
+    {
+        "code": "9.4.1.01.01",
+        "name": "Beban Bencana Alam"
+    },
+    {
+        "code": "9.4.1.01.02",
+        "name": "Beban Luar Biasa Lainnya"
+    },
+    {
+        "code": "9.4.1.01.03",
+        "name": "Dst …………………"
+    }
+]

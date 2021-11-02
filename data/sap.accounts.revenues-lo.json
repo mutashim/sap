@@ -1,0 +1,2086 @@
+[
+    {
+        "code": "8",
+        "name": "PENDAPATAN - LO"
+    },
+    {
+        "code": "8.1",
+        "name": "PENDAPATAN ASLI DAERAH (PAD) - LO"
+    },
+    {
+        "code": "8.1.1",
+        "name": "Pendapatan Pajak Daerah - LO"
+    },
+    {
+        "code": "8.1.1.01",
+        "name": "Pajak Kendaraan Bermotor (PKB) - LO"
+    },
+    {
+        "code": "8.1.1.01.01",
+        "name": "PKB - Mobil Penumpang - Sedan - LO"
+    },
+    {
+        "code": "8.1.1.01.02",
+        "name": "PKB - Mobil Penumpang - Jeep - LO"
+    },
+    {
+        "code": "8.1.1.01.03",
+        "name": "PKB - Mobil Penumpang - Minibus - LO"
+    },
+    {
+        "code": "8.1.1.01.04",
+        "name": "PKB - Mobil Bus - Microbus - LO"
+    },
+    {
+        "code": "8.1.1.01.05",
+        "name": "PKB - Mobil Bus - Bus - LO"
+    },
+    {
+        "code": "8.1.1.01.06",
+        "name": "PKB - Mobil Barang/ Beban - Pick Up - LO"
+    },
+    {
+        "code": "8.1.1.01.07",
+        "name": "PKB - Mobil Barang/ Beban - Light Truck - LO"
+    },
+    {
+        "code": "8.1.1.01.08",
+        "name": "PKB - Mobil Barang/ Beban - Truck - LO"
+    },
+    {
+        "code": "8.1.1.01.09",
+        "name": "PKB - Sepeda Motor - Sepeda Motor Roda 2 - LO"
+    },
+    {
+        "code": "8.1.1.01.10",
+        "name": "PKB - Sepeda Motor - Sepeda Motor Roda 3 - LO"
+    },
+    {
+        "code": "8.1.1.01.11",
+        "name": "PKB - Kendaraan Bermotor yang Dioperasikan di Air - LO"
+    },
+    {
+        "code": "8.1.1.01.12",
+        "name": "Dst .........."
+    },
+    {
+        "code": "8.1.1.02",
+        "name": "Bea Balik Nama Kendaraan Bermotor (BBNKB) - LO"
+    },
+    {
+        "code": "8.1.1.02.01",
+        "name": "BBNKB -Mobil Penumpang - Sedan - LO"
+    },
+    {
+        "code": "8.1.1.02.02",
+        "name": "BBNKB -Mobil Penumpang - Jeep - LO"
+    },
+    {
+        "code": "8.1.1.02.03",
+        "name": "BBNKB -Mobil Penumpang - Minibus - LO"
+    },
+    {
+        "code": "8.1.1.02.04",
+        "name": "BBNKB -Mobil Bus - Microbus - LO"
+    },
+    {
+        "code": "8.1.1.02.05",
+        "name": "BBNKB -Mobil Bus - Bus - LO"
+    },
+    {
+        "code": "8.1.1.02.06",
+        "name": "BBNKB -Mobil Barang/ Beban - Pick Up - LO"
+    },
+    {
+        "code": "8.1.1.02.07",
+        "name": "BBNKB -Mobil Barang/ Beban - Light Truck - LO"
+    },
+    {
+        "code": "8.1.1.02.08",
+        "name": "BBNKB -Mobil Barang/ Beban - Truck - LO"
+    },
+    {
+        "code": "8.1.1.02.09",
+        "name": "BBNKB -Sepeda Motor - Sepeda Motor Roda 2 - LO"
+    },
+    {
+        "code": "8.1.1.02.10",
+        "name": "BBNKB -Sepeda Motor - Sepeda Motor Roda 3 - LO"
+    },
+    {
+        "code": "8.1.1.02.11",
+        "name": "BBNKB -Kendaraan Bermotor yang Dioperasikan di Air - LO"
+    },
+    {
+        "code": "8.1.1.02.12",
+        "name": "Dst............."
+    },
+    {
+        "code": "8.1.1.03",
+        "name": "Pajak Bahan Bakar Kendaraan Bermotor - LO"
+    },
+    {
+        "code": "8.1.1.03.01",
+        "name": "Pajak Bahan Bakar Premium - LO"
+    },
+    {
+        "code": "8.1.1.03.02",
+        "name": "Pajak Bahan Bakar Pertamax - LO"
+    },
+    {
+        "code": "8.1.1.03.03",
+        "name": "Pajak Bahan Bakar Pertamax Plus - LO"
+    },
+    {
+        "code": "8.1.1.03.04",
+        "name": "Pajak Bahan Bakar Solar - LO"
+    },
+    {
+        "code": "8.1.1.03.05",
+        "name": "Pajak Bahan Bakar Gas - LO"
+    },
+    {
+        "code": "8.1.1.03.06",
+        "name": "Dst .............."
+    },
+    {
+        "code": "8.1.1.04",
+        "name": "Pajak Air Permukaan - LO"
+    },
+    {
+        "code": "8.1.1.04.01",
+        "name": "Pajak Air Permukaan - LO"
+    },
+    {
+        "code": "8.1.1.05",
+        "name": "Pajak Rokok - LO"
+    },
+    {
+        "code": "8.1.1.05.01",
+        "name": "Pajak Rokok - LO"
+    },
+    {
+        "code": "8.1.1.06",
+        "name": "Pajak Hotel - LO"
+    },
+    {
+        "code": "8.1.1.06.01",
+        "name": "Hotel - LO"
+    },
+    {
+        "code": "8.1.1.06.02",
+        "name": "Motel - LO"
+    },
+    {
+        "code": "8.1.1.06.03",
+        "name": "Losmen - LO"
+    },
+    {
+        "code": "8.1.1.06.04",
+        "name": "Gubuk Pariwisata - LO"
+    },
+    {
+        "code": "8.1.1.06.05",
+        "name": "Wisma Pariwisata - LO"
+    },
+    {
+        "code": "8.1.1.06.06",
+        "name": "Pesanggrahan - LO"
+    },
+    {
+        "code": "8.1.1.06.07",
+        "name": "Rumah Penginapan dan sejenisnya - LO"
+    },
+    {
+        "code": "8.1.1.06.08",
+        "name": "Rumah Kos dengan jumlah kamar lebih dari 10 (sepuluh) - LO"
+    },
+    {
+        "code": "8.1.1.06.09",
+        "name": "Dst….."
+    },
+    {
+        "code": "8.1.1.07",
+        "name": "Pajak Restoran - LO"
+    },
+    {
+        "code": "8.1.1.07.01",
+        "name": "Restoran - LO"
+    },
+    {
+        "code": "8.1.1.07.02",
+        "name": "Rumah Makan - LO"
+    },
+    {
+        "code": "8.1.1.07.03",
+        "name": "Kafetaria - LO"
+    },
+    {
+        "code": "8.1.1.07.04",
+        "name": "Kantin - LO"
+    },
+    {
+        "code": "8.1.1.07.05",
+        "name": "Warung - LO"
+    },
+    {
+        "code": "8.1.1.07.06",
+        "name": "Bar - LO"
+    },
+    {
+        "code": "8.1.1.07.07",
+        "name": "Jasa Boga/ Katering - LO"
+    },
+    {
+        "code": "8.1.1.07.08",
+        "name": "Dst….."
+    },
+    {
+        "code": "8.1.1.08",
+        "name": "Pajak Hiburan - LO"
+    },
+    {
+        "code": "8.1.1.08.01",
+        "name": "Tontonan Film/Bioskop - LO"
+    },
+    {
+        "code": "8.1.1.08.02",
+        "name": "Pagelaran Kesenian/Musik/Tari/Busana - LO"
+    },
+    {
+        "code": "8.1.1.08.03",
+        "name": "Kontes Kecantikan, Binaraga, dan sejenisnya - LO"
+    },
+    {
+        "code": "8.1.1.08.04",
+        "name": "Pameran - LO"
+    },
+    {
+        "code": "8.1.1.08.05",
+        "name": "Diskotik, Karaoke, Klab Malam dan sejenisnya - LO"
+    },
+    {
+        "code": "8.1.1.08.06",
+        "name": "Sirkus/Akrobat/Sulap - LO"
+    },
+    {
+        "code": "8.1.1.08.07",
+        "name": "Permainan Bilyar, Golf, Bowling - LO"
+    },
+    {
+        "code": "8.1.1.08.08",
+        "name": "Pacuan Kuda, Kendaraan Bermotor, Permainan Ketangkasan - LO"
+    },
+    {
+        "code": "8.1.1.08.09",
+        "name": "Panti Pijat, Refleksi, Mandi Uap/ Spa dan Pusat Kebugaran (fitnes center) - LO"
+    },
+    {
+        "code": "8.1.1.08.10",
+        "name": "Pertandingan Olahraga - LO"
+    },
+    {
+        "code": "8.1.1.08.11",
+        "name": "Dst….."
+    },
+    {
+        "code": "8.1.1.09",
+        "name": "Pajak Reklame - LO"
+    },
+    {
+        "code": "8.1.1.09.01",
+        "name": "Pajak Reklame Papan/Billboard/Videotron/Megatron - LO"
+    },
+    {
+        "code": "8.1.1.09.02",
+        "name": "Pajak Reklame Kain - LO"
+    },
+    {
+        "code": "8.1.1.09.03",
+        "name": "Pajak Reklame Melekat/Stiker - LO"
+    },
+    {
+        "code": "8.1.1.09.04",
+        "name": "Pajak Reklame Selebaran - LO"
+    },
+    {
+        "code": "8.1.1.09.05",
+        "name": "Pajak Reklame Berjalan - LO"
+    },
+    {
+        "code": "8.1.1.09.06",
+        "name": "Pajak Reklame Udara - LO"
+    },
+    {
+        "code": "8.1.1.09.07",
+        "name": "Pajak Reklame Apung - LO"
+    },
+    {
+        "code": "8.1.1.09.08",
+        "name": "Pajak Reklame Suara - LO"
+    },
+    {
+        "code": "8.1.1.09.09",
+        "name": "Pajak Reklame Film/Slide - LO"
+    },
+    {
+        "code": "8.1.1.09.10",
+        "name": "Pajak Reklame Peragaan - LO"
+    },
+    {
+        "code": "8.1.1.09.11",
+        "name": "Dst….."
+    },
+    {
+        "code": "8.1.1.10",
+        "name": "Pajak Penerangan Jalan - LO"
+    },
+    {
+        "code": "8.1.1.10.01",
+        "name": "Pajak Penerangan Jalan dihasilkan sendiri - LO"
+    },
+    {
+        "code": "8.1.1.10.02",
+        "name": "Pajak Penerangan Jalan sumber lain - LO"
+    },
+    {
+        "code": "8.1.1.11",
+        "name": "Pajak Parkir - LO"
+    },
+    {
+        "code": "8.1.1.11.01",
+        "name": "Pajak Parkir - LO"
+    },
+    {
+        "code": "8.1.1.12",
+        "name": "Pajak Air Tanah - LO"
+    },
+    {
+        "code": "8.1.1.12.01",
+        "name": "Pajak Air Tanah - LO"
+    },
+    {
+        "code": "8.1.1.13",
+        "name": "Pajak Sarang Burung Walet - LO"
+    },
+    {
+        "code": "8.1.1.13.01",
+        "name": "Pajak Sarang Burung Walet - LO"
+    },
+    {
+        "code": "8.1.1.14",
+        "name": "Pajak Mineral Bukan Logam dan Batuan - LO"
+    },
+    {
+        "code": "8.1.1.14.01",
+        "name": "Asbes - LO"
+    },
+    {
+        "code": "8.1.1.14.02",
+        "name": "Batu Tulis - LO"
+    },
+    {
+        "code": "8.1.1.14.03",
+        "name": "Batu setengah permata - LO"
+    },
+    {
+        "code": "8.1.1.14.04",
+        "name": "Batu Kapur - LO"
+    },
+    {
+        "code": "8.1.1.14.05",
+        "name": "Batu Apung - LO"
+    },
+    {
+        "code": "8.1.1.14.06",
+        "name": "Batu Permata - LO"
+    },
+    {
+        "code": "8.1.1.14.07",
+        "name": "Bentonit - LO"
+    },
+    {
+        "code": "8.1.1.14.08",
+        "name": "Dolomit - LO"
+    },
+    {
+        "code": "8.1.1.14.09",
+        "name": "Feldspar - LO"
+    },
+    {
+        "code": "8.1.1.14.10",
+        "name": "Garam Batu (Halite) - LO"
+    },
+    {
+        "code": "8.1.1.14.11",
+        "name": "Grafit - LO"
+    },
+    {
+        "code": "8.1.1.14.12",
+        "name": "Granit/Andesit - LO"
+    },
+    {
+        "code": "8.1.1.14.13",
+        "name": "Gips - LO"
+    },
+    {
+        "code": "8.1.1.14.14",
+        "name": "Kalsit - LO"
+    },
+    {
+        "code": "8.1.1.14.15",
+        "name": "Kaolin - LO"
+    },
+    {
+        "code": "8.1.1.14.16",
+        "name": "Leusit - LO"
+    },
+    {
+        "code": "8.1.1.14.17",
+        "name": "Magnesit - LO"
+    },
+    {
+        "code": "8.1.1.14.18",
+        "name": "Mika - LO"
+    },
+    {
+        "code": "8.1.1.14.19",
+        "name": "Marmer - LO"
+    },
+    {
+        "code": "8.1.1.14.20",
+        "name": "Nitrat - LO"
+    },
+    {
+        "code": "8.1.1.14.21",
+        "name": "Opsidien - LO"
+    },
+    {
+        "code": "8.1.1.14.22",
+        "name": "Oker - LO"
+    },
+    {
+        "code": "8.1.1.14.23",
+        "name": "Pasir dan kerikil - LO"
+    },
+    {
+        "code": "8.1.1.14.24",
+        "name": "Pasir Kuarsa - LO"
+    },
+    {
+        "code": "8.1.1.14.25",
+        "name": "Perlit - LO"
+    },
+    {
+        "code": "8.1.1.14.26",
+        "name": "Phospat - LO"
+    },
+    {
+        "code": "8.1.1.14.27",
+        "name": "Talk - LO"
+    },
+    {
+        "code": "8.1.1.14.28",
+        "name": "Tanah Serap (Fullers earth) - LO"
+    },
+    {
+        "code": "8.1.1.14.29",
+        "name": "Tanah Diatome - LO"
+    },
+    {
+        "code": "8.1.1.14.30",
+        "name": "Tanah Liat - LO"
+    },
+    {
+        "code": "8.1.1.14.31",
+        "name": "Tawas (Alum) - LO"
+    },
+    {
+        "code": "8.1.1.14.32",
+        "name": "Tras - LO"
+    },
+    {
+        "code": "8.1.1.14.33",
+        "name": "Yarosif - LO"
+    },
+    {
+        "code": "8.1.1.14.34",
+        "name": "Zeolit - LO"
+    },
+    {
+        "code": "8.1.1.14.35",
+        "name": "Basal - LO"
+    },
+    {
+        "code": "8.1.1.14.36",
+        "name": "Trakit - LO"
+    },
+    {
+        "code": "8.1.1.14.37",
+        "name": "Mineral bukan logam dan lainnya - LO"
+    },
+    {
+        "code": "8.1.1.15",
+        "name": "Pajak Bumi dan Bangunan Pedesaan dan Perkotaan - LO"
+    },
+    {
+        "code": "8.1.1.15.01",
+        "name": "Pajak Bumi dan Bangunan Perdesaan dan Perkotaan - LO"
+    },
+    {
+        "code": "8.1.1.16",
+        "name": "Bea Perolehan Hak Atas Tanah dan Bangunan (BPHTB) - LO"
+    },
+    {
+        "code": "8.1.1.16.01",
+        "name": "BPHTB - Pemindahan Hak - LO"
+    },
+    {
+        "code": "8.1.1.16.02",
+        "name": "BPHTB - Pemberian Hak Baru - LO"
+    },
+    {
+        "code": "8.1.2",
+        "name": "Pendapatan Retribusi Daerah - LO"
+    },
+    {
+        "code": "8.1.2.01",
+        "name": "Retribusi Pelayanan Kesehatan - LO"
+    },
+    {
+        "code": "8.1.2.01.01",
+        "name": "Pelayanan kesehatan di Puskesmas - LO"
+    },
+    {
+        "code": "8.1.2.01.02",
+        "name": "Puskesmas keliling - LO"
+    },
+    {
+        "code": "8.1.2.01.03",
+        "name": "Puskesmas pembantu - LO"
+    },
+    {
+        "code": "8.1.2.01.04",
+        "name": "Balai Pengobatan - LO"
+    },
+    {
+        "code": "8.1.2.01.05",
+        "name": "Rumah Sakit Umum Daerah - LO"
+    },
+    {
+        "code": "8.1.2.01.06",
+        "name": "Tempat pelayanan kesehatan lainnya yang sejenis yang dimiliki dan/atau dikelola oleh pemda - LO"
+    },
+    {
+        "code": "8.1.2.02",
+        "name": "Retribusi Pelayanan Persampahan/ Kebersihan - LO"
+    },
+    {
+        "code": "8.1.2.02.01",
+        "name": "Pengambilan/Pengumpulan Sampah dari sumbernya ke lokasi pembuangan sementara - LO"
+    },
+    {
+        "code": "8.1.2.02.02",
+        "name": "Pengangkutan Sampah dari Sumbernya dan/atau lokasi pembuangan sementara ke lokasi pembuangan/pembuangan akhir sampah - LO"
+    },
+    {
+        "code": "8.1.2.02.03",
+        "name": "Penyediaan Lokasi Pembuangan/Pemusnahan Akhir Sampah - LO"
+    },
+    {
+        "code": "8.1.2.03",
+        "name": "Retribusi Penggantian Biaya Cetak Kartu Tanda Penduduk dan Akta Catatan Sipil - LO"
+    },
+    {
+        "code": "8.1.2.03.01",
+        "name": "Kartu Tanda Penduduk - LO"
+    },
+    {
+        "code": "8.1.2.03.02",
+        "name": "Kartu Keterangan Bertempat Tinggal - LO"
+    },
+    {
+        "code": "8.1.2.03.03",
+        "name": "Kartu Identitas Kerja - LO"
+    },
+    {
+        "code": "8.1.2.03.04",
+        "name": "Kartu Penduduk Sementara - LO"
+    },
+    {
+        "code": "8.1.2.03.05",
+        "name": "Kartu Identitas Penduduk Musiman - LO"
+    },
+    {
+        "code": "8.1.2.03.06",
+        "name": "Kartu Keluarga - LO"
+    },
+    {
+        "code": "8.1.2.03.07",
+        "name": "Akta Catatan Sipil - LO"
+    },
+    {
+        "code": "8.1.2.04",
+        "name": "Retribusi Pelayanan Pemakaman dan Pengabuan Mayat - LO"
+    },
+    {
+        "code": "8.1.2.04.01",
+        "name": "Pelayanan Penguburan/Pemakaman - LO"
+    },
+    {
+        "code": "8.1.2.04.02",
+        "name": "Sewa Tempat Pemakaman atau Pembakaran/Pengabuan Mayat - LO"
+    },
+    {
+        "code": "8.1.2.05",
+        "name": "Retribusi Pelayanan Parkir di Tepi Jalan Umum - LO"
+    },
+    {
+        "code": "8.1.2.05.01",
+        "name": "Penyediaan Pelayanan Parkir di Tepi Jalan Umum - LO"
+    },
+    {
+        "code": "8.1.2.06",
+        "name": "Retribusi Pelayanan Pasar - LO"
+    },
+    {
+        "code": "8.1.2.06.01",
+        "name": "Pelataran - LO"
+    },
+    {
+        "code": "8.1.2.06.02",
+        "name": "Los - LO"
+    },
+    {
+        "code": "8.1.2.06.03",
+        "name": "Kios - LO"
+    },
+    {
+        "code": "8.1.2.07",
+        "name": "Retribusi Pengujian Kendaraan Bermotor - LO"
+    },
+    {
+        "code": "8.1.2.07.01",
+        "name": "Retribusi PKB - Mobil Penumpang - Sedan - LO"
+    },
+    {
+        "code": "8.1.2.07.02",
+        "name": "Retribusi PKB - Mobil Penumpang - Jeep - LO"
+    },
+    {
+        "code": "8.1.2.07.03",
+        "name": "Retribusi PKB - Mobil Penumpang - Minibus - LO"
+    },
+    {
+        "code": "8.1.2.07.04",
+        "name": "Retribusi PKB - Mobil Bus - Microbus - LO"
+    },
+    {
+        "code": "8.1.2.07.05",
+        "name": "Retribusi PKB - Mobil Bus - Bus - LO"
+    },
+    {
+        "code": "8.1.2.07.06",
+        "name": "Retribusi PKB - Mobil Barang/ Beban - Pick Up - LO"
+    },
+    {
+        "code": "8.1.2.07.07",
+        "name": "Retribusi PKB - Mobil Barang/ Beban - Light Truck - LO"
+    },
+    {
+        "code": "8.1.2.07.08",
+        "name": "Retribusi PKB - Mobil Barang/ Beban - Truck - LO"
+    },
+    {
+        "code": "8.1.2.07.09",
+        "name": "Retribusi PKB - Sepeda Motor - Sepeda Motor Roda 2 - LO"
+    },
+    {
+        "code": "8.1.2.07.10",
+        "name": "Retribusi PKB - Sepeda Motor - Sepeda Motor Roda 3 - LO"
+    },
+    {
+        "code": "8.1.2.07.11",
+        "name": "Retribusi PKB - Kendaraan Bermotor yang Dioperasikan di Air - LO"
+    },
+    {
+        "code": "8.1.2.07.12",
+        "name": "Dst….."
+    },
+    {
+        "code": "8.1.2.08",
+        "name": "Retribusi Pemeriksaan Alat Pemadam Kebakaran - LO"
+    },
+    {
+        "code": "8.1.2.08.01",
+        "name": "Pelayanan Pemeriksaan dan/atau Pengujian Alat Pemadam Kebakaran - LO"
+    },
+    {
+        "code": "8.1.2.08.02",
+        "name": "Alat Penanggulangan Kebakaran - LO"
+    },
+    {
+        "code": "8.1.2.08.03",
+        "name": "Alat Penyelematan Jiwa - LO"
+    },
+    {
+        "code": "8.1.2.08.04",
+        "name": "Dst….."
+    },
+    {
+        "code": "8.1.2.09",
+        "name": "Retribusi Penggantian Biaya Cetak Peta - LO"
+    },
+    {
+        "code": "8.1.2.09.01",
+        "name": "Penyediaan Peta Dasar (Garis) - LO"
+    },
+    {
+        "code": "8.1.2.09.02",
+        "name": "Penyediaan Peta Foto - LO"
+    },
+    {
+        "code": "8.1.2.09.03",
+        "name": "Penyediaan Peta Digital - LO"
+    },
+    {
+        "code": "8.1.2.09.04",
+        "name": "Penyediaan Peta Tematik - LO"
+    },
+    {
+        "code": "8.1.2.09.05",
+        "name": "Penyediaan Peta Teknis (Struktur) - LO"
+    },
+    {
+        "code": "8.1.2.10",
+        "name": "Retribusi Penyediaan dan/atau Penyedotan Kakus - LO"
+    },
+    {
+        "code": "8.1.2.10.01",
+        "name": "Penyediaan dan/atau Penyedotan Kakus - LO"
+    },
+    {
+        "code": "8.1.2.11",
+        "name": "Retribusi Pengolahan Limbah Cair - LO"
+    },
+    {
+        "code": "8.1.2.11.01",
+        "name": "Rumah Tangga - LO"
+    },
+    {
+        "code": "8.1.2.11.02",
+        "name": "Perkantoran - LO"
+    },
+    {
+        "code": "8.1.2.11.03",
+        "name": "Industri - LO"
+    },
+    {
+        "code": "8.1.2.12",
+        "name": "Retribusi Pelayanan Tera/Tera Ulang - LO"
+    },
+    {
+        "code": "8.1.2.12.01",
+        "name": "Pengujian Alat-alat ukur, takar, timbang, dan perlengkapannya - LO"
+    },
+    {
+        "code": "8.1.2.12.02",
+        "name": "Pengujian dalam keadaan terbungkus - LO"
+    },
+    {
+        "code": "8.1.2.13",
+        "name": "Retribusi Pelayanan Pendidikan - LO"
+    },
+    {
+        "code": "8.1.2.13.01",
+        "name": "Pelayanan Penyelenggaraan Pendidikan - LO"
+    },
+    {
+        "code": "8.1.2.13.02",
+        "name": "Pelatihan Teknis - LO"
+    },
+    {
+        "code": "8.1.2.14",
+        "name": "Retribusi Pengendalian Menara Telekomunikasi - LO"
+    },
+    {
+        "code": "8.1.2.14.01",
+        "name": "Pemanfaatan ruang untuk menara telekomunikasi - LO"
+    },
+    {
+        "code": "8.1.2.15",
+        "name": "Retribusi Pemakaian Kekayaan Daerah - LO"
+    },
+    {
+        "code": "8.1.2.15.01",
+        "name": "Penyewaan Tanah dan Bangunan - LO"
+    },
+    {
+        "code": "8.1.2.15.02",
+        "name": "Laboratorium - LO"
+    },
+    {
+        "code": "8.1.2.15.03",
+        "name": "Ruangan -LO"
+    },
+    {
+        "code": "8.1.2.15.04",
+        "name": "Kendaraan Bermotor - LO"
+    },
+    {
+        "code": "8.1.2.16",
+        "name": "Retribusi Pasar Grosir dan/ atau Pertokoan - LO"
+    },
+    {
+        "code": "8.1.2.16.01",
+        "name": "Penyediaan Fasilitas Pasar Grosir berbagai Jenis Barang - LO"
+    },
+    {
+        "code": "8.1.2.16.02",
+        "name": "Fasilitas Pasar/Pertokoan yang Dikontrakkan - LO"
+    },
+    {
+        "code": "8.1.2.16.03",
+        "name": "Fasilitas Pasar atau Pertokoan yang disediakan/diselenggarakan oleh Pemerintah Daerah - LO"
+    },
+    {
+        "code": "8.1.2.17",
+        "name": "Retribusi Tempat Pelelangan - LO"
+    },
+    {
+        "code": "8.1.2.17.01",
+        "name": "Pelelangan Ikan - LO"
+    },
+    {
+        "code": "8.1.2.17.02",
+        "name": "pelelangan Ternak - LO"
+    },
+    {
+        "code": "8.1.2.17.03",
+        "name": "Pelelangan Hasil Bumi - LO"
+    },
+    {
+        "code": "8.1.2.17.04",
+        "name": "Pelelangan Hasil Hutan - LO"
+    },
+    {
+        "code": "8.1.2.17.05",
+        "name": "Jasa Pelelangan serta Fasilitas Lainnya yang disediakan di Tempat Pelelangan - LO"
+    },
+    {
+        "code": "8.1.2.18",
+        "name": "Retribusi Terminal - LO"
+    },
+    {
+        "code": "8.1.2.18.01",
+        "name": "Pelayanan Penyediaan Tempat Parkir untuk Kendaraan Penumpang dan Bis Umum - LO"
+    },
+    {
+        "code": "8.1.2.18.02",
+        "name": "Tempat Kegiatan Usaha - LO"
+    },
+    {
+        "code": "8.1.2.18.03",
+        "name": "Fasilitas Lainnya di Lingkungan Terminal - LO"
+    },
+    {
+        "code": "8.1.2.19",
+        "name": "Retribusi Tempat Khusus Parkir - LO"
+    },
+    {
+        "code": "8.1.2.19.01",
+        "name": "Pelayanan Tempat Khusus Parkir - LO"
+    },
+    {
+        "code": "8.1.2.20",
+        "name": "Retribusi Tempat Penginapan/ Pesanggrahan/ Villa - LO"
+    },
+    {
+        "code": "8.1.2.20.01",
+        "name": "Pelayanan Tempat Penginapan/Pesanggrahan/Vila - LO"
+    },
+    {
+        "code": "8.1.2.21",
+        "name": "Retribusi Rumah Potong Hewan - LO"
+    },
+    {
+        "code": "8.1.2.21.01",
+        "name": "Pelayanan Pemeriksaan Kesehatan Hewan sebelum dipotong - LO"
+    },
+    {
+        "code": "8.1.2.21.02",
+        "name": "Pelayanan Pemeriksaan Kesehatan Hewan sesudah dipotong - LO"
+    },
+    {
+        "code": "8.1.2.22",
+        "name": "Retribusi Pelayanan Kepelabuhan - LO"
+    },
+    {
+        "code": "8.1.2.22.01",
+        "name": "Pelayanan Jasa ke Pelabuhan - LO"
+    },
+    {
+        "code": "8.1.2.23",
+        "name": "Retribusi Tempat Rekreasi dan Olah raga- LO"
+    },
+    {
+        "code": "8.1.2.23.01",
+        "name": "Pelayanan Tempat Rekreasi - LO"
+    },
+    {
+        "code": "8.1.2.23.02",
+        "name": "Pelayanan Tempat Pariwisata - LO"
+    },
+    {
+        "code": "8.1.2.23.03",
+        "name": "Pelayanan Tempat olahraga - LO"
+    },
+    {
+        "code": "8.1.2.24",
+        "name": "Retribusi Penyebrangan Air - LO"
+    },
+    {
+        "code": "8.1.2.24.01",
+        "name": "Pelayanan Penyebrangan Orang - LO"
+    },
+    {
+        "code": "8.1.2.24.02",
+        "name": "Pelayanan Penyebrangan Barang - LO"
+    },
+    {
+        "code": "8.1.2.25",
+        "name": "Retribusi Penjualan Produksi Usaha Daerah - LO"
+    },
+    {
+        "code": "8.1.2.25.01",
+        "name": "Penjualan Hasil Produksi Usaha Daerah - LO"
+    },
+    {
+        "code": "8.1.2.26",
+        "name": "Retribusi Izin Mendirikan Bangunan - LO"
+    },
+    {
+        "code": "8.1.2.26.01",
+        "name": "Pemberian Izin Mendirikan Bangunan - LO"
+    },
+    {
+        "code": "8.1.2.27",
+        "name": "Retribusi Izin Tempat Penjualan Minuman Beralkohol - LO"
+    },
+    {
+        "code": "8.1.2.27.01",
+        "name": "Pemberian Izin untuk Tempat Penjualan Minuman Beralkohol - LO"
+    },
+    {
+        "code": "8.1.2.28",
+        "name": "Retribusi Izin Gangguan - LO"
+    },
+    {
+        "code": "8.1.2.28.01",
+        "name": "Pemberian Izin Gangguan tempat Usaha/Kegiatan kepada Orang Pribadi - LO"
+    },
+    {
+        "code": "8.1.2.28.02",
+        "name": "Pemberian Izin Gangguan tempat Usaha/Kegiatan kepada Badan - LO"
+    },
+    {
+        "code": "8.1.2.29",
+        "name": "Retribusi Izin Trayek - LO"
+    },
+    {
+        "code": "8.1.2.29.01",
+        "name": "Pemberian Izin Trayek kepada Orang Pribadi - LO"
+    },
+    {
+        "code": "8.1.2.29.02",
+        "name": "Pemberian Izin Trayek kepada Badan - LO"
+    },
+    {
+        "code": "8.1.2.30",
+        "name": "Retribusi Izin Perikanan - LO"
+    },
+    {
+        "code": "8.1.2.30.01",
+        "name": "Pemberian Izin usaha Perikanan kepada Orang Pribadi - LO"
+    },
+    {
+        "code": "8.1.2.30.02",
+        "name": "Pemberian Izin usaha Perikanan kepada Badan - LO"
+    },
+    {
+        "code": "8.1.2.31",
+        "name": "Retribusi Pengendalian Lalu Lintas - LO"
+    },
+    {
+        "code": "8.1.2.31.01",
+        "name": "Penggunaan ruas jalan terentu - LO"
+    },
+    {
+        "code": "8.1.2.31.02",
+        "name": "Penggunaan koridor tertentu -LO"
+    },
+    {
+        "code": "8.1.2.31.03",
+        "name": "Penggunaan kawasan tertentu pada waktu tertentu oleh kendaraan bermotor perseorangan dan barang - LO"
+    },
+    {
+        "code": "8.1.2.32",
+        "name": "Retribusi Perpanjangan Izin Mempekerjakan Tenaga Kerja Asing (IMTA) - LO"
+    },
+    {
+        "code": "8.1.2.32.01",
+        "name": "Pemberian Perpanjangan IMTA kepada Pemberi Kerja Tenaga Kerja Asing - LO"
+    },
+    {
+        "code": "8.1.3",
+        "name": "Pendapatan Hasil Pengelolaan Kekayaan Daerah yang Dipisahkan - LO"
+    },
+    {
+        "code": "8.1.3.01",
+        "name": "Bagian Laba yang dibagikan kepada Pemda (deviden) atas penyertaan modal pada Perusahaan Milik Daerah/BUMD - LO"
+    },
+    {
+        "code": "8.1.3.01.01",
+        "name": "Bagian Laba yang dibagikan kepada Pemda (deviden) atas penyertaan modal pada Perusahaan Daerah - LO"
+    },
+    {
+        "code": "8.1.3.01.02",
+        "name": "Bagian Laba yang dibagikan kepada Pemda (deviden) atas penyertaan modal pada BUMD .............. - LO"
+    },
+    {
+        "code": "8.1.3.01.03",
+        "name": "Dst .............."
+    },
+    {
+        "code": "8.1.3.02",
+        "name": "Bagian Laba yang dibagikan kepada Pemda (deviden) atas penyertaan modal pada Perusahaan Milik Pemerintah/BUMN - LO"
+    },
+    {
+        "code": "8.1.3.02.01",
+        "name": "Bagian Laba yang dibagikan kepada Pemda (deviden) atas penyertaan modal pada BUMN - LO"
+    },
+    {
+        "code": "8.1.3.02.02",
+        "name": "Dst .............."
+    },
+    {
+        "code": "8.1.3.03",
+        "name": "Bagian Laba yang dibagikan kepada Pemda (deviden) atas penyertaan modal pada Perusahaan Milik Swasta - LO"
+    },
+    {
+        "code": "8.1.3.03.01",
+        "name": "Bagian Laba yang dibagikan kepada Pemda (deviden) atas penyertaan modal pada Perusahaan Milik Swasta…. - LO"
+    },
+    {
+        "code": "8.1.3.03.02",
+        "name": "Dst .............."
+    },
+    {
+        "code": "8.1.4",
+        "name": "Lain-lain PAD Yang Sah - LO"
+    },
+    {
+        "code": "8.1.4.01",
+        "name": "Hasil Penjualan Aset Daerah Yang Tidak Dipisahkan - LO"
+    },
+    {
+        "code": "8.1.4.01.01",
+        "name": "Hasil Penjualan Tanah - LO"
+    },
+    {
+        "code": "8.1.4.01.02",
+        "name": "Hasil Penjualan Peralatan dan Mesin - LO"
+    },
+    {
+        "code": "8.1.4.01.03",
+        "name": "Hasil Penjualan Gedung dan Bangunan - LO"
+    },
+    {
+        "code": "8.1.4.01.04",
+        "name": "Hasil Penjualan Jalan, Irigasi dan Jaringan - LO"
+    },
+    {
+        "code": "8.1.4.01.05",
+        "name": "Hasil Penjualan Aset Tetap Lainnya - LO"
+    },
+    {
+        "code": "8.1.4.02",
+        "name": "Hasil Penjualan Aset Lainnya - LO"
+    },
+    {
+        "code": "8.1.4.02.01",
+        "name": "Hasil Penjualan Aset Lainnya - LO"
+    },
+    {
+        "code": "8.1.4.03",
+        "name": "Penerimaan Jasa Giro - LO"
+    },
+    {
+        "code": "8.1.4.03.01",
+        "name": "Jasa Giro Kas Daerah - LO"
+    },
+    {
+        "code": "8.1.4.03.02",
+        "name": "Jasa Giro Kas Bendahara - LO"
+    },
+    {
+        "code": "8.1.4.03.03",
+        "name": "Jasa Giro Dana Cadangan - LO"
+    },
+    {
+        "code": "8.1.4.03.04",
+        "name": "Dst .............."
+    },
+    {
+        "code": "8.1.4.04",
+        "name": "Pendapatan Bunga - LO"
+    },
+    {
+        "code": "8.1.4.04.01",
+        "name": "Pendapatan Bunga Deposito ....... - LO"
+    },
+    {
+        "code": "8.1.4.04.02",
+        "name": "Pendapatan Bunga Dana Bergulir .............. - LO"
+    },
+    {
+        "code": "8.1.4.04.03",
+        "name": "Dst .............."
+    },
+    {
+        "code": "8.1.4.05",
+        "name": "Tuntutan Ganti Kerugian Daerah - LO"
+    },
+    {
+        "code": "8.1.4.05.01",
+        "name": "Tuntutan Ganti Kerugian Daerah Terhadap Bendahara - LO"
+    },
+    {
+        "code": "8.1.4.05.02",
+        "name": "Tuntutan Ganti Kerugian Daerah Terhadap Pegawai Negeri Bukan Bendahara - LO"
+    },
+    {
+        "code": "8.1.4.06",
+        "name": "Komisi, Potongan dan Selisih Nilai Tukar Rupiah - LO"
+    },
+    {
+        "code": "8.1.4.06.01",
+        "name": "Penerimaan Komisi dari Penempatan Kas Daerah - LO"
+    },
+    {
+        "code": "8.1.4.06.02",
+        "name": "Penerimaan Potongan dari .............. - LO"
+    },
+    {
+        "code": "8.1.4.06.03",
+        "name": "Penerimaan Keuntungan Selisih Nilai Tukar Rupiah dari .............. - LO"
+    },
+    {
+        "code": "8.1.4.06.04",
+        "name": "Dst .............."
+    },
+    {
+        "code": "8.1.4.07",
+        "name": "Pendapatan Denda atas Keterlambatan Pelaksanaan Pekerjaan - LO"
+    },
+    {
+        "code": "8.1.4.07.01",
+        "name": "Pendapatan Denda atas Keterlambatan Pelaksanaan Pekerjaan - LO"
+    },
+    {
+        "code": "8.1.4.07.02",
+        "name": "Dst .............."
+    },
+    {
+        "code": "8.1.4.08",
+        "name": "Pendapatan Denda Pajak - LO"
+    },
+    {
+        "code": "8.1.4.08.01",
+        "name": "Pendapatan Denda Pajak Kendaraan Bermotor - LO"
+    },
+    {
+        "code": "8.1.4.08.02",
+        "name": "Pendapatan Denda Bea Balik Nama Kendaraan Bermotor - LO"
+    },
+    {
+        "code": "8.1.4.08.03",
+        "name": "Pendapatan Denda Pajak Bahan Bakar Kendaraan Bermotor - LO"
+    },
+    {
+        "code": "8.1.4.08.04",
+        "name": "Pendapatan Denda Pajak Air Permukaan - LO"
+    },
+    {
+        "code": "8.1.4.08.05",
+        "name": "Pendapatan Denda Pajak Rokok - LO"
+    },
+    {
+        "code": "8.1.4.08.06",
+        "name": "Pendapatan Denda Pajak Hotel - LO"
+    },
+    {
+        "code": "8.1.4.08.07",
+        "name": "Pendapatan Denda Pajak Restoran - LO"
+    },
+    {
+        "code": "8.1.4.08.08",
+        "name": "Pendapatan Denda Pajak Hiburan - LO"
+    },
+    {
+        "code": "8.1.4.08.09",
+        "name": "Pendapatan Denda Pajak Reklame - LO"
+    },
+    {
+        "code": "8.1.4.08.10",
+        "name": "Pendapatan Denda Pajak Penerangan Jalan - LO"
+    },
+    {
+        "code": "8.1.4.08.11",
+        "name": "Pendapatan Denda Pajak Parkir - LO"
+    },
+    {
+        "code": "8.1.4.08.12",
+        "name": "Pendapatan Denda Pajak Air Tanah - LO"
+    },
+    {
+        "code": "8.1.4.08.13",
+        "name": "Pendapatan Denda Pajak Sarang Burung Walet - LO"
+    },
+    {
+        "code": "8.1.4.08.14",
+        "name": "Pendapatan Denda Pajak Mineral Bukan Logam dan Batuan - LO"
+    },
+    {
+        "code": "8.1.4.08.15",
+        "name": "Pendapatan Denda Pajak Bumi dan Bangunan Perdesaan dan Perkotaan - LO"
+    },
+    {
+        "code": "8.1.4.08.16",
+        "name": "Pendapatan Denda Bea Perolehan Hak Atas Tanah dan Bangunan - LO"
+    },
+    {
+        "code": "8.1.4.09",
+        "name": "Pendapatan Denda Retribusi - LO"
+    },
+    {
+        "code": "8.1.4.09.01",
+        "name": "Pendapatan Denda Retribusi Pelayanan Kesehatan - LO"
+    },
+    {
+        "code": "8.1.4.09.02",
+        "name": "Pendapatan Denda Retribusi Pelayanan Persampahan/ Kebersihan - LO"
+    },
+    {
+        "code": "8.1.4.09.03",
+        "name": "Pendapatan Denda Retribusi Penggantian Biaya Cetak Kartu Tanda Penduduk dan Akta Catatan Sipil - LO"
+    },
+    {
+        "code": "8.1.4.09.04",
+        "name": "Pendapatan Denda Retribusi Pelayanan Pemakaman dan Pengabuan Mayat - LO"
+    },
+    {
+        "code": "8.1.4.09.05",
+        "name": "Pendapatan Denda Retribusi Pelayanan Parkir di Tepi Jalan Umum - LO"
+    },
+    {
+        "code": "8.1.4.09.06",
+        "name": "Pendapatan Denda Retribusi Pelayanan Pasar - LO"
+    },
+    {
+        "code": "8.1.4.09.07",
+        "name": "Pendapatan Denda Retribusi Pengujian Kendaraan Bermotor - LO"
+    },
+    {
+        "code": "8.1.4.09.08",
+        "name": "Pendapatan Denda Retribusi Pemeriksaan Alat Pemadam Kebakaran - LO"
+    },
+    {
+        "code": "8.1.4.09.09",
+        "name": "Pendapatan Denda Retribusi Penggantian Biaya Cetak Peta - LO"
+    },
+    {
+        "code": "8.1.4.09.10",
+        "name": "Pendapatan Denda Retribusi Penyediaan dan/atau Penyedotan Kakus - LO"
+    },
+    {
+        "code": "8.1.4.09.11",
+        "name": "Pendapatan Denda Retribusi Pengolahan Limbah Cair - LO"
+    },
+    {
+        "code": "8.1.4.09.12",
+        "name": "Pendapatan Denda Retribusi Pelayanan Tera/Tera Ulang - LO"
+    },
+    {
+        "code": "8.1.4.09.13",
+        "name": "Pendapatan Denda Retribusi Pelayanan Pendidikan - LO"
+    },
+    {
+        "code": "8.1.4.09.14",
+        "name": "Pendapatan Denda Retribusi Pengendalian Menara Telekomunikasi - LO"
+    },
+    {
+        "code": "8.1.4.09.15",
+        "name": "Pendapatan Denda Retribusi Pemakaian Kekayaan Daerah - LO"
+    },
+    {
+        "code": "8.1.4.09.16",
+        "name": "Pendapatan Denda Retribusi Pasar Grosir dan/ atau Pertokoan - LO"
+    },
+    {
+        "code": "8.1.4.09.17",
+        "name": "Pendapatan Denda Retribusi Tempat Pelelangan - LO"
+    },
+    {
+        "code": "8.1.4.09.18",
+        "name": "Pendapatan Denda Retribusi Terminal - LO"
+    },
+    {
+        "code": "8.1.4.09.19",
+        "name": "Pendapatan Denda Retribusi Tempat Khusus Parkir - LO"
+    },
+    {
+        "code": "8.1.4.09.20",
+        "name": "Pendapatan Denda Retribusi Tempat Penginapan/ Pesanggrahan/ Villa - LO"
+    },
+    {
+        "code": "8.1.4.09.21",
+        "name": "Pendapatan Denda Retribusi Rumah Potong Hewan - LO"
+    },
+    {
+        "code": "8.1.4.09.22",
+        "name": "Pendapatan Denda Retribusi Pelayanan Kepelabuhan - LO"
+    },
+    {
+        "code": "8.1.4.09.23",
+        "name": "Pendapatan Denda Retribusi Tempat Rekreasi dan Olah raga- LO"
+    },
+    {
+        "code": "8.1.4.09.24",
+        "name": "Pendapatan Denda Retribusi Penyebrangan Air - LO"
+    },
+    {
+        "code": "8.1.4.09.25",
+        "name": "Pendapatan Denda Retribusi Penjualan Produksi Usaha Daerah - LO"
+    },
+    {
+        "code": "8.1.4.09.26",
+        "name": "Pendapatan Denda Retribusi Izin Mendirikan Bangunan - LO"
+    },
+    {
+        "code": "8.1.4.09.27",
+        "name": "Pendapatan Denda Retribusi Izin Tempat Penjualan Minuman Beralkohol - LO"
+    },
+    {
+        "code": "8.1.4.09.28",
+        "name": "Pendapatan Denda Retribusi Izin Gangguan - LO"
+    },
+    {
+        "code": "8.1.4.09.29",
+        "name": "Pendapatan Denda Retribusi Izin Trayek - LO"
+    },
+    {
+        "code": "8.1.4.09.30",
+        "name": "Pendapatan Denda Retribusi Izin Perikanan - LO"
+    },
+    {
+        "code": "8.1.4.09.31",
+        "name": "Pendapatan Denda Retribusi Pengendalian Lalu Lintas - LO"
+    },
+    {
+        "code": "8.1.4.09.32",
+        "name": "Pendapatan Denda Retribusi Perpanjangan Izin Mempekerjakan Tenaga Kerja Asing (IMTA) - LO"
+    },
+    {
+        "code": "8.1.4.10",
+        "name": "Pendapatan Denda Pemanfaatan Aset Daerah - LO"
+    },
+    {
+        "code": "8.1.4.10.01",
+        "name": "Pendapatan Denda Sewa Aset Daerah - LO"
+    },
+    {
+        "code": "8.1.4.10.02",
+        "name": "Pendapatan Denda Kerjasama Pemanfaatan Aset Daerah - LO"
+    },
+    {
+        "code": "8.1.4.10.03",
+        "name": "Pendapatan Denda Bangun Guna Serah - LO"
+    },
+    {
+        "code": "8.1.4.10.04",
+        "name": "Pendapatan Denda Bangun Serah Guna - LO"
+    },
+    {
+        "code": "8.1.4.11",
+        "name": "Pendapatan Denda Atas Pelanggaran Perda - LRA"
+    },
+    {
+        "code": "8.1.4.11.01",
+        "name": "Pendapatan Denda Atas Pelanggaran Perda - LRA"
+    },
+    {
+        "code": "8.1.4.11.02",
+        "name": "Dst ........................"
+    },
+    {
+        "code": "8.1.4.12",
+        "name": "Pendapatan Hasil Eksekusi atas Jaminan - LO"
+    },
+    {
+        "code": "8.1.4.12.01",
+        "name": "Hasil Eksekusi Atas Jaminan atas Pelaksanaan Pengadaan Barang/Jasa - LO"
+    },
+    {
+        "code": "8.1.4.12.02",
+        "name": "Hasil Eksekusi Atas Jaminan atas Pembongkaran Reklame - LO"
+    },
+    {
+        "code": "8.1.4.12.03",
+        "name": "Dst .............."
+    },
+    {
+        "code": "8.1.4.13",
+        "name": "Pendapatan dari Pengembalian -LO"
+    },
+    {
+        "code": "8.1.4.13.01",
+        "name": "Pendapatan dari Pengembalian Pajak Penghasilan Pasal 21 - LO"
+    },
+    {
+        "code": "8.1.4.13.02",
+        "name": "Pendapatan Dari Pengembalian Kelebihan Pembayaran Asuransi Kesehatan - LO"
+    },
+    {
+        "code": "8.1.4.13.03",
+        "name": "Pendapatan Dari Pengembalian Kelebihan Pembayaran Gaji dan Tunjangan - LO"
+    },
+    {
+        "code": "8.1.4.13.04",
+        "name": "Pendapatan Dari Pengembalian Kelebihan Pembayaran Perjalanan Dinas - LO"
+    },
+    {
+        "code": "8.1.4.13.05",
+        "name": "Dst .............."
+    },
+    {
+        "code": "8.1.4.14",
+        "name": "Fasilitas Sosial dan Fasilitas Umum - LO"
+    },
+    {
+        "code": "8.1.4.14.01",
+        "name": "Fasilitas Sosial - LO"
+    },
+    {
+        "code": "8.1.4.14.02",
+        "name": "Fasilitas Umum - LO"
+    },
+    {
+        "code": "8.1.4.14.03",
+        "name": "Dst .............."
+    },
+    {
+        "code": "8.1.4.15",
+        "name": "Pendapatan Penyelenggaraan Sekolah dan Diklat - LO"
+    },
+    {
+        "code": "8.1.4.15.01",
+        "name": "Pendapatan Penyelenggaraan Sekolah - LO"
+    },
+    {
+        "code": "8.1.4.15.02",
+        "name": "Pendapatan Penyelenggaraan Diklat - LO"
+    },
+    {
+        "code": "8.1.4.15.03",
+        "name": "Dst .............."
+    },
+    {
+        "code": "8.1.4.16",
+        "name": "Pendapatan dari Penyelenggaraan Pendidikan dan Pelatihan - LO"
+    },
+    {
+        "code": "8.1.4.16.01",
+        "name": "Uang Pendaftaran/Ujian Masuk - LO"
+    },
+    {
+        "code": "8.1.4.16.02",
+        "name": "Uang Sekolah/Pendidikan dan Pelatihan - LO"
+    },
+    {
+        "code": "8.1.4.16.03",
+        "name": "Uang Ujian Kenaikan Tingkat/Kelas - LO"
+    },
+    {
+        "code": "8.1.4.16.04",
+        "name": "Dst .............."
+    },
+    {
+        "code": "8.1.4.17",
+        "name": "Pendapatan dari Angsuran/Cicilan Penjualan - LO"
+    },
+    {
+        "code": "8.1.4.17.01",
+        "name": "Angsuran/Cicilan Penjualan Rumah Dinas Daerah Golongan III - LO"
+    },
+    {
+        "code": "8.1.4.17.02",
+        "name": "Angsuran/Cicilan Penjualan Kenderaan Perorangan Dinas - LO"
+    },
+    {
+        "code": "8.1.4.17.03",
+        "name": "Dst….."
+    },
+    {
+        "code": "8.1.4.18",
+        "name": "Hasil dari Pemanfaatan Kekayaan Daerah - LO"
+    },
+    {
+        "code": "8.1.4.18.01",
+        "name": "Hasil dari Pemanfaatan Kekayaan Daerah Sewa - LO"
+    },
+    {
+        "code": "8.1.4.18.02",
+        "name": "Hasil dari Pemanfaatan Kekayaan Daerah Kerjasama Pemanfaatan- LO"
+    },
+    {
+        "code": "8.1.4.18.03",
+        "name": "Hasil dari Pemanfaatan Kekayaan Daerah Bangun Guna Serah - LO"
+    },
+    {
+        "code": "8.1.4.18.04",
+        "name": "Hasil dari Pemanfaatan Kekayaan Daerah Bangun Serah Guna - LO"
+    },
+    {
+        "code": "8.1.4.19",
+        "name": "Pendapatan Zakat* - LO"
+    },
+    {
+        "code": "8.1.4.19.01",
+        "name": "Pendapatan Zakat*…... - LO"
+    },
+    {
+        "code": "8.1.4.19.02",
+        "name": "Dst .............."
+    },
+    {
+        "code": "8.1.4.20",
+        "name": "Pendapatan BLUD - LO"
+    },
+    {
+        "code": "8.1.4.20.01",
+        "name": "Pendapatan Jasa Layanan Umum BLUD - LO"
+    },
+    {
+        "code": "8.1.4.20.02",
+        "name": "Pendapatan Hibah BLUD - LO"
+    },
+    {
+        "code": "8.1.4.20.03",
+        "name": "Pendapatan Hasil Kerjasama BLUD - LO"
+    },
+    {
+        "code": "8.1.4.20.04",
+        "name": "Dst ................"
+    },
+    {
+        "code": "8.1.4.21",
+        "name": "Lain-lain PAD yang Sah Lainnya - LO"
+    },
+    {
+        "code": "8.1.4.21.01",
+        "name": "Lain-lain PAD yang Sah Lainnya - LO"
+    },
+    {
+        "code": "8.2",
+        "name": "PENDAPATAN TRANSFER - LO"
+    },
+    {
+        "code": "8.2.1",
+        "name": "Pendapatan Transfer Pemerintah Pusat -LO"
+    },
+    {
+        "code": "8.2.1.01",
+        "name": "Bagi Hasil Pajak - LO"
+    },
+    {
+        "code": "8.2.1.01.01",
+        "name": "Bagi Hasil dari Pajak Bumi dan Bangunan sektor Pertambangan - LO"
+    },
+    {
+        "code": "8.2.1.01.02",
+        "name": "Bagi Hasil dari Pajak Bumi dan Bangunan sektor Perkebunan - LO"
+    },
+    {
+        "code": "8.2.1.01.03",
+        "name": "Bagi Hasil dari Pajak Bumi dan Bangunan sektor Perhutanan - LO"
+    },
+    {
+        "code": "8.2.1.01.04",
+        "name": "Bagi Hasil dari Pajak Penghasilan (PPh) Pasal 25 dan Pasal 29 Wajib Pajak Orang Pribadi Dalam Negeri dan PPh Pasal 21 - LO"
+    },
+    {
+        "code": "8.2.1.01.05",
+        "name": "Bagi Hasil Cukai Hasil Tembakau - LO"
+    },
+    {
+        "code": "8.2.1.02",
+        "name": "Bagi Hasil Bukan Pajak/Sumber Daya Alam - LO"
+    },
+    {
+        "code": "8.2.1.02.01",
+        "name": "Bagi Hasil dari Iuran Hak Pengusahaan Hutan - LO"
+    },
+    {
+        "code": "8.2.1.02.02",
+        "name": "Bagi Hasil dari Provisi Sumber Daya Hutan - LO"
+    },
+    {
+        "code": "8.2.1.02.03",
+        "name": "Bagi Hasil dari Dana Reboisasi - LO"
+    },
+    {
+        "code": "8.2.1.02.04",
+        "name": "Bagi Hasil dari Iuran Tetap (Land-Rent) - LO"
+    },
+    {
+        "code": "8.2.1.02.05",
+        "name": "Bagi Hasil dari Iuran Eksplorasi dan Iuran Eksploitasi (Royalti) - LO"
+    },
+    {
+        "code": "8.2.1.02.06",
+        "name": "Bagi Hasil dari Pungutan Pengusahaan Perikanan - LO"
+    },
+    {
+        "code": "8.2.1.02.07",
+        "name": "Bagi Hasil dari Pungutan Hasil Perikanan - LO"
+    },
+    {
+        "code": "8.2.1.02.08",
+        "name": "Bagi Hasil dari Pertambangan Minyak Bumi - LO"
+    },
+    {
+        "code": "8.2.1.02.09",
+        "name": "Bagi Hasil dari Pertambangan Gas Bumi - LO"
+    },
+    {
+        "code": "8.2.1.02.10",
+        "name": "Bagi Hasil dari Pertambangan Panas Bumi - LO"
+    },
+    {
+        "code": "8.2.1.03",
+        "name": "Dana Alokasi Umum (DAU) - LO"
+    },
+    {
+        "code": "8.2.1.03.01",
+        "name": "Dana Alokasi Umum - LO"
+    },
+    {
+        "code": "8.2.1.04",
+        "name": "Dana Alokasi Khusus (DAK) - LO"
+    },
+    {
+        "code": "8.2.1.04.01",
+        "name": "DAK Bidang Infrastruktur Jalan - LO"
+    },
+    {
+        "code": "8.2.1.04.02",
+        "name": "DAK Bidang Infrastruktur Irigasi - LO"
+    },
+    {
+        "code": "8.2.1.04.03",
+        "name": "DAK Bidang Infrastruktur Air Minum - LO"
+    },
+    {
+        "code": "8.2.1.04.04",
+        "name": "DAK Bidang Infrastruktur Sanitasi- LO"
+    },
+    {
+        "code": "8.2.1.04.05",
+        "name": "DAK Bidang Keluarga Berencana - LO"
+    },
+    {
+        "code": "8.2.1.04.06",
+        "name": "DAK Bidang Kehutanan - LO"
+    },
+    {
+        "code": "8.2.1.04.07",
+        "name": "DAK Bidang Perumahan dan Kawasan Pemukiman - LO"
+    },
+    {
+        "code": "8.2.1.04.08",
+        "name": "DAK Bidang Kesehatan - LO"
+    },
+    {
+        "code": "8.2.1.04.09",
+        "name": "DAK Bidang Kelautan dan Perikanan - LO"
+    },
+    {
+        "code": "8.2.1.04.10",
+        "name": "DAK Bidang Prasarana Pemerintahan - LO"
+    },
+    {
+        "code": "8.2.1.04.11",
+        "name": "DAK Bidang Transportasi Perdesaan - LO"
+    },
+    {
+        "code": "8.2.1.04.12",
+        "name": "DAK Bidang Perdagangan - LO"
+    },
+    {
+        "code": "8.2.1.04.13",
+        "name": "DAK Bidang Lingkungan Hidup - LO"
+    },
+    {
+        "code": "8.2.1.04.14",
+        "name": "DAK Bidang Sarana dan Prasarana Daerah Tertinggal (SPDT) - LO"
+    },
+    {
+        "code": "8.2.1.04.15",
+        "name": "DAK Bidang Pertanian - LO"
+    },
+    {
+        "code": "8.2.1.04.16",
+        "name": "DAK Bidang Energi Pedesaan - LO"
+    },
+    {
+        "code": "8.2.1.04.17",
+        "name": "DAK Bidang Sarana dan Prasarana Kawasan Perbatasan - LO"
+    },
+    {
+        "code": "8.2.1.04.18",
+        "name": "DAK Bidang Pendidikan - LO"
+    },
+    {
+        "code": "8.2.1.04.19",
+        "name": "DAK Bidang Keselamatan Transportasi Darat - LO"
+    },
+    {
+        "code": "8.2.1.04.20",
+        "name": "Dst…………………"
+    },
+    {
+        "code": "8.2.2",
+        "name": "Pendapatan Transfer Pemerintah Pusat - Lainnya - LO"
+    },
+    {
+        "code": "8.2.2.01",
+        "name": "Dana Otonomi Khusus - LO"
+    },
+    {
+        "code": "8.2.2.01.01",
+        "name": "Dana Otonomi Khusus - LO"
+    },
+    {
+        "code": "8.2.2.01.02",
+        "name": "Dana Tambahan Infrastruktur- LO"
+    },
+    {
+        "code": "8.2.2.02",
+        "name": "Dana Keistimewaan - LO**"
+    },
+    {
+        "code": "8.2.2.02.01",
+        "name": "Dana Keistimewaan - LO"
+    },
+    {
+        "code": "8.2.2.03",
+        "name": "Dana Penyesuaian - LO"
+    },
+    {
+        "code": "8.2.2.03.01",
+        "name": "Tunjangan Profesi Guru PNSD - LO"
+    },
+    {
+        "code": "8.2.2.03.02",
+        "name": "Dana Tambahan Penghasilan Guru PNSD - LO"
+    },
+    {
+        "code": "8.2.2.03.03",
+        "name": "Dana Insentif Daerah - LO"
+    },
+    {
+        "code": "8.2.2.03.04",
+        "name": "Dana Proyek Pemerintah Daerah dan Desentralisasi Provinsi - LO"
+    },
+    {
+        "code": "8.2.2.03.05",
+        "name": "Bantuan Operasional Sekolah - LO***"
+    },
+    {
+        "code": "8.2.2.03.06",
+        "name": "Dst .............."
+    },
+    {
+        "code": "8.2.3",
+        "name": "Pendapatan Transfer Pemerintah Daerah Lainnya - LO"
+    },
+    {
+        "code": "8.2.3.01",
+        "name": "Pendapatan Bagi Hasil Pajak - LO"
+    },
+    {
+        "code": "8.2.3.01.01",
+        "name": "Pendapatan Bagi Hasil Pajak….. - LO"
+    },
+    {
+        "code": "8.2.3.01.02",
+        "name": "Dst ………………"
+    },
+    {
+        "code": "8.2.3.02",
+        "name": "Pendapatan Bagi hasil Lainnya - LO"
+    },
+    {
+        "code": "8.2.3.02.01",
+        "name": "Pendapatan Bagi hasil Lainnya…. - LO"
+    },
+    {
+        "code": "8.2.3.02.02",
+        "name": "Dst ………………"
+    },
+    {
+        "code": "8.2.3.03",
+        "name": "Pendapatan Dana Otonomi Khusus-LO"
+    },
+    {
+        "code": "8.2.3.03.01",
+        "name": "Pendapatan Dana Otonomi Khusus-LO"
+    },
+    {
+        "code": "8.2.4",
+        "name": "Bantuan Keuangan - LO"
+    },
+    {
+        "code": "8.2.4.01",
+        "name": "Bantuan Keuangan dari Pemerintah Daerah Provinsi Lainnya - LO"
+    },
+    {
+        "code": "8.2.4.01.01",
+        "name": "Bantuan Keuangan dari Pemerintah Daerah Provinsi …… - LO"
+    },
+    {
+        "code": "8.2.4.01.02",
+        "name": "Dst .............."
+    },
+    {
+        "code": "8.2.4.02",
+        "name": "Bantuan Keuangan dari Pemerintah Daerah Kabupaten - LO"
+    },
+    {
+        "code": "8.2.4.02.01",
+        "name": "Bantuan Keuangan dari Pemerintah Daerah Kabupaten ……..………….. - LO"
+    },
+    {
+        "code": "8.2.4.02.02",
+        "name": "Dst …."
+    },
+    {
+        "code": "8.2.4.03",
+        "name": "Bantuan Keuangan dari Pemerintah Daerah Kota - LRA"
+    },
+    {
+        "code": "8.2.4.03.01",
+        "name": "Bantuan Keuangan dari Pemerintah Daerah Kota ………………………. - LRA"
+    },
+    {
+        "code": "8.2.4.03.02",
+        "name": "Dst .............."
+    },
+    {
+        "code": "8.3",
+        "name": "LAIN-LAIN PENDAPATAN DAERAH YANG SAH - LO"
+    },
+    {
+        "code": "8.3.1",
+        "name": "Pendapatan Hibah - LO"
+    },
+    {
+        "code": "8.3.1.01",
+        "name": "Pendapatan Hibah dari Pemerintah - LO"
+    },
+    {
+        "code": "8.3.1.01.01",
+        "name": "Pendapatan Hibah dari Pemerintah - LO"
+    },
+    {
+        "code": "8.3.1.02",
+        "name": "Pendapatan Hibah dari Pemerintah Daerah Lainnya - LO"
+    },
+    {
+        "code": "8.3.1.02.01",
+        "name": "Pendapatan Hibah dari Pemerintah Daerah Lainnya - LO"
+    },
+    {
+        "code": "8.3.1.03",
+        "name": "Pendapatan Hibah dari Badan/Lembaga/Organisasi Swasta dalam Negeri - LO"
+    },
+    {
+        "code": "8.3.1.03.01",
+        "name": "Pendapatan Hibah dari Badan/Lembaga/Organisasi Swasta dalam Negeri…. - LO"
+    },
+    {
+        "code": "8.3.1.03.02",
+        "name": "Dst .............."
+    },
+    {
+        "code": "8.3.1.04",
+        "name": "Pendapatan Hibah dari kelompok masyarakat/perorangan - LO"
+    },
+    {
+        "code": "8.3.1.04.01",
+        "name": "Pendapatan Hibah dari kelompok masyarakat - LO"
+    },
+    {
+        "code": "8.3.1.04.02",
+        "name": "Pendapatan Hibah dari kelompok perorangan - LO"
+    },
+    {
+        "code": "8.3.2",
+        "name": "Dana Darurat - LO"
+    },
+    {
+        "code": "8.3.2.01",
+        "name": "Dana Darurat - LO"
+    },
+    {
+        "code": "8.3.2.01.01",
+        "name": "Korban/Kerusakan Akibat Bencana Alam - LO"
+    },
+    {
+        "code": "8.3.2.01.02",
+        "name": "Dst .............."
+    },
+    {
+        "code": "8.3.3",
+        "name": "Pendapatan Lainnya - LO"
+    },
+    {
+        "code": "8.3.3.01",
+        "name": "Pendapatan Lainnya - LO"
+    },
+    {
+        "code": "8.3.3.01.01",
+        "name": "Pendapatan Lainnya - LO"
+    },
+    {
+        "code": "8.3.3.01.02",
+        "name": "Dst .............."
+    },
+    {
+        "code": "8.4",
+        "name": "SURPLUS NON OPERASIONAL - LO"
+    },
+    {
+        "code": "8.4.1",
+        "name": "Surplus Penjualan Aset Non Lancar - LO"
+    },
+    {
+        "code": "8.4.1.01",
+        "name": "Surplus Penjualan Aset Non Lancar - LO"
+    },
+    {
+        "code": "8.4.1.01.01",
+        "name": "Surplus Penjualan Aset Tanah - LO"
+    },
+    {
+        "code": "8.4.1.01.02",
+        "name": "Surplus Penjualan Aset Peralatan dan Mesin - LO"
+    },
+    {
+        "code": "8.4.1.01.03",
+        "name": "Surplus Penjualan Aset Gedung dan Bangunan - LO"
+    },
+    {
+        "code": "8.4.1.01.04",
+        "name": "Surplus Penjualan Aset Non Lancar/Aset Tetap Lainnya - LO"
+    },
+    {
+        "code": "8.4.1.01.05",
+        "name": "Surplus Penjualan Aset Lain-lain - LO"
+    },
+    {
+        "code": "8.4.1.01.06",
+        "name": "Surplus Pelepasan Investasi Jangka Panjang - LO"
+    },
+    {
+        "code": "8.4.1.01.07",
+        "name": "Dst .............."
+    },
+    {
+        "code": "8.4.2",
+        "name": "Surplus Penyelesaian Kewajiban Jangka Panjang - LO"
+    },
+    {
+        "code": "8.4.2.01",
+        "name": "Surplus Penyelesaian Kewajiban Jangka Panjang - LO"
+    },
+    {
+        "code": "8.4.2.01.01",
+        "name": "Surplus Penyelesaian Utang Dalam Negeri Sektor Perbankan - LO"
+    },
+    {
+        "code": "8.4.2.01.02",
+        "name": "Surplus Penyelesaian Utang Dari Lembaga Keuangan Bukan Bank - LO"
+    },
+    {
+        "code": "8.4.2.01.03",
+        "name": "Surplus Penyelesaian Utang Dalam Negeri- Obligasi - LO"
+    },
+    {
+        "code": "8.4.2.01.04",
+        "name": "Surplus Penyelesaian Utang Pemerintah Pusat - LO"
+    },
+    {
+        "code": "8.4.2.01.05",
+        "name": "Surplus Penyelesaian Utang Pemerintah Provinsi - LO"
+    },
+    {
+        "code": "8.4.2.01.06",
+        "name": "Surplus Penyelesaian Utang Pemerintah Kabupaten/Kota - LO"
+    },
+    {
+        "code": "8.4.2.01.07",
+        "name": "Surplus Penyelesaian Premium (Diskonto) Obligasi - LO"
+    },
+    {
+        "code": "8.4.2.01.08",
+        "name": "Dst .............."
+    },
+    {
+        "code": "8.4.3",
+        "name": "Surplus dari Kegiatan Non Operasional Lainnya - LO"
+    },
+    {
+        "code": "8.4.3.01",
+        "name": "Surplus dari Kegiatan Non Operasional Lainnya - LO"
+    },
+    {
+        "code": "8.4.3.01.01",
+        "name": "Surplus dari Kegiatan Non Operasional Lainnya - LO"
+    },
+    {
+        "code": "8.4.3.01.02",
+        "name": "Surplus Pelepasan Investasi Jangka Pendek- LO"
+    },
+    {
+        "code": "8.4.3.01.03",
+        "name": "Dst .........................."
+    },
+    {
+        "code": "8.5",
+        "name": "PENDAPATAN LUAR BIASA - LO"
+    },
+    {
+        "code": "8.5.1",
+        "name": "Pendapatan Luar Biasa - LO"
+    },
+    {
+        "code": "8.5.1.01",
+        "name": "Pendapatan Pos Luar Biasa - LO"
+    },
+    {
+        "code": "8.5.1.01.01",
+        "name": "Pendapatan Pos Luar Biasa - LO"
+    }
+]
